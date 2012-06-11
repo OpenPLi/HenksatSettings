@@ -2089,7 +2089,7 @@ Comedy Central Polska.
 p:MTV Networks Europe
 001e:00c00000:0001:0085:1:0
 Sky Sport Austria
-p:SKY,c:0005ff,c:010600,c:020020,c:0305ff,C:1861
+p:SKY,C:1861
 001e:0082accf:0578:013e:1:0
 Nick Jr.
 p:Harmonic
@@ -3482,6 +3482,9 @@ p:BetaDigital
 013f:00820000:157c:013e:1:0
 MEGA
 p:NetMed
+073f:0082accf:0578:013e:1:0
+Italiamia
+p:Harmonic,f:40
 123f:00820000:2b5c:013e:1:0
 Saamen TV
 p:Arqiva
@@ -3521,6 +3524,9 @@ p:NetMed
 0540:00820000:251c:fbff:1:0
 Primafila 11 HD
 p:SkyItalia,c:0000a3,c:0300a3,C:09cd,C:093b,C:0919
+0740:0082accf:0578:013e:1:0
+ARTE OGGI TV
+p:Harmonic,f:40
 1340:00820000:33f4:013e:1:0
 ERDE UND MENSCH
 p:Telespazio
@@ -3551,6 +3557,9 @@ p:NetMed
 0541:00820000:251c:fbff:1:0
 Primafila 13 HD
 p:SkyItalia
+0741:0082accf:0578:013e:1:0
+ASO SAT
+p:Harmonic,f:40
 1241:00820000:2b5c:013e:1:0
 RTB Virgilio
 p:Arqiva
@@ -6772,7 +6781,7 @@ Class CNBC
 p:SkyItalia
 1299:00820000:3458:013e:1:0
 FREE XTV
-p:RRSat,f:40
+p:RRSat,c:00080d,c:010bf5,c:03080d,C:0500,f:40
 1299:00c00000:03f7:0001:1:0
 Club1 TV
 p:BetaDigital
@@ -6799,7 +6808,7 @@ ALHAQIQA
 p:ART
 129a:00820000:3458:013e:1:0
 French Lover
-p:RRSat,f:40
+p:RRSat,c:00080e,c:010bf6,c:03080e,C:0500,f:40
 129a:00c00000:03f7:0001:1:0
 Liebesglück.TV
 p:BetaDigital
@@ -9448,7 +9457,7 @@ p:,c:0000df,c:0100e9,c:02011b,c:0300df
 p:RTL World,c:0000a3,c:010068,c:020069,c:0300a3
 31e3:00c00000:045f:0035:1:0
 VTM
-p:TV Vlaanderen,c:0003ad,c:010399,c:020385,c:031ffe,C:1819,C:1818,C:0500,C:0100
+p:TV Vlaanderen,c:0003ad,c:010399,c:020385,c:031ffe,C:0500,C:0100
 34e3:00820000:3c28:013e:1:0
 !Elhob
 p:Phabvision
@@ -9637,7 +9646,7 @@ Boomerang +1
 p:SkyItalia
 31e9:00c00000:045f:0035:1:0
 Vitaya
-p:TV Vlaanderen,c:0003b3,c:01039f,c:02038b,c:031ffe,C:1819,C:1818,C:0500,C:0100
+p:TV Vlaanderen,c:0003b3,c:01039f,c:02038b,c:031ffe,C:0500,C:0100
 35e9:00820000:00c8:013e:1:0
 ESP2 Int'l
 p:Eutelsat
@@ -13894,7 +13903,7 @@ DISNEY MAGIC HD
 p:CSAT
 006c:00c00000:000c:0085:25:0
 Sky Sport News HD
-p:SKY,c:0003ff,c:020020,c:0303ff,c:040403,c:050001,C:1861
+p:SKY,C:1861
 106c:00820000:2008:fbff:25:0
 Cinema Hits HD
 p:SkyItalia
@@ -15789,4 +15798,4 @@ p:SkyItalia
 ikusi
 p:SkyItalia
 end
-Edited with dreamboxEDIT 5.0.0.3 on 06jun2012 14:48:24
+Edited with dreamboxEDIT 5.0.0.3 on 12jun2012 00:10:23
