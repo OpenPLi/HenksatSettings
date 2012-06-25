@@ -1,0 +1,21 @@
+#NAME Bouquets (Radio)
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.favourites.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe01.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe00.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe0f.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe0c.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe04.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe09.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe06.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe07.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe0a.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe10.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe08.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe0d.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe03.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe05.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe0b.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe0e.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe11.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe12.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.dbe02.radio
