@@ -1,28 +1,16 @@
 eDVB services /4/
 transponders
-00eb0000:0001:0003
-	s 11659000:3333000:0:0:235:2:0
-/
-00eb0000:0bc4:0003
-	s 11691000:3333000:1:0:235:2:0
-/
 00eb0000:0bc6:0003
 	s 12525000:27500000:1:3:235:2:0
 /
-00eb0000:0bc7:0003
-	s 12565000:27500000:0:0:235:2:0
-/
 00eb0000:0c81:0003
-	s 11719500:28200000:0:9:235:2:0:1:2:1:2
+	s 11720000:28200000:0:4:235:2:0:1:2:0:2
 /
 00eb0000:0c82:0003
-	s 11739000:27500000:1:4:235:2:0:1:1:0:2
-/
-00eb0000:0c83:0003
-	s 12725000:28200000:0:6:235:2:0:1:2:0:2
+	s 11739000:27500000:1:3:235:2:0
 /
 00eb0000:0c84:0003
-	s 11778000:27500000:1:9:235:2:0:1:1:0:2
+	s 11778000:27500000:1:9:235:2:0:1:1:2:2
 /
 00eb0000:0c85:0003
 	s 11797500:27500000:0:3:235:2:0:1:2:0:2
@@ -48,14 +36,8 @@ transponders
 00eb0000:0c8c:0003
 	s 11934000:27500000:1:3:235:2:0:1:2:2:2
 /
-00eb0000:0c8d:0003
-	s 11954000:27500000:0:4:235:2:0:1:2:0:2
-/
 00eb0000:0c8e:0003
 	s 11973000:27500000:1:4:235:2:0
-/
-00eb0000:0c8f:0003
-	s 11992000:27500000:0:3:235:2:0
 /
 00eb0000:0c91:0003
 	s 12032000:27500000:0:9:235:2:0:1:1:0:2
@@ -84,9 +66,6 @@ transponders
 00eb0000:0c9a:0003
 	s 12207000:27500000:1:3:235:2:0:1:2:0:2
 /
-00eb0000:0c9d:0003
-	s 12265500:28200000:0:4:235:2:0:1:2:1:2
-/
 00eb0000:0c9f:0003
 	s 12304500:27500000:0:4:235:2:0:1:2:1:2
 /
@@ -95,9 +74,6 @@ transponders
 /
 00eb0000:0ca3:0003
 	s 12382500:30000000:0:6:235:2:0:1:2:1:2
-/
-00eb0000:1389:0003
-	s 11325000:22000000:0:0:235:2:0
 /
 00eb0000:7989:0003
 	s 12525000:27500000:0:4:235:2:0:1:2:1:2
@@ -111,87 +87,15 @@ transponders
 00eb0000:7993:0003
 	s 12725000:30000000:0:6:235:2:0:1:2:1:2
 /
-00eb0000:271b:0085
-	s 11555000:28500000:1:9:235:2:0:1:1:0:2
-/
-00eb0000:00a0:00eb
-	s 11677000:3655000:0:0:235:2:0:1:1:0:2
-/
-00eb0000:2711:f001
-	s 11595000:28500000:0:9:235:2:0:1:1:0:2
-/
-00eb0000:2712:f001
-	s 11595000:28500000:1:9:235:2:0:1:1:0:2
-/
-00eb0000:2713:f001
-	s 11635000:28500000:0:9:235:2:0:1:1:0:2
-/
-00eb0000:2714:f001
-	s 12605000:28500000:1:9:235:2:0:1:1:0:2
-/
-00eb0000:2715:f001
-	s 12605000:28500000:0:9:235:2:0:1:1:0:2
-/
-00eb0000:2716:f001
-	s 11635000:28500000:1:9:235:2:0:1:1:0:2
-/
-00eb0000:2717:f001
-	s 11515000:28500000:1:9:235:2:0:1:1:0:2
-/
-00eb0000:2718:f001
-	s 11555000:28500000:0:9:235:2:0:1:1:0:2
-/
-00eb0000:2719:f001
-	s 11475000:27500000:1:0:235:2:0
-/
-00eb0000:271a:f001
-	s 12725000:27500000:1:0:235:2:0
-/
-00eb0000:271c:f001
-	s 11675000:28500000:1:9:235:2:0:1:1:0:2
-/
-00eb0000:271d:f001
-	s 12565000:28500000:1:9:235:2:0:1:1:0:2
-/
-00ebb172:0014:0002
-	s 12658000:2277000:1:0:235:2:0
-/
-00ebb17c:0001:ffff
-	s 12668000:2400000:1:3:235:2:0:1:2:0:2
-/
-00ebb182:0001:ffff
-	s 12674000:2400000:1:3:235:2:0:1:2:0:2
-/
-00ebb189:0001:ffff
-	s 12681000:7200000:1:3:235:2:0:1:2:0:2
-/
-00ebb193:0001:ffff
-	s 12691000:4800000:1:3:235:2:0:1:2:0:2
-/
-00ebb1ad:0001:ffff
-	s 12717000:4937000:1:3:235:2:0:1:2:0:2
-/
-00ebb1b3:0001:ffff
-	s 12723000:4937000:1:3:235:2:0:1:2:0:2
-/
 end
 services
 1d07:00eb0000:0c81:0003:0:0
 
 p:,c:031600
-1d07:00eb0000:0c9d:0003:0:0
-
-p:
-1d11:00eb0000:0c83:0003:0:0
-
-p:
 1d11:00eb0000:7993:0003:0:0
 
 p:
 1d1b:00eb0000:7989:0003:0:0
-
-p:
-1d1b:00eb0000:0c8d:0003:0:0
 
 p:
 1d25:00eb0000:798f:0003:0:0
@@ -215,189 +119,33 @@ p:
 3700:00eb0000:0c8c:0003:1:0
 CT HD
 p:MEDIA BROADCAST
-d100:00eb0000:2711:f001:1:0
-Kanal 7 (türk)
-p:Türkisch,C:1801,C:1722
-0001:00ebb17c:0001:ffff:1:0
-CZE 021
-p:CTV
-0001:00ebb182:0001:ffff:1:0
-CZE 024
-p:CTV
-0001:00ebb189:0001:ffff:1:0
-TIMB Service 15Mbps
-p:TIMB TV
-0001:00ebb193:0001:ffff:1:0
-Service Name
-p:Service Provider
-0001:00ebb1ad:0001:ffff:1:0
-WDR FU3 ENC1
-p:EricssonTV
-0001:00ebb1b3:0001:ffff:1:0
-WDR FU3 ENC1
-p:EricssonTV
-0001:00ebb172:0014:0002:1:0
-K-TV
-p:T-Systems
-0001:00eb0000:00a0:00eb:1:0
-VRT BEL-089
-p:,c:000200,c:011010,c:030200,c:050001
-d101:00eb0000:2715:f001:1:0
-Rai 1 (itl)
-p:Italienisch,C:1801,C:1722
-d102:00eb0000:2714:f001:1:0
-Rai 2 (itl)
-p:Italienisch,C:1801,C:1722
-d103:00eb0000:2714:f001:1:0
-Rai 3 (itl)
-p:Italienisch,C:1801,C:1722
-d104:00eb0000:2719:f001:1:0
-TVEi (span)
-p:Div. Sprachen,C:1801,C:1722
-d105:00eb0000:2719:f001:1:0
-Canal 24 Horas
-p:Div. Sprachen,C:1801,C:1722
-0e06:00eb0000:0c8e:0003:1:0
-DW09
-p:MEDIA BROADCAST
-d106:00eb0000:2711:f001:1:0
-LiG TV (türk)
-p:Türkisch,C:1801,C:1722
-d107:00eb0000:2713:f001:1:0
-Turkmax (türk)
-p:Türkisch,C:1801,C:1722
-d108:00eb0000:2714:f001:1:0
-CH1 Russia (rus)
-p:Russisch,C:1801,C:1722
-cf09:00eb0000:2718:f001:1:0
-BBC World News (engl)
-p:Digital Free,C:1801,C:1722
-d109:00eb0000:271a:f001:1:0
-Disney Junior (engl)
-p:Englisch,C:1801,C:1722
-000a:00eb0000:0c8e:0003:1:0
-Ch1 BT
-p:MEDIA BROADCAST
-cf0a:00eb0000:2718:f001:1:0
-Tele 5
-p:Digital Free,C:1801,C:1722
-d10a:00eb0000:2711:f001:1:0
-Channel21
-p:Digital Free,C:1801,C:1722
-d10b:00eb0000:2715:f001:1:0
-ERF eins
-p:Digital Free,C:1801,C:1722
-c60c:00eb0000:2712:f001:1:0
-sixx
-p:Digital Free,C:1801,C:1722
-cf0c:00eb0000:2717:f001:1:0
-Bloomberg
-p:Digital Free,C:1801,C:1722
-c60d:00eb0000:2715:f001:1:0
-MTV
-p:KD Home,C:1801,C:1722
-cf0d:00eb0000:2717:f001:1:0
-MTV
-p:Digital Free,C:1722,C:1801
-d10d:00eb0000:2719:f001:1:0
-France 2 (frz)
-p:Digital Free,C:1801,C:1722
-cf0e:00eb0000:2717:f001:1:0
-NICK/COMEDY CENTRAL
-p:Digital Free,C:1801,C:1722
-d10e:00eb0000:2716:f001:1:0
-France 3 (frz)
-p:Digital Free,C:1722,C:1801
-d10e:00eb0000:2719:f001:1:0
-France 3 (frz)
-p:Digital Free,C:1801,C:1722
-370f:00eb0000:0c8e:0003:1:0
-HBBTV 1
-p:MEDIA BROADCAST
-c60f:00eb0000:2712:f001:1:0
-MTV Dance
-p:KD Home,C:1801,C:1722
-cf0f:00eb0000:2717:f001:1:0
-TV 5 Monde (frz)
-p:Digital Free,C:1801,C:1722
-3710:00eb0000:0c8e:0003:1:0
-HBBTV 2
-p:MEDIA BROADCAST
-c610:00eb0000:2712:f001:1:0
-MTV Hits
-p:KD Home,C:1801,C:1722
-3711:00eb0000:0c8e:0003:1:0
-HBBTV 3
-p:MEDIA BROADCAST
-c611:00eb0000:2715:f001:1:0
-Nick Jr.
-p:KD Home,C:1801,C:1722
 3712:00eb0000:0c8e:0003:1:0
 MB-HBB
 p:MEDIA BROADCAST
-c612:00eb0000:2712:f001:1:0
-Cartoon Network (engl)
-p:Englisch,C:1801,C:1722
-cf12:00eb0000:2712:f001:1:0
-Eurosport 2
-p:Digital Free,C:1801,C:1722
 3713:00eb0000:0c8e:0003:1:0
 MB LOGO
-p:MEDIA BROADCAST
-c613:00eb0000:2712:f001:1:0
-Lust Pur
-p:KD Home,C:1801,C:1722
-0014:00eb0000:0c8e:0003:1:0
-Ch2 BPK + KT
 p:MEDIA BROADCAST
 1414:00eb0000:0c8a:0003:1:0
 History channel DUT
 p:Skylink
-c614:00eb0000:2712:f001:1:0
-National Geographic
-p:KD Home,C:1801,C:1722
 1415:00eb0000:0c8a:0003:1:0
 duck tv DUT
-p:Skylink,c:000fb2,c:010fbc,c:030fb2,C:1818,C:1817,C:0d96,C:0624,C:0500,C:0100
-c615:00eb0000:2712:f001:1:0
-Disney Junior
-p:KD Home,C:1801,C:1722
+p:Skylink
 1416:00eb0000:0c8a:0003:1:0
 Viasat Explorer/Spice BG
 p:SatelliteBG
-c616:00eb0000:2719:f001:1:0
-CNBC Europe (engl)
-p:Digital Free,C:1801,C:1722
 1417:00eb0000:0c8a:0003:1:0
 Viasat History BG
 p:SatelliteBG
-c617:00eb0000:2712:f001:1:0
-Cartoon Network
-p:KD Home,C:1801,C:1722
-cf17:00eb0000:2719:f001:1:0
-Kabel Digital Info
-p:Digital Free,C:1801,C:1722
 1418:00eb0000:0c8a:0003:1:0
 Viasat Nature BG
 p:SatelliteBG
-1518:00eb0000:0c86:0003:1:0
-Boomerang
-p:SatelliteBG
-c618:00eb0000:2712:f001:1:0
-TNT Film
-p:KD Home,C:1801,C:1722
 1419:00eb0000:0c8a:0003:1:0
 NG Wild DUT
-p:Skylink,c:000fac,c:010fc0,c:02101a,c:030fac,c:09101a8800,C:1818,C:1817,C:0d96,C:0624,C:0500,C:0100
+p:Skylink
 1519:00eb0000:0c86:0003:1:0
 BNT2
-p:SatelliteBG,c:0000c9,c:01012d,c:030064,C:091f,C:0b01,C:0d06
-c619:00eb0000:2712:f001:1:0
-The Biography Channel
-p:KD Home,C:1801,C:1722
-0e1a:00eb0000:0c8e:0003:1:0
-DW-FM01
-p:MEDIA BROADCAST
+p:SatelliteBG
 141a:00eb0000:0c8a:0003:1:0
 duck tv BG
 p:SatelliteBG
@@ -413,33 +161,12 @@ p:SatelliteBG
 151c:00eb0000:0c86:0003:1:0
 City TV
 p:SatelliteBG
-151d:00eb0000:0c86:0003:1:0
-Travel
-p:SatelliteBG
-001e:00eb0000:0c8e:0003:1:0
-Ch3 BR
-p:MEDIA BROADCAST
-151e:00eb0000:0c86:0003:1:0
-Nat Geographic
-p:SatelliteBG
-151f:00eb0000:0c86:0003:1:0
-Diema
-p:SatelliteBG
-1520:00eb0000:0c86:0003:1:0
-Diema 2
-p:SatelliteBG
-1521:00eb0000:0c86:0003:1:0
-Diema Family
-p:SatelliteBG
 1522:00eb0000:0c86:0003:1:0
 Planeta HD
 p:SatelliteBG
 1523:00eb0000:0c86:0003:1:0
 EroXX HD
 p:SatelliteBG
-0e24:00eb0000:0c8e:0003:1:0
-DW-FM02
-p:MEDIA BROADCAST
 1524:00eb0000:0c86:0003:1:0
 EroXXX HD
 p:SatelliteBG
@@ -452,255 +179,117 @@ p:SatelliteBG
 1527:00eb0000:0c86:0003:1:0
 FilmBOX HD
 p:SatelliteBG
-0028:00eb0000:0c8e:0003:1:0
-Ch4 MAZ
-p:MEDIA BROADCAST
 1528:00eb0000:0c86:0003:1:0
 Filmbox Action HD
 p:SatelliteBG
 1529:00eb0000:0c86:0003:1:0
 DocuBOX HD
 p:SatelliteBG
-2329:00eb0000:0c8f:0003:1:0
-Filmbox
-p:Skylink
 152a:00eb0000:0c86:0003:1:0
 FashionBOX HD
 p:SatelliteBG
-232a:00eb0000:0c8f:0003:1:0
-JIM JAM DUT
-p:Skylink,c:00019d,c:0106b1,c:02087d,c:03019d,c:050002,C:0500,C:0100
-232b:00eb0000:0c8f:0003:1:0
-FILMBOX EXTRA
-p:Skylink
 152c:00eb0000:0c86:0003:1:0
 BNT1 HD
 p:SatelliteBG
-232c:00eb0000:0c8f:0003:1:0
-Public TV
-p:CS Link
 332c:00eb0000:0c89:0003:1:0
 CSFilm/CSMini
 p:Skylink
-232d:00eb0000:0c8f:0003:1:0
-Leo TV
-p:CS Link
 332d:00eb0000:0c89:0003:1:0
 Sport 5
 p:Skylink
-0e2e:00eb0000:0c8e:0003:1:0
-DW-FM03
-p:MEDIA BROADCAST
-232e:00eb0000:0c8f:0003:1:0
-Spektrum
-p:CS Link
 332e:00eb0000:0c89:0003:1:0
 Film+
-p:Skylink
-232f:00eb0000:0c8f:0003:1:0
-Viasat Explorer / Spice
-p:Skylink
-332f:00eb0000:0c89:0003:1:0
-DoQ
-p:CS Link
-2330:00eb0000:0c8f:0003:1:0
-Viasat History
 p:Skylink
 3330:00eb0000:0c89:0003:1:0
 HBO
 p:Skylink
-5230:00eb0000:0c99:0003:1:0
-13thStreet
-p:Canaldigitaal,c:000206,c:010056,c:020026,c:030206,c:050001,C:1818,C:1817,C:0500,C:0100
-2331:00eb0000:0c8f:0003:1:0
-JIM JAM
-p:Skylink
 3331:00eb0000:0c89:0003:1:0
 Eurosport CZ
-p:Skylink
-3332:00eb0000:0c89:0003:1:0
-Prima family HD Preladte
-p:Skylink
-2333:00eb0000:0c8f:0003:1:0
-MGM
 p:Skylink
 3333:00eb0000:0c89:0003:1:0
 Discovery
 p:Skylink
-2334:00eb0000:0c8f:0003:1:0
-Viasat Nature
-p:Skylink
 3334:00eb0000:0c89:0003:1:0
 Fishing and Hunting
 p:Skylink
-2335:00eb0000:0c8f:0003:1:0
-Minimax
-p:CS Link
 3335:00eb0000:0c89:0003:1:0
 HBO 2
 p:Skylink
-d035:00eb0000:2713:f001:1:0
-History
-p:KD Home,c:0001ff,c:010200,c:0301ff,C:1801,C:1722
-2336:00eb0000:0c8f:0003:1:0
-Disney Channel
-p:CS Link
 3336:00eb0000:0c89:0003:1:0
 Disney Channel
-p:Skylink,c:000ba1,c:010ba2,c:030ba1,C:0d96,C:0d70,C:0d0f,C:0d03,C:0666,C:0624
-d036:00eb0000:2713:f001:1:0
-Bon Gusto
-p:KD Home,C:1801,C:1722
-2337:00eb0000:0c8f:0003:1:0
-Universal Channel
-p:CS Link
+p:Skylink
 3337:00eb0000:0c89:0003:1:0
 Minimax
 p:Skylink
-0e38:00eb0000:0c8e:0003:1:0
-DW-FM04
-p:MEDIA BROADCAST
-2338:00eb0000:0c8f:0003:1:0
-Viasat Explorer BG
-p:SatelliteBG
-3338:00eb0000:0c89:0003:1:0
-Prima COOL PRELADTE
-p:Skylink
-2339:00eb0000:0c8f:0003:1:0
-Viasat History BG
-p:SatelliteBG
 3339:00eb0000:0c89:0003:1:0
 Cinemax
 p:Skylink
-233a:00eb0000:0c8f:0003:1:0
-Viasat Nature BG
-p:SatelliteBG
-333a:00eb0000:0c89:0003:1:0
-AXN Crime
-p:CS Link
-d03a:00eb0000:2719:f001:1:0
-Pro TV / TVR (rum)
-p:Digital Free,C:1801,C:1722
 333b:00eb0000:0c89:0003:1:0
 Private Spice
-p:Skylink,c:000bf0,c:010bf1,c:030bf0,c:050002,C:0d96,C:0d70,C:0d0f,C:0d03,C:0666,C:0624
+p:Skylink
 333c:00eb0000:0c89:0003:1:0
 Private Spice DUT
-p:Skylink,c:000bf0,c:010bf1,c:030bf0,c:050002,C:1818,C:1817,C:0624,C:0500,C:0100
+p:Skylink
 333d:00eb0000:0c89:0003:1:0
 Universal Channel
 p:Skylink
 333e:00eb0000:0c89:0003:1:0
 Spektrum
 p:Skylink
-d03e:00eb0000:2713:f001:1:0
-Animax
-p:KD Home,C:1801,C:1722
 333f:00eb0000:0c89:0003:1:0
 Leo TV
 p:Skylink
 1f41:00eb0000:0bc6:0003:1:0
 CT 1 JM
 p:Skylink
-1f41:00eb0000:0bc7:0003:1:0
-Markiza
-p:Skylink
 1f42:00eb0000:0bc6:0003:1:0
 Prima family
 p:Skylink
-1f42:00eb0000:0bc7:0003:1:0
-STV1
-p:Skylink
-5142:00eb0000:0c8b:0003:1:0
-L1MBURG
-p:CANALDIGITAAL,c:000200,c:010050,c:020020,c:030200,c:050001,C:0100
 1f43:00eb0000:0bc6:0003:1:0
 CT 1
 p:Skylink
-1f43:00eb0000:0bc7:0003:1:0
-STV2
-p:Skylink
 1f44:00eb0000:0bc6:0003:1:0
-CT2
+CT 2
 p:Skylink
-1f44:00eb0000:0bc7:0003:1:0
-STV3
-p:Skylink
-5144:00eb0000:0c8b:0003:1:0
-TV Rijnmond
-p:CANALDIGITAAL,c:000201,c:010052,c:020022,c:030201,c:050001,C:0100
 1f45:00eb0000:0bc6:0003:1:0
 CT 1 SM
 p:Skylink
-1f45:00eb0000:0bc7:0003:1:0
-DOMA
-p:Skylink
-0e46:00eb0000:0c8e:0003:1:0
-DW-FM06
-p:MEDIA BROADCAST
 1f46:00eb0000:0bc6:0003:1:0
 CT 24
 p:Skylink
-5146:00eb0000:0c8b:0003:1:0
-TV Noord-Holland
-p:CANALDIGITAAL,c:000202,c:010054,c:020024,c:030202,c:050001,C:0100
 1f47:00eb0000:0bc6:0003:1:0
 CT 4
 p:Skylink
-d047:00eb0000:271a:f001:1:0
-Iran Music/pdf Channel
-p:Digital Free,C:1801,C:1722
 1f48:00eb0000:0bc6:0003:1:0
 Noe TV
 p:Skylink
 5148:00eb0000:0c8b:0003:1:0
 Omrop Fryslan Televisie
-p:CANALDIGITAAL,c:000203,c:010056,c:020026,c:031ffe
-d048:00eb0000:2715:f001:1:0
-TNT Serie (engl)
-p:Englisch,C:1801,C:1722
-d049:00eb0000:271a:f001:1:0
-Sky News (engl)
-p:Digital Free,c:000673,c:010674,c:030673,C:1801,C:1722
-0e4a:00eb0000:0c8e:0003:1:0
-DW-FM07
-p:MEDIA BROADCAST
+p:CANALDIGITAAL
 334a:00eb0000:0c93:0003:1:0
 Filmbox
 p:Skylink
 514a:00eb0000:0c8b:0003:1:0
 TV Noord
-p:CANALDIGITAAL,c:000204,c:010058,c:020028,c:031ffe
-d04a:00eb0000:2719:f001:1:0
-ANN / Tunisie 1 (ara)
-p:Digital Free,c:000a0b,c:010a0c,c:030a0b,C:1801,C:1722
+p:CANALDIGITAAL
 334b:00eb0000:0c93:0003:1:0
 Filmbox Plus
 p:Skylink
 334c:00eb0000:0c93:0003:1:0
 JIM JAM
 p:Skylink
-514c:00eb0000:0c8b:0003:1:0
-TV Drenthe
-p:CANALDIGITAAL,c:000205,c:01005a,c:02002a,c:031ffe,c:050001
 334d:00eb0000:0c93:0003:1:0
 Sport 1
 p:Skylink
-d04d:00eb0000:271a:f001:1:0
-Info RU.tv / FMC (rus)
-p:Digital Free,C:1801,C:1722
-0e4e:00eb0000:0c8e:0003:1:0
-DW-FEED1
-p:MEDIA BROADCAST
 334e:00eb0000:0c93:0003:1:0
 Sport 2
 p:Skylink
 514e:00eb0000:0c8b:0003:1:0
 TV Oost
-p:CANALDIGITAAL,c:000206,c:01005c,c:02002c,c:031ffe
+p:CANALDIGITAAL
 334f:00eb0000:0c93:0003:1:0
 JIM JAM DUT
-p:Skylink,c:000c21,c:010c25,c:020c26,c:030c21,c:050002,C:1818,C:1817,C:0d96,C:0624,C:0500,C:0100
+p:Skylink
 1450:00eb0000:0c98:0003:1:0
 Nova Service
 p:SES ASTRA
@@ -713,15 +302,9 @@ p:SES ASTRA
 3351:00eb0000:0c93:0003:1:0
 Prima COOL
 p:Skylink
-1452:00eb0000:0c98:0003:1:0
-AFTV
-p:SES ASTRA
 3352:00eb0000:0c93:0003:1:0
 Nova
 p:Skylink
-5152:00eb0000:0c8b:0003:1:0
-Omroep Zeeland Televisie
-p:CANALDIGITAAL,c:000208,c:010060,c:020030,c:031ffe,c:050001
 1453:00eb0000:0c98:0003:1:0
 regionalnitelevize.cz
 p:SES ASTRA
@@ -734,9 +317,6 @@ p:SES ASTRA
 3354:00eb0000:0c93:0003:1:0
 MTV CZ
 p:Skylink
-5154:00eb0000:0c8b:0003:1:0
-Omroep Brabant Televisie
-p:CANALDIGITAAL,c:000209,c:010062,c:020032,c:031ffe,c:050001,C:1817,C:0100
 1455:00eb0000:0c98:0003:1:0
 SES-LCN2
 p:SES ASTRA
@@ -745,256 +325,64 @@ Prima Love
 p:Skylink
 5156:00eb0000:0c8b:0003:1:0
 AXN CS
-p:CANALDIGITAAL,c:00020a,c:010064,c:020034,c:031ffe,C:0d96,C:0d70,C:0d03,C:0624,C:0500,C:0100
-0457:00eb0000:1389:0003:1:0
-RTL TeleLetz
-p:BCE
+p:CANALDIGITAAL
 5157:00eb0000:0c8b:0003:1:0
 AXN Crime CS
 p:CANALDIGITAAL
 5158:00eb0000:0c8b:0003:1:0
 AXN SciFi CS
-p:CANALDIGITAAL,c:00020b,c:010066,c:031ffe,C:0100
+p:CANALDIGITAAL
 145a:00eb0000:0c98:0003:1:0
 DanceTrippin
 p:SES ASTRA
-c75b:00eb0000:271a:f001:1:0
-PhoCNE / VTV4
-p:Digital Free,C:1801,C:1722
-335e:00eb0000:0c93:0003:1:0
-COUNTRY RADIO
-p:CS Link
-025f:00eb0000:0c8e:0003:1:0
-DW-TV EUROPA
-p:MEDIA BROADCAST
-335f:00eb0000:0c93:0003:1:0
-Beat M
-p:CS Link
-c75f:00eb0000:271a:f001:1:0
-Duna TV / Caspio
-p:Digital Free,C:1801,C:1722
 3360:00eb0000:0c93:0003:1:0
 Eurosport 2
 p:Skylink
-c761:00eb0000:271a:f001:1:0
-BN Sat (scr)
-p:Digital Free,C:1801,C:1722
-d161:00eb0000:2717:f001:1:0
-RTL Television
-p:Digital Free,C:1801,C:1722
-0262:00eb0000:0c8e:0003:1:0
-HB-FEED
-p:MEDIA BROADCAST
-d162:00eb0000:2717:f001:1:0
-Super RTL
-p:Digital Free,C:1801,C:1722
-d163:00eb0000:2717:f001:1:0
-RTL II
-p:Digital Free,C:1801,C:1722
 1464:00eb0000:0c98:0003:1:0
 Chamber TV
 p:SES ASTRA
-d164:00eb0000:2717:f001:1:0
-VOX
-p:Digital Free,C:1801,C:1722
-0065:00eb0000:0001:0003:1:0
-CARRIER ID DEMO
-p:SES
-0065:00eb0000:0bc4:0003:1:0
-CARRIER ID DEMO
-p:Rohde & Schwarz
-d165:00eb0000:2717:f001:1:0
-DAYSTAR TV
-p:Digital Free,C:1801,C:1722
-d166:00eb0000:2717:f001:1:0
-n-tv
-p:Digital Free,C:1801,C:1722
-d167:00eb0000:2717:f001:1:0
-Eurosport
-p:Digital Free,C:1801,C:1722
-d168:00eb0000:2717:f001:1:0
-Das Vierte
-p:Digital Free,C:1801,C:1722
-d169:00eb0000:2717:f001:1:0
-VIVA
-p:Digital Free,C:1801,C:1722
-d16b:00eb0000:2712:f001:1:0
-sportdigital.tv
-p:KD Home,C:1801,C:1722
-d16c:00eb0000:2713:f001:1:0
-Astro TV
-p:Digital Free,C:1801,C:1722
-cf6d:00eb0000:2714:f001:1:0
-BBC Entertainment (engl)
-p:Englisch,C:1801,C:1722
-d16d:00eb0000:2715:f001:1:0
-CNN (engl)
-p:Digital Free,c:0008cb,c:0108cc,c:0308cb,C:1801,C:1722
-d16e:00eb0000:2712:f001:1:0
-Al Jazeera Int (engl)
-p:Digital Free,c:0008d5,c:0108d6,c:0308d5,C:1801,C:1722
-d16f:00eb0000:2713:f001:1:0
-sonnenklar.TV
-p:Digital Free,C:1801,C:1722
-cf70:00eb0000:2715:f001:1:0
-Jukebox
-p:KD Home,C:1801,C:1722
-d170:00eb0000:2715:f001:1:0
-QVC
-p:Digital Free,C:1801,C:1722
-cf71:00eb0000:2715:f001:1:0
-ESPN America (engl)
-p:Englisch,C:1801,C:1722
-d171:00eb0000:2714:f001:1:0
-DMAX
-p:Digital Free,C:1801,C:1722
-cf72:00eb0000:2712:f001:1:0
-iTVN (pol)
-p:Div. Sprachen,C:1801,C:1722
-d172:00eb0000:2714:f001:1:0
-iMusic
-p:Digital Free,C:1801,C:1722
-cf73:00eb0000:2714:f001:1:0
-Rock TV
-p:KD Home,C:1801,C:1722
-d173:00eb0000:2714:f001:1:0
-Juwelo TV
-p:Digital Free,C:1801,C:1722
-cf74:00eb0000:2719:f001:1:0
-Disney XD (engl)
-p:Englisch,C:1801,C:1722
-d174:00eb0000:2711:f001:1:0
-Servus TV
-p:Digital Free,c:000943,c:010944,c:020946,c:030943,C:1801,C:1722
-d175:00eb0000:2718:f001:1:0
-ProSieben
-p:Digital Free,C:1801,C:1722
-5276:00eb0000:0c96:0003:1:0
-JIM
-p:TV Vlaanderen,c:000226,c:010078,c:020032,c:030226,c:050001,C:1819,C:1818,C:0500,C:0100
-cf76:00eb0000:2717:f001:1:0
-DELUXE MUSIC
-p:Digital Free,C:1801,C:1722
-d176:00eb0000:2718:f001:1:0
-kabel eins
-p:Digital Free,C:1801,C:1722
-cf77:00eb0000:271a:f001:1:0
-ANIXE SD
-p:Digital Free,C:1801,C:1722
-d177:00eb0000:2718:f001:1:0
-9Live
-p:Digital Free,C:1722,C:1801
 1478:00eb0000:0c98:0003:1:0
 RTL Tele Letzebuerg 23.5
 p:SES ASTRA
-5278:00eb0000:0c96:0003:1:0
-2BE
-p:TV Vlaanderen
-d178:00eb0000:2718:f001:1:0
-SPORT1
-p:Digital Free,C:1801,C:1722
-cf79:00eb0000:2712:f001:1:0
-MTV Hits (engl)
-p:Englisch,C:1801,C:1722
-d179:00eb0000:2714:f001:1:0
-EuroNews
-p:Digital Free,c:000a29,c:010a2a,c:030a29,C:1801,C:1722
 527a:00eb0000:0c96:0003:1:0
 VT4
 p:TV Vlaanderen,c:00022a,c:01007c,c:020036,c:03022a,c:050001,C:1819,C:1818,C:0500,C:0100
-cf7a:00eb0000:2712:f001:1:0
-MTV Dance (engl)
-p:Englisch,C:1801,C:1722
-d17a:00eb0000:2718:f001:1:0
-SAT.1
-p:Digital Free,C:1801,C:1722
-cf7b:00eb0000:2715:f001:1:0
-VH1 Classic (engl)
-p:Englisch,C:1801,C:1722
-d17b:00eb0000:2718:f001:1:0
-N24
-p:Digital Free,C:1801,C:1722
 157c:00eb0000:0c92:0003:1:0
 LuxeTV HD
 p:SatelliteBG
-527c:00eb0000:0c96:0003:1:0
-vtmKazoom/Kanaal Z
-p:TV Vlaanderen,c:00022c,c:01007e,c:03022c,c:050001,C:1819,C:1818,C:0500,C:0100
 157d:00eb0000:0c92:0003:1:0
 Fashion One HD
 p:SatelliteBG
-c47d:00eb0000:2715:f001:1:0
-SPORT1+
-p:KD Home,C:1801,C:1722
 157e:00eb0000:0c92:0003:1:0
 BNT World
 p:SatelliteBG
 1d7e:00eb0000:0c84:0003:1:0
 HD Demo ASTRA & RAI
-p:SES ASTRA,c:000100,c:011f43,c:030100,c:050001
-527e:00eb0000:0c96:0003:1:0
-VIJF tv
-p:TV Vlaanderen
-c47e:00eb0000:2715:f001:1:0
-VH1 Classic
-p:KD Home,C:1801,C:1722
-d17e:00eb0000:2718:f001:1:0
-HSE24
-p:Digital Free,C:1801,C:1722
+p:SES ASTRA
 157f:00eb0000:0c92:0003:1:0
 BNT 1
 p:SatelliteBG
-c47f:00eb0000:2715:f001:1:0
-TNT Serie (KD)
-p:KD Home,C:1801,C:1722
-cf7f:00eb0000:2718:f001:1:0
-Russia Today (engl)
-p:Digital Free,C:1801,C:1722
 1580:00eb0000:0c92:0003:1:0
 Nova TV
 p:SatelliteBG
-5280:00eb0000:0c96:0003:1:0
-Vitaya
-p:TV Vlaanderen,c:000230,c:010082,c:02003c,c:030230,c:050001,C:1819,C:1818,C:0500,C:0100
-c480:00eb0000:2715:f001:1:0
-AXN Action
-p:KD Home,C:1801,C:1722
 1581:00eb0000:0c92:0003:1:0
 Nova Sport
 p:SatelliteBG
-c481:00eb0000:2715:f001:1:0
-Silverline
-p:KD Home,C:1801,C:1722
 1582:00eb0000:0c92:0003:1:0
 Diema
 p:SatelliteBG
-5282:00eb0000:0c96:0003:1:0
-Acht
-p:TV Vlaanderen,c:000232,c:010084,c:030232,c:050001,C:1819,C:1818,C:0500,C:0100
-c482:00eb0000:2715:f001:1:0
-ESPN America
-p:KD Home,C:1801,C:1722
 1583:00eb0000:0c92:0003:1:0
 KinoNova
 p:SatelliteBG
-c483:00eb0000:2715:f001:1:0
-Disney XD
-p:KD Home,C:1801,C:1722
 1584:00eb0000:0c92:0003:1:0
 Diema Family
 p:SatelliteBG
-5284:00eb0000:0c96:0003:1:0
-Man-X
-p:TV Vlaanderen
 1585:00eb0000:0c92:0003:1:0
 Fox Life
 p:SatelliteBG
 1586:00eb0000:0c92:0003:1:0
 Fox Crime
 p:SatelliteBG
-5286:00eb0000:0c96:0003:1:0
-Ketnet
-p:TV Vlaanderen,c:000236,c:010088,c:020042,c:030236,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
 1587:00eb0000:0c92:0003:1:0
 Nat Geographic
 p:SatelliteBG
@@ -1025,126 +413,33 @@ p:SatelliteBG
 1590:00eb0000:0c92:0003:1:0
 Travel Channel
 p:SatelliteBG
-c490:00eb0000:2716:f001:1:0
-Select Kino Info
-p:PPV,C:1722,C:1801
 1591:00eb0000:0c92:0003:1:0
 Ring BG
 p:SatelliteBG
-c491:00eb0000:2716:f001:1:0
-Select Kino 1
-p:PPV,C:1722,C:1801
 1592:00eb0000:0c92:0003:1:0
 bTV Comedy
 p:SatelliteBG
-c492:00eb0000:2716:f001:1:0
-Select Kino 2
-p:PPV,c:0007e5,c:0107e6,c:0307e5,C:1722,C:1801
 1593:00eb0000:0c92:0003:1:0
 bTV Action
 p:SatelliteBG
-c493:00eb0000:2716:f001:1:0
-Select Kino 3
-p:PPV,C:1722,C:1801
 1594:00eb0000:0c92:0003:1:0
 bTV Cinema
 p:SatelliteBG
-c494:00eb0000:2716:f001:1:0
-Select Kino 4
-p:PPV,C:1722,C:1801
 1595:00eb0000:0c92:0003:1:0
 Satellite BG
 p:SatelliteBG
-c495:00eb0000:2716:f001:1:0
-Select Kino 5
-p:PPV,C:1722,C:1801
 1596:00eb0000:0c92:0003:1:0
 BBC Entertainment
 p:SatelliteBG
-c496:00eb0000:2716:f001:1:0
-Select Kino 6
-p:PPV,C:1722,C:1801
 1597:00eb0000:0c92:0003:1:0
 Boomerang
 p:SatelliteBG
-c497:00eb0000:2716:f001:1:0
-Select Kino 7
-p:PPV,C:1722,C:1801
 1598:00eb0000:0c92:0003:1:0
 Disney Channel
 p:SatelliteBG
-c499:00eb0000:2716:f001:1:0
-redXclub Info
-p:PPV,C:1722,C:1801
-d099:00eb0000:2712:f001:1:0
-Spiegel TV Wissen
-p:KD Home,C:1801,C:1722
-c49a:00eb0000:2716:f001:1:0
-redXclub 1
-p:PPV,c:000835,c:010836,c:030835,C:1722,C:1801
-d09a:00eb0000:2715:f001:1:0
-AXN Action (engl)
-p:Englisch,C:1801,C:1722
-c49b:00eb0000:2716:f001:1:0
-redXclub 2
-p:PPV,C:1722,C:1801
-d09b:00eb0000:2718:f001:1:0
-BibelTV
-p:Digital Free,C:1801,C:1722
-d09c:00eb0000:2714:f001:1:0
-Boomerang
-p:KD Home,C:1801,C:1722
-d09f:00eb0000:2714:f001:1:0
-Boomerang (engl)
-p:Englisch,C:1801,C:1722
-d0a0:00eb0000:2712:f001:1:0
-TNT Film (engl)
-p:Englisch,C:1801,C:1722
-d0a1:00eb0000:2714:f001:1:0
-FOX
-p:KD Home,C:1801,C:1722
-14a3:00eb0000:0c98:0003:1:0
-SMD 01
-p:SES ASTRA
-d0a3:00eb0000:2714:f001:1:0
-Sat.1 Comedy
-p:KD Home,C:1801,C:1722
 14a4:00eb0000:0c98:0003:1:0
 INT_TV
 p:SES ASTRA
-d0a4:00eb0000:2714:f001:1:0
-kabel eins classics
-p:KD Home,C:1801,C:1722
-d0a5:00eb0000:2714:f001:1:0
-Romance TV
-p:KD Home,C:1801,C:1722
-13a6:00eb0000:0c85:0003:1:0
-TV JOJ
-p:Skylink
-13a7:00eb0000:0c85:0003:1:0
-JOJ PLUS
-p:Skylink
-13a8:00eb0000:0c85:0003:1:0
-TA3
-p:Skylink
-13a9:00eb0000:0c85:0003:1:0
-History channel
-p:Skylink,c:000aa3,c:010b43,c:030aa3,C:0100,C:0500,C:0624,C:0d03,C:0d70,C:0d96
-13aa:00eb0000:0c85:0003:1:0
-NG Wild DUT
-p:Skylink,c:000aa8,c:010b98,c:020c88,c:030aa8,C:0100,C:0500,C:0d0f,C:0d70
-13ab:00eb0000:0c85:0003:1:0
-TV Barrandov
-p:Skylink
-13ac:00eb0000:0c85:0003:1:0
-NGC
-p:Skylink
-13ad:00eb0000:0c85:0003:1:0
-Discovery
-p:Skylink
-13ae:00eb0000:0c85:0003:1:0
-NG Wild
-p:Skylink,c:000aa8,c:010b48,c:020c88,c:030aa8,C:0d96,C:0d70,C:0d0f,C:0d03,C:0624,C:0500,C:0100
 13af:00eb0000:0c85:0003:1:0
 CT 4 HD
 p:Skylink
@@ -1154,84 +449,27 @@ p:Skylink
 15b3:00eb0000:0c9a:0003:1:0
 OTA
 p:SatelliteBG
-c3b5:00eb0000:2713:f001:1:0
-Press TV (engl)
-p:Digital Free,C:1801,C:1722
-0db6:00eb0000:0c8e:0003:1:0
-DW01
-p:MEDIA BROADCAST
 13b6:00eb0000:0c95:0003:1:0
 Doku CS
 p:Skylink
-c3b7:00eb0000:2719:f001:1:0
-Trace.TV
-p:KD Home,C:1722,C:1801
-13b8:00eb0000:0c95:0003:1:0
-Travel Channel HD
-p:Skylink,c:000fa8,c:011048,c:030fa8,c:050001,C:0100,C:0500,C:0624,C:0b01,C:0d03,C:0d06,C:0d70,C:0d96
-c3b8:00eb0000:2719:f001:1:0
-E! Entertainment
-p:KD Home,C:1801,C:1722
-c3b9:00eb0000:2713:f001:1:0
-Planet
-p:KD Home,C:1801,C:1722
 13ba:00eb0000:0c85:0003:1:0
 Filmbox Family
 p:Skylink
 36ba:00eb0000:0c8c:0003:1:0
 BT new 2
 p:MEDIA BROADCAST
-36ba:00eb0000:0c8e:0003:1:0
-BT NEW
-p:MEDIA BROADCAST
-c3ba:00eb0000:2712:f001:1:0
-Syfy (KD)
-p:KD Home,C:1801,C:1722
 13bb:00eb0000:0c85:0003:1:0
 Filmbox Extra 1
-p:Skylink,c:000aad,c:010bed,c:030aad,C:0d70,C:0500,C:0100
-c3bb:00eb0000:2715:f001:1:0
-13th Street (KD)
-p:KD Home,C:1801,C:1722
+p:Skylink
 13bc:00eb0000:0c85:0003:1:0
 Retro Music TV
 p:Skylink
-c3bc:00eb0000:2713:f001:1:0
-Kinowelt TV
-p:KD Home,C:1801,C:1722
-13bd:00eb0000:0c85:0003:1:0
-duck tv
-p:Skylink
-c3bd:00eb0000:2713:f001:1:0
-Wetter Fernsehen
-p:KD Home,C:1801,C:1722
-13be:00eb0000:0c85:0003:1:0
-Z 1
-p:Skylink
-14be:00eb0000:0c84:0003:1:0
-Pls re-scan
-p:SES ASTRA
-c3be:00eb0000:2711:f001:1:0
-1-2-3.tv
-p:Digital Free,C:1801,C:1722
-13bf:00eb0000:0c85:0003:1:0
-History channel DUT
-p:Skylink,c:000aa3,c:010b93,c:030aa3,C:0100,C:0500,C:0624,C:0d03,C:0d70,C:0d96
 14bf:00eb0000:0c84:0003:1:0
 Penthouse 3D
-p:SES ASTRA,c:000020,c:010021,c:030020,c:050001,C:0500
-c3bf:00eb0000:2713:f001:1:0
-Gute Laune TV
-p:KD Home,C:1801,C:1722
-0dc0:00eb0000:0c8e:0003:1:0
-DW02
-p:MEDIA BROADCAST
+p:SES ASTRA
 14c0:00eb0000:0c84:0003:1:0
 Data1
 p:<None>
-13c1:00eb0000:0c95:0003:1:0
-Golf Channel
-p:Skylink
 14c1:00eb0000:0c84:0003:1:0
 High TV 3D
 p:SES ASTRA
@@ -1241,44 +479,14 @@ p:Skylink
 13c3:00eb0000:0c95:0003:1:0
 Muzika CS
 p:Skylink
-13c4:00eb0000:0c85:0003:1:0
-NG Wild BG
-p:SatelliteBG
 36c4:00eb0000:0c8c:0003:1:0
 BPK+KT new 2
 p:MEDIA BROADCAST
-36c4:00eb0000:0c8e:0003:1:0
-BPK + KT NEW
-p:MEDIA BROADCAST
-13c5:00eb0000:0c95:0003:1:0
-HBO Comedy
-p:Skylink
 13c6:00eb0000:0c95:0003:1:0
 Film Europe
 p:Skylink
-14c8:00eb0000:0c84:0003:1:0
-Canal+ 3D Demo
-p:SES ASTRA
-13c9:00eb0000:0c95:0003:1:0
-Eurosport 2 HD DUT
-p:Skylink,c:000db7,c:010ddf,c:030db7,c:050001,C:1817,C:0624,C:0100
-13ca:00eb0000:0c85:0003:1:0
-Sport 2
-p:Skylink
-13cb:00eb0000:0c85:0003:1:0
-TV Paprika
-p:Skylink
-13cc:00eb0000:0c85:0003:1:0
-HBO Comedy
-p:Skylink
-13cd:00eb0000:0c85:0003:1:0
-History channel BG
-p:SatelliteBG
 36ce:00eb0000:0c8c:0003:1:0
 BR new 2
-p:MEDIA BROADCAST
-36ce:00eb0000:0c8e:0003:1:0
-BR NEW
 p:MEDIA BROADCAST
 13cf:00eb0000:0c8a:0003:1:0
 MGM
@@ -1286,48 +494,24 @@ p:Skylink
 13d0:00eb0000:0c8a:0003:1:0
 NG Wild
 p:Skylink
-13d1:00eb0000:0c8a:0003:1:0
-Nova PRELADTE
-p:Skylink
-cfd1:00eb0000:2711:f001:1:0
-RTVi (rus)
-p:Russisch,C:1801,C:1722
 13d2:00eb0000:0c8a:0003:1:0
 CETV
 p:Skylink
 14d2:00eb0000:0c84:0003:1:0
 Brava3D
 p:SES ASTRA
-cfd2:00eb0000:2711:f001:1:0
-Nashe Kino (rus)
-p:Russisch,C:1801,C:1722
 13d3:00eb0000:0c8a:0003:1:0
 TV Barrandov
 p:Skylink
-cfd3:00eb0000:2711:f001:1:0
-ATV Avrupa (türk)
-p:Türkisch,C:1801,C:1722
-0dd4:00eb0000:0c8e:0003:1:0
-DW04
-p:MEDIA BROADCAST
 13d4:00eb0000:0c8a:0003:1:0
 History channel
 p:Skylink
-cfd4:00eb0000:2711:f001:1:0
-TV Polonia (pol)
-p:Div. Sprachen,C:1801,C:1722
 13d5:00eb0000:0c8a:0003:1:0
 Retro Music TV
 p:Skylink
-cfd5:00eb0000:2711:f001:1:0
-Euro D (türk)
-p:Türkisch,C:1801,C:1722
 13d6:00eb0000:0c8a:0003:1:0
 duck TV
 p:Skylink
-cfd6:00eb0000:271a:f001:1:0
-RTP Internacional
-p:Div. Sprachen,C:1801,C:1722
 13d7:00eb0000:0c8a:0003:1:0
 tv8
 p:Skylink
@@ -1337,81 +521,36 @@ p:Skylink
 36d8:00eb0000:0c8c:0003:1:0
 MAZ new 2
 p:MEDIA BROADCAST
-36d8:00eb0000:0c8e:0003:1:0
-MAZ NEW
-p:MEDIA BROADCAST
-cfd8:00eb0000:2712:f001:1:0
-National Geo (engl)
-p:Englisch,C:1801,C:1722
 13d9:00eb0000:0c8a:0003:1:0
 SLAGR TV
 p:Skylink
-cfd9:00eb0000:271a:f001:1:0
-ERT World (griech)
-p:Div. Sprachen,C:1801,C:1722
 13da:00eb0000:0c8a:0003:1:0
 Viasat Explorer/Spice
 p:Skylink
-cfda:00eb0000:2711:f001:1:0
-Euro Star (türk)
-p:Türkisch,C:1801,C:1722
 13db:00eb0000:0c8a:0003:1:0
 Viasat History
 p:Skylink
-cfdb:00eb0000:2714:f001:1:0
-EuroNews (frz)
-p:Digital Free,C:1801,C:1722
 13dc:00eb0000:0c8a:0003:1:0
 Viasat Nature
 p:Skylink
-cfdc:00eb0000:2711:f001:1:0
-RTR Planeta (rus)
-p:Russisch,C:1801,C:1722
 13dd:00eb0000:0c8a:0003:1:0
 NGC
 p:Skylink
-0dde:00eb0000:0c8e:0003:1:0
-DW05
-p:MEDIA BROADCAST
 17de:00eb0000:0c91:0003:1:0
 .
 p:BetaDigital
-cfdf:00eb0000:2714:f001:1:0
-EuroNews (itl)
-p:Italienisch,C:1801,C:1722
 15e0:00eb0000:0c9a:0003:1:0
 MTV Live HD
 p:SatelliteBG
-cfe0:00eb0000:2714:f001:1:0
-EuroNews (span)
-p:Div. Sprachen,C:1801,C:1722
 15e1:00eb0000:0c9a:0003:1:0
 NatGeo Wild HD
 p:SatelliteBG
-cfe1:00eb0000:2714:f001:1:0
-EuroNews (port)
-p:Div. Sprachen,C:1801,C:1722
 15e2:00eb0000:0c9a:0003:1:0
 Penthouse HD2
-p:SatelliteBG,c:0004b1,c:0104b2,c:0304b1,c:050001,C:0b01
-36e2:00eb0000:0c8e:0003:1:0
-test
-p:MEDIA BROADCAST
-cfe2:00eb0000:2714:f001:1:0
-EuroNews (rus)
-p:Russisch,C:1801,C:1722
+p:SatelliteBG
 15e3:00eb0000:0c9a:0003:1:0
 Viasat HD
 p:SatelliteBG
-31e3:00eb0000:0c96:0003:1:0
-VTM
-p:TV Vlaanderen
-36e3:00eb0000:0c8e:0003:1:0
-Ethnik TV
-p:MEDIA BROADCAST
-cfe3:00eb0000:2711:f001:1:0
-TRT Türk
-p:Digital Free,C:1801,C:1722
 15e4:00eb0000:0c9a:0003:1:0
 iConcerts HD
 p:SatelliteBG
@@ -1424,9 +563,6 @@ p:SatelliteBG
 15e7:00eb0000:0c9a:0003:1:0
 Penthouse HD
 p:SatelliteBG
-0de8:00eb0000:0c8e:0003:1:0
-DW06
-p:MEDIA BROADCAST
 15e8:00eb0000:0c9a:0003:1:0
 Penthouse HD1
 p:SatelliteBG
@@ -1442,9 +578,6 @@ p:Skylink
 15ec:00eb0000:0c9a:0003:1:0
 iConcerts HD CZ
 p:Skylink
-36ec:00eb0000:0c8e:0003:1:0
-Kosmica TV
-p:MEDIA BROADCAST
 13ed:00eb0000:0c87:0003:1:0
 TV JOJ
 p:Towercom
@@ -1465,7 +598,7 @@ DOMA
 p:Towercom
 15f0:00eb0000:0c9a:0003:1:0
 TEST CZ
-p:Skylink,c:000709,c:01070a,c:030709,c:050001,C:0d96,C:0624
+p:Skylink
 13f1:00eb0000:0c87:0003:1:0
 STV1
 p:Towercom
@@ -1478,39 +611,21 @@ p:Towercom
 13f4:00eb0000:0c87:0003:1:0
 DAJTO
 p:Service Provider
-36f6:00eb0000:0c8e:0003:1:0
-CT HD
-p:MEDIA BROADCAST
 36f7:00eb0000:0c8e:0003:1:0
 Nova Sport
 p:MEDIA BROADCAST
 36f8:00eb0000:0c8e:0003:1:0
 FANDA
 p:MEDIA BROADCAST
-0dfc:00eb0000:0c8e:0003:1:0
-DW08
-p:MEDIA BROADCAST
-d0fd:00eb0000:2711:f001:1:0
-Show Turk (türk)
-p:Türkisch,C:1801,C:1722
-d0fe:00eb0000:2711:f001:1:0
-NTV Avrupa (türk)
-p:Türkisch,C:1801,C:1722
-d0ff:00eb0000:2714:f001:1:0
-Detski Mir/TeleKlub
-p:Russisch,C:1801,C:1722
 1400:00eb0000:0c87:0003:2:0
 PatriaFM
-p:Towercom
+p:Skylink
 1401:00eb0000:0c87:0003:2:0
 PatriaRD
-p:Towercom
-0002:00ebb172:0014:0002:2:0
-R.Gloria
-p:T-Systems
+p:Skylink
 1402:00eb0000:0c87:0003:2:0
 Slovakia
-p:Towercom
+p:Skylink
 1403:00eb0000:0c87:0003:2:0
 Jemne Z
 p:Towercom
@@ -1524,7 +639,7 @@ p:Towercom
 Radio Lumen
 p:Towercom
 1407:00eb0000:0c87:0003:2:0
-* HEY *
+ANTENA
 p:Towercom
 1408:00eb0000:0c87:0003:2:0
 Radio - 7
@@ -1532,146 +647,23 @@ p:Towercom
 1409:00eb0000:0c87:0003:2:0
 VIVA
 p:Towercom
-140d:00eb0000:0c87:0003:2:0
-RDS
-p:Towercom
-c419:00eb0000:2713:f001:2:0
-Klassik Hits
-p:Kabel Digital,C:1801,C:1722
-c41a:00eb0000:2713:f001:2:0
-Symphonie
-p:Kabel Digital,C:1801,C:1722
-c41c:00eb0000:2713:f001:2:0
-Country
-p:Kabel Digital,C:1801,C:1722
-c41e:00eb0000:2713:f001:2:0
-Instrumentals
-p:Kabel Digital,C:1801,C:1722
-c41f:00eb0000:2713:f001:2:0
-New Age
-p:Kabel Digital,C:1801,C:1722
-c420:00eb0000:2713:f001:2:0
-Euro Hits
-p:Kabel Digital,C:1801,C:1722
-c423:00eb0000:2713:f001:2:0
-Deutscher Rock
-p:Kabel Digital,C:1801,C:1722
-c424:00eb0000:2713:f001:2:0
-Deutsche Schlager
-p:Kabel Digital,C:1801,C:1722
-c425:00eb0000:2713:f001:2:0
-Deutsche Hits
-p:Kabel Digital,C:1801,C:1722
-c427:00eb0000:2713:f001:2:0
-UK Hits
-p:Kabel Digital,C:1801,C:1722
-c42b:00eb0000:2713:f001:2:0
-Chillout
-p:Kabel Digital,C:1801,C:1722
-c42d:00eb0000:2713:f001:2:0
-Klassischer Jazz
-p:Kabel Digital,C:1801,C:1722
-c42e:00eb0000:2713:f001:2:0
-Perfect Dinner Party
-p:Kabel Digital,C:1801,C:1722
-c42f:00eb0000:2713:f001:2:0
-Brasil
-p:Kabel Digital,C:1801,C:1722
-c430:00eb0000:2713:f001:2:0
-Rock Anthems
-p:Kabel Digital,C:1801,C:1722
-c432:00eb0000:2713:f001:2:0
-Spanischer Rock
-p:Kabel Digital,C:1801,C:1722
-c433:00eb0000:2713:f001:2:0
-Rock'n' Roll Oldies
-p:Kabel Digital,C:1801,C:1722
-c437:00eb0000:2713:f001:2:0
-60er & 70er Hits
-p:Kabel Digital,C:1801,C:1722
-c438:00eb0000:2713:f001:2:0
-Big Band/Swing
-p:Kabel Digital,C:1801,C:1722
-c439:00eb0000:2713:f001:2:0
-Classic Rock
-p:Kabel Digital,C:1801,C:1722
-c43a:00eb0000:2713:f001:2:0
-Heavy Metal
-p:Kabel Digital,C:1801,C:1722
-c43b:00eb0000:2713:f001:2:0
-Alternative
-p:Kabel Digital,C:1801,C:1722
-c43c:00eb0000:2713:f001:2:0
-Dance
-p:Kabel Digital,C:1801,C:1722
-c43f:00eb0000:2713:f001:2:0
-Pop
-p:Kabel Digital,C:1801,C:1722
 3340:00eb0000:0c89:0003:2:0
 Radio Beat
-p:Skylink
-c441:00eb0000:2713:f001:2:0
-Love Songs
-p:Kabel Digital,C:1801,C:1722
-c442:00eb0000:2713:f001:2:0
-80er & 90er Hits
-p:Kabel Digital,C:1801,C:1722
-c443:00eb0000:2713:f001:2:0
-Blues
-p:Kabel Digital,C:1801,C:1722
-c445:00eb0000:2713:f001:2:0
-R & B Hip Hop
-p:Kabel Digital,C:1801,C:1722
-c446:00eb0000:2713:f001:2:0
-Reggae
-p:Kabel Digital,C:1801,C:1722
-c447:00eb0000:2713:f001:2:0
-Rap
-p:Kabel Digital,C:1801,C:1722
-1f4a:00eb0000:0bc7:0003:2:0
-Slovensko
-p:Skylink
-1f4b:00eb0000:0bc7:0003:2:0
-Devin
-p:Skylink
-1f4c:00eb0000:0bc7:0003:2:0
-Radio_FM
-p:Skylink
-1f4d:00eb0000:0bc7:0003:2:0
-Slovakia
-p:Skylink
-1f50:00eb0000:0bc7:0003:2:0
-VIVA
-p:Skylink
-1f51:00eb0000:0bc7:0003:2:0
-ReginaBA
 p:Skylink
 1f52:00eb0000:0bc6:0003:2:0
 CRo 1 - Radiozurnal
 p:Skylink
-1f52:00eb0000:0bc7:0003:2:0
-ReginaBB
-p:Skylink
 1f53:00eb0000:0bc6:0003:2:0
 CRo 2 - Praha
-p:Skylink
-1f53:00eb0000:0bc7:0003:2:0
-ReginaKE
 p:Skylink
 1f54:00eb0000:0bc6:0003:2:0
 CRo 3 - Vltava
 p:Skylink
-1f54:00eb0000:0bc7:0003:2:0
-PatriaRD
-p:Skylink
 1f55:00eb0000:0bc6:0003:2:0
 Proglas
 p:Skylink
-1f55:00eb0000:0bc7:0003:2:0
-SM 1
-p:Skylink
 1f56:00eb0000:0bc6:0003:2:0
-CRo 2+6/CRo 7
+CRo 2+6/CRo7
 p:Skylink
 1f57:00eb0000:0bc6:0003:2:0
 CRo Region
@@ -1682,80 +674,26 @@ p:Skylink
 1f59:00eb0000:0bc6:0003:2:0
 CRo D-dur
 p:Skylink
-1f59:00eb0000:0bc7:0003:2:0
-Radio - 7
-p:Skylink
 1f5a:00eb0000:0bc6:0003:2:0
 CRo Leonardo
-p:Skylink
-1f5a:00eb0000:0bc7:0003:2:0
-PatriaFM
 p:Skylink
 1f5b:00eb0000:0bc6:0003:2:0
 Radio Cesko
 p:Skylink
-1f5b:00eb0000:0bc7:0003:2:0
-Lumen
-p:Skylink
 1f5c:00eb0000:0bc6:0003:2:0
 CRo Radio Wave
-p:Skylink
-1f5c:00eb0000:0bc7:0003:2:0
-Radio Hey
-p:Skylink
-1f5d:00eb0000:0bc7:0003:2:0
-Jemne melodie S
-p:Skylink
-1f5e:00eb0000:0bc7:0003:2:0
-Jemne melodie Z
 p:Skylink
 335e:00eb0000:0c93:0003:2:0
 COUNTRY RADIO
 p:Skylink
-1f5f:00eb0000:0bc7:0003:2:0
-Jemne melodie V
-p:Skylink
 335f:00eb0000:0c93:0003:2:0
 Beat M
 p:Skylink
-5160:00eb0000:0c8b:0003:2:0
-L1MBURG Radio
-p:CANALDIGITAAL
-1f61:00eb0000:0bc7:0003:2:0
-Litera
-p:Skylink
-1f62:00eb0000:0bc7:0003:2:0
-Klasika
-p:Skylink
-5162:00eb0000:0c8b:0003:2:0
-Radio Rijnmond
-p:CANALDIGITAAL,c:0100da,c:031ffe
-1f63:00eb0000:0bc7:0003:2:0
-Junior
-p:Skylink
-5164:00eb0000:0c8b:0003:2:0
-Radio Noord-Holland
-p:CANALDIGITAAL
-5166:00eb0000:0c8b:0003:2:0
-Omrop Fryslan Radio
-p:CANALDIGITAAL
-5168:00eb0000:0c8b:0003:2:0
-Radio Noord
-p:CANALDIGITAAL
-516a:00eb0000:0c8b:0003:2:0
-Test
-p:canaldigitaal
 516c:00eb0000:0c8b:0003:2:0
 Radio Oost
 p:CANALDIGITAAL
 516e:00eb0000:0c8b:0003:2:0
 Radio Gelderland
-p:CANALDIGITAAL
-5170:00eb0000:0c8b:0003:2:0
-Omroep Zeeland Radio
-p:CANALDIGITAAL
-5172:00eb0000:0c8b:0003:2:0
-Omroep Brabant Radio
 p:CANALDIGITAAL
 147d:00eb0000:0c98:0003:2:0
 RTL Radio Letzebuerg
@@ -1765,178 +703,58 @@ radio 100,7 Letzebuerg
 p:SES ASTRA
 519a:00eb0000:0c8b:0003:2:0
 100% NL
-p:canaldigitaal,c:0100eb,c:031ffe
+p:canaldigitaal
 519c:00eb0000:0c8b:0003:2:0
 Arrow Classic Rock
 p:canaldigitaal
 519e:00eb0000:0c8b:0003:2:0
 Arrow Jazz
 p:canaldigitaal
-c4e0:00eb0000:2715:f001:2:0
-Radio-Test
-p:Digital Free,C:1801,C:1722
-c4e1:00eb0000:2713:f001:2:0
-Radio Horeb
-p:Digital Free,C:1801,C:1722
-c4e2:00eb0000:2715:f001:2:0
-ERF
-p:Digital Free,C:1801,C:1722
-c4e3:00eb0000:2713:f001:2:0
-BBC World Service
-p:Englisch,C:1801,C:1722
-c4e4:00eb0000:2713:f001:2:0
-Sunshine Live
-p:Digital Free,C:1801,C:1722
-c4e5:00eb0000:2711:f001:2:0
-Klassik Radio
-p:Digital Free,C:1801,C:1722
-c4e6:00eb0000:2711:f001:2:0
-RTL Radio
-p:Digital Free,C:1801,C:1722
-c4e7:00eb0000:2711:f001:2:0
-Radio Paloma
-p:Digital Free,C:1801,C:1722
-c4e8:00eb0000:2713:f001:2:0
-JAM FM
-p:Digital Free,C:1801,C:1722
-c4e9:00eb0000:2713:f001:2:0
-METROPOL FM
-p:Türkisch,C:1801,C:1722
 13f7:00eb0000:0c87:0003:2:0
 Slovensko
-p:Towercom
+p:Skylink
 13f8:00eb0000:0c87:0003:2:0
 ReginaBA
-p:Towercom
+p:Skylink
 13f9:00eb0000:0c87:0003:2:0
 ReginaBB
-p:Towercom
+p:Skylink
 13fa:00eb0000:0c87:0003:2:0
 ReginaKE
-p:Towercom
+p:Skylink
 13fb:00eb0000:0c87:0003:2:0
 Devin
-p:Towercom
+p:Skylink
 13fc:00eb0000:0c87:0003:2:0
 Radio_FM
-p:Towercom
+p:Skylink
 13fd:00eb0000:0c87:0003:2:0
 Klasika
-p:Towercom
+p:Skylink
 13fe:00eb0000:0c87:0003:2:0
 Litera
-p:Towercom
+p:Skylink
 13ff:00eb0000:0c87:0003:2:0
 Junior
-p:Towercom
+p:Skylink
 140d:00eb0000:0c87:0003:12:0
 RDS
 p:Towercom
-cf1c:00eb0000:2717:f001:12:0
-EPG Digital
-p:KD Home
-cf1d:00eb0000:2717:f001:12:0
-tvtv DVR20
-p:KD Home
-cf21:00eb0000:2717:f001:12:0
-tvtv RP
-p:KD Home
-cf23:00eb0000:2718:f001:12:0
-Sagem DVR
-p:KD Home
 182e:00eb0000:0c91:0003:12:0
 A2C-RMT
 p:ABBS
-0460:00eb0000:0c92:0003:12:0
-Technisat
-p:SatelliteBG
 3372:00eb0000:0c93:0003:12:0
 GoSat GS7055
-p:Skylink
-1f73:00eb0000:0bc7:0003:12:0
-OTA01 OPENTECH 1
-p:Skylink
-3373:00eb0000:0c93:0003:12:0
-Technisat
-p:Skylink
-1f74:00eb0000:0bc7:0003:12:0
-OTA02 COSHIP
 p:Skylink
 3374:00eb0000:0c93:0003:12:0
 Gosat_GS7050
 p:Skylink
-1f75:00eb0000:0bc7:0003:12:0
-OTA03 OPENTECH
-p:Skylink
-3375:00eb0000:0c93:0003:12:0
-OTA Kaon 700ir
-p:Skylink
-1f76:00eb0000:0bc7:0003:12:0
-OTA04 ARION
-p:Skylink
-3376:00eb0000:0c93:0003:12:0
-OTA Strong TH
-p:Skylink
-1f77:00eb0000:0bc7:0003:12:0
-OTA05 VESTEL
-p:Skylink
-3377:00eb0000:0c93:0003:12:0
-Emos BEN350IR
-p:Skylink
-1f78:00eb0000:0bc7:0003:12:0
-OTA06 KAON
-p:Skylink
-3378:00eb0000:0c93:0003:12:0
-OTA SmarDTV
-p:Skylink
-1f79:00eb0000:0bc7:0003:12:0
-OTA07 TOPFIELD
-p:Skylink
-1f7a:00eb0000:0bc7:0003:12:0
-OTA08 CHANGHONG
-p:Skylink
 337a:00eb0000:0c93:0003:12:0
 Vestel
-p:Skylink
-1f7b:00eb0000:0bc7:0003:12:0
-OTA09 HUMAX
 p:Skylink
 337b:00eb0000:0c93:0003:12:0
 Coship
 p:Skylink
-1f7c:00eb0000:0bc7:0003:12:0
-OTA10 DIZIPIA
-p:Skylink
-1f7d:00eb0000:0bc7:0003:12:0
-OTA11 HOMECAST
-p:Skylink
-1f7e:00eb0000:0bc7:0003:12:0
-OTA12 NEOTION
-p:Skylink
-1f7f:00eb0000:0bc7:0003:12:0
-OTA13 CRENOVA
-p:Skylink
-1f80:00eb0000:0bc7:0003:12:0
-OTA14 COSHIP DI
-p:Skylink
-1f81:00eb0000:0bc7:0003:12:0
-OTA15 SMIT
-p:Skylink
-1f82:00eb0000:0bc7:0003:12:0
-OTA16 SMARDTV
-p:Skylink
-1f83:00eb0000:0bc7:0003:12:0
-OTA17 WINIX
-p:Skylink
-1f84:00eb0000:0bc7:0003:12:0
-OTA18 OPENSAT
-p:Skylink
-1f85:00eb0000:0bc7:0003:12:0
-OTA19 GOSAT
-p:Skylink
-14a0:00eb0000:0c98:0003:12:0
-GAC 3224
-p:SES ASTRA
 14a1:00eb0000:0c98:0003:12:0
 Proxy_06_3224
 p:SES ASTRA
@@ -1946,25 +764,13 @@ p:SES ASTRA
 15b3:00eb0000:0c86:0003:12:0
 Opentech
 p:SatelliteBG
-15b3:00eb0000:0c9a:0003:12:0
-OTA
-p:SatelliteBG
 1d06:00eb0000:0c81:0003:14:0
 RMT_BL8
-p:Astra2Connect
-1d06:00eb0000:0c9d:0003:14:0
-RMT_BL8
-p:Astra2Connect
-1d10:00eb0000:0c83:0003:14:0
-Astra2Connect
 p:Astra2Connect
 1d10:00eb0000:7993:0003:14:0
 Astra2Connect
 p:Astra2Connect
 1d1a:00eb0000:7989:0003:14:0
-RMT_BL7
-p:Astra2Connect
-1d1a:00eb0000:0c8d:0003:14:0
 RMT_BL7
 p:Astra2Connect
 1d24:00eb0000:798f:0003:14:0
@@ -1985,12 +791,9 @@ p:Astra2Connect
 1cfc:00eb0000:7991:0003:14:0
 Astra2Connect
 p:Astra2Connect
-5230:00eb0000:0c99:0003:22:0
-13thStreet
-p:CANALDIGITAAL,c:000206,c:010056,c:030206,c:050001,C:1818,C:1817,C:0500,C:0100
 5142:00eb0000:0c8b:0003:22:0
 L1MBURG
-p:CANALDIGITAAL,c:000200,c:010050,c:020020,c:031ffe,c:050001,C:1817,C:0100
+p:CANALDIGITAAL
 5144:00eb0000:0c8b:0003:22:0
 TV West
 p:CANALDIGITAAL,c:000201,c:010052,c:020022,c:031ffe,c:050001,C:1817,C:0100
@@ -1999,13 +802,16 @@ AT5
 p:CANALDIGITAAL,c:000202,c:010054,c:020024,c:031ffe,c:050001,C:1817,C:0100
 514c:00eb0000:0c8b:0003:22:0
 TV Drenthe
-p:CANALDIGITAAL
+p:CANALDIGITAAL,c:000205,c:01005a,c:02002a,c:031ffe,c:050001
 5152:00eb0000:0c8b:0003:22:0
 Omroep Zeeland Televisie
 p:CANALDIGITAAL
 5154:00eb0000:0c8b:0003:22:0
 Omroep Brabant Televisie
 p:CANALDIGITAAL
+515a:00eb0000:0c8b:0003:22:0
+ComedyCentral/Kindernet
+p:CANALDIGITAAL,c:00020e,c:01006a,c:020038,c:031ffe,c:050001,C:1817,C:0100
 5276:00eb0000:0c96:0003:22:0
 JIM
 p:TV Vlaanderen,c:000226,c:010078,c:020032,c:030226,c:050001,C:1819,C:1818,C:0500,C:0100
@@ -2014,37 +820,37 @@ p:TV Vlaanderen,c:000226,c:010078,c:020032,c:030226,c:050001,C:1819,C:1818,C:050
 p:TV Vlaanderen,c:000228,c:01007a,c:020034,c:030228,c:050001,C:1819,C:1818,C:0500,C:0100
 177a:00eb0000:0c82:0003:22:0
 Journaal24/Best 24
-p:CANALDIGITAAL,c:000200,c:010050,c:030200,c:050001,C:1819,C:1817,C:0100
+p:CANALDIGITAAL
 527c:00eb0000:0c96:0003:22:0
 vtmKazoom/Kanaal Z
 p:TV Vlaanderen
 527e:00eb0000:0c96:0003:22:0
 VIJF tv
-p:TV Vlaanderen
+p:TV Vlaanderen,c:00022e,c:010080,c:02003a,c:03022e,c:050001,C:1819,C:1818,C:0500,C:0100
 177f:00eb0000:0c82:0003:22:0
 Holland Doc 24
 p:CANALDIGITAAL
 5280:00eb0000:0c96:0003:22:0
 Vitaya
-p:TV Vlaanderen
+p:TV Vlaanderen,c:000230,c:010082,c:02003c,c:030230,c:050001,C:1819,C:1818,C:0500,C:0100
 5282:00eb0000:0c96:0003:22:0
 Acht
 p:TV Vlaanderen,c:000232,c:010084,c:030232,c:050001,C:1819,C:1818,C:0500,C:0100
 1784:00eb0000:0c82:0003:22:0
 Zappelin/Zapp24
-p:CANALDIGITAAL,c:000202,c:010054,c:030202,c:050001,C:1817,C:0100
+p:CANALDIGITAAL
 5284:00eb0000:0c96:0003:22:0
 Man-X
-p:TV Vlaanderen
+p:TV Vlaanderen,c:000234,c:010086,c:030234,c:050001,C:1819,C:1818,C:1817,C:0d96,C:0624,C:0500,C:0100
 5286:00eb0000:0c96:0003:22:0
 KetOp12
 p:TV Vlaanderen,c:000236,c:010088,c:020042,c:030236,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
 1789:00eb0000:0c82:0003:22:0
 Humor 24/Nost.Net
-p:CANALDIGITAAL,c:000203,c:010056,c:030203,c:050001,C:0100,C:0500
+p:CANALDIGITAAL
 178e:00eb0000:0c82:0003:22:0
 FoxLife
-p:Canaldigitaal,c:000204,c:010058,c:030204,c:050001,C:1818,C:1817,C:0500,C:0100
+p:Canaldigitaal
 1793:00eb0000:0c82:0003:22:0
 Boomerang
 p:CANALDIGITAAL
@@ -2053,13 +859,13 @@ Boomerang CZ
 p:CANALDIGITAAL
 1798:00eb0000:0c82:0003:22:0
 Discovery Science
-p:CANALDIGITAAL,c:000206,c:01005c,c:030206,c:050001,C:1818,C:1817,C:0500,C:0100
+p:CANALDIGITAAL
 1799:00eb0000:0c82:0003:22:0
 Disc. Sci. CZ
 p:CANALDIGITAAL
 179d:00eb0000:0c82:0003:22:0
 Investigation Discovery
-p:CANALDIGITAAL,c:000207,c:01005e,c:030207,c:050001,c:090000,C:1818,C:1817,C:0500,C:0100
+p:CANALDIGITAAL
 179e:00eb0000:0c82:0003:22:0
 Investigation Disc.CZ
 p:CANALDIGITAAL
@@ -2068,7 +874,7 @@ TEST
 p:CANALDIGITAAL,c:000208,c:010060,c:020028,c:030208,c:050001,C:1818,C:1817,C:0500,C:0100
 17a7:00eb0000:0c82:0003:22:0
 TVL/ATV/TV Oost
-p:CANALDIGITAAL,c:000209,c:010062,c:030209,c:050001,C:1819,C:1818,C:0500,C:0100
+p:CANALDIGITAAL
 13ab:00eb0000:0c85:0003:22:0
 HBO Comedy
 p:Skylink
@@ -2086,7 +892,7 @@ TV Paprika
 p:Skylink
 51ae:00eb0000:0c96:0003:22:0
 Film1 Family
-p:Canaldigitaal,c:000200,c:010050,c:030200,c:050001,c:090000,C:1817,C:0100
+p:Canaldigitaal
 17b1:00eb0000:0c82:0003:22:0
 Disney Channel
 p:CANALDIGITAAL,c:00020b,c:010066,c:03020b,c:050001,C:1818,C:1817,C:0500,C:0100
@@ -2098,52 +904,52 @@ Test2
 p:CANALDIGITAAL
 51b3:00eb0000:0c96:0003:22:0
 Film1 Sundance
-p:Canaldigitaal,c:000201,c:010052,c:030201,c:050001,C:1817,C:0100
+p:Canaldigitaal
 17b4:00eb0000:0c82:0003:22:0
 Test3
 p:CANALDIGITAAL
 17b8:00eb0000:0c82:0003:22:0
 Private Spice
-p:CANALDIGITAAL,c:00020c,c:010068,c:03020c,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
+p:CANALDIGITAAL
 51b8:00eb0000:0c96:0003:22:0
 Film1 Action
-p:Canaldigitaal,c:000202,c:010054,c:030202,c:050001,C:1817,C:0100
+p:Canaldigitaal
 51bd:00eb0000:0c96:0003:22:0
 Sport1 Voetbal
-p:Canaldigitaal,c:000203,c:010056,c:030203,c:050001,C:1817,C:0100
+p:Canaldigitaal
 51c2:00eb0000:0c96:0003:22:0
 Sport1 Golf
-p:Canaldigitaal,c:000204,c:010058,c:030204,c:050001,C:1817,C:0100
+p:Canaldigitaal
 51c7:00eb0000:0c96:0003:22:0
 EDL2
-p:Canaldigitaal,c:000205,c:01005a,c:020025,c:030205,c:050001,C:1818,C:1817,C:0500,C:0100
+p:Canaldigitaal
 51cc:00eb0000:0c96:0003:22:0
 Cartoon/TCM
-p:Canaldigitaal,c:000206,c:01005c,c:030206,c:050001,C:0500,C:0100
+p:Canaldigitaal
 51d1:00eb0000:0c96:0003:22:0
 Extreme Sports
-p:Canaldigitaal,c:000207,c:01005e,c:030207,c:050001,C:1818,C:1817,C:0500,C:0100
+p:Canaldigitaal
 51d2:00eb0000:0c96:0003:22:0
 Extreme Sports CZ
 p:Canaldigitaal
+51d3:00eb0000:0c96:0003:22:0
+MTV NL
+p:Canaldigitaal,c:000208,c:01005f,c:02002f,c:030208,c:050001,C:1818,C:1817,C:0500,C:0100
 51d4:00eb0000:0c96:0003:22:0
 TV Oranje
-p:Canaldigitaal,c:00020b,c:010066,c:03020b,c:050001,C:1818,C:1817,C:0500,C:0100
-51d6:00eb0000:0c96:0003:22:0
-Sport1 Promokanaal
 p:Canaldigitaal
 5212:00eb0000:0c99:0003:25:0
 RTL7 HD
-p:CANALDIGITAAL,c:000200,c:020020,c:030200,c:040064,c:050001,C:1817,C:0100
+p:CANALDIGITAAL
 5217:00eb0000:0c99:0003:25:0
 RTL5 HD
-p:CANALDIGITAAL,c:000201,c:020021,c:030201,c:040065,c:050001,C:1817,C:0100
+p:CANALDIGITAAL
 521c:00eb0000:0c99:0003:25:0
 NET5 HD
-p:CANALDIGITAAL,c:000202,c:010066,c:020022,c:030202,c:050001,c:090000,C:1817,C:0100
+p:CANALDIGITAAL
 141f:00eb0000:0c85:0003:25:0
 History HD DUT
-p:Skylink,c:0007de,c:0107f2,c:0307de,c:050001,c:0986a0202,C:1818,C:1817,C:0d96,C:0624,C:0500,C:0100
+p:Skylink
 1420:00eb0000:0c85:0003:25:0
 History HD BG
 p:SatelliteBG
@@ -2152,130 +958,52 @@ Eurosport HD DUT
 p:Skylink,c:0007dd,c:01080f,c:0307dd,c:050001,C:1818,C:1817,C:0d96,C:0624,C:0500,C:0100
 5221:00eb0000:0c99:0003:25:0
 een HD
-p:CANALDIGITAAL,c:000203,c:010067,c:020023,c:030203,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
+p:CANALDIGITAAL
 1422:00eb0000:0c85:0003:25:0
 Eurosport HD BG
 p:SatelliteBG
 5226:00eb0000:0c99:0003:25:0
 Canvas HD
-p:CANALDIGITAAL,c:000204,c:010068,c:020024,c:030204,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
+p:CANALDIGITAAL
 522b:00eb0000:0c99:0003:25:0
 Veronica/DisneyXD HD
-p:CANALDIGITAAL,c:000205,c:010069,c:020025,c:030205,c:050001,c:090000,C:1818,C:1817,C:0100
+p:CANALDIGITAAL
 5230:00eb0000:0c99:0003:25:0
 NED3 HD
-p:CANALDIGITAAL,c:000206,c:020026,c:030206,c:04006a,c:050001,C:1818,C:1817,C:0500,C:0100
-c351:00eb0000:271d:f001:25:0
-TNT Serie HD
-p:KD Home,C:1801,C:1722
-c352:00eb0000:271d:f001:25:0
-TNT Film HD
-p:KD Home,C:1801,C:1722
-c353:00eb0000:271d:f001:25:0
-Planet HD
-p:KD Home,C:1801,C:1722
-c354:00eb0000:271d:f001:25:0
-13th Street HD
-p:KD Home,C:1801,C:1722
-c355:00eb0000:271c:f001:25:0
-SPORT1+ HD
-p:KD Home,C:1801,C:1722
-c356:00eb0000:271c:f001:25:0
-NatGeo HD (KD)
-p:KD Home,C:1801,C:1722
-c357:00eb0000:271c:f001:25:0
-FOX HD
-p:KD Home,C:1801,C:1722
-c358:00eb0000:271c:f001:25:0
-Syfy HD
-p:KD Home,C:1801,C:1722
-c359:00eb0000:2716:f001:25:0
-kabel eins HD
-p:Digital Free
-c35a:00eb0000:2716:f001:25:0
-SPORT1 HD
-p:Digital Free
-c35f:00eb0000:271d:f001:25:0
-ProSieben HD
-p:Digital Free
+p:CANALDIGITAAL
 1b62:00eb0000:0c88:0003:25:0
 Discovery HD
-p:CANALDIGITAAL,c:000200,c:030200,c:040050,c:09330202,c:050001,C:1818,C:1817,C:0d96,C:0d70,C:0d03,C:0624,C:0500,C:0100
-c362:00eb0000:271c:f001:25:0
-SAT.1 HD
-p:Digital Free
+p:CANALDIGITAAL
 1b63:00eb0000:0c88:0003:25:0
 Discovery HD CZ
 p:CANALDIGITAAL
-c363:00eb0000:2716:f001:25:0
-sixx HD
-p:Digital Free
-c364:00eb0000:2716:f001:25:0
-Romance TV HD
-p:KD Home
-c365:00eb0000:2716:f001:25:0
-Servus TV HD
-p:Digital Free
-c366:00eb0000:2716:f001:25:0
-Spiegel TV Wissen HD
-p:KD Home
 1b67:00eb0000:0c88:0003:25:0
 NGC HD
-p:CANALDIGITAAL,c:000201,c:030201,c:040052,c:050001,c:090000,C:1818,C:1817,C:0500,C:0100
+p:CANALDIGITAAL
 1b6c:00eb0000:0c88:0003:25:0
 RTL4 HD
-p:CANALDIGITAAL,c:000202,c:020022,c:030202,c:040054,c:050001,c:090000,C:1817,C:0100
-006f:00eb0000:271b:0085:25:0
-Disney Cinemagic HD
-p:SKY,C:1801,C:1722
-0070:00eb0000:271b:0085:25:0
-NatGeo HD
-p:SKY,C:1801,C:1722
-1770:00eb0000:0c81:0003:25:0
-ASTRA HD
-p:BetaDigital,c:0000ff,c:0300ff,c:040103,c:050001
-0071:00eb0000:271b:0085:25:0
-History HD
-p:SKY,C:1801,C:1722
-1771:00eb0000:0c81:0003:25:0
-ASTRA 3D Demo
-p:SES ASTRA
+p:CANALDIGITAAL
 1b71:00eb0000:0c88:0003:25:0
 Brava HDTV
-p:CANALDIGITAAL,c:000203,c:030203,c:040056,c:050001,C:1818,C:1817,C:0d96,C:0d70,C:0d03,C:0624,C:0500,C:0100
-0072:00eb0000:271b:0085:25:0
-Sky Sport HD 2
-p:SKY,C:1801,C:1722
+p:CANALDIGITAAL
 1b72:00eb0000:0c88:0003:25:0
 Brava HDTV CZ
 p:CANALDIGITAAL
 1b76:00eb0000:0c88:0003:25:0
 VTM HD
-p:CANALDIGITAAL,c:000204,c:010058,c:020023,c:030204,c:050001,C:1818,C:0500,C:0100
-177a:00eb0000:0c81:0003:25:0
-DOLBY 3D
-p:SES ASTRA
+p:CANALDIGITAAL
 1b7b:00eb0000:0c88:0003:25:0
 NED1 HD
-p:Canaldigitaal,c:000205,c:020024,c:030205,c:04005c,c:050001,c:090000,C:1818,C:1817,C:0500,C:0100
+p:Canaldigitaal,c:000205,c:020024,c:030205,c:04005c,c:050001,C:1818,C:1817,C:0500,C:0100
 1b7c:00eb0000:0c88:0003:25:0
 RTL8 HD
-p:CANALDIGITAAL,c:000206,c:020026,c:030206,c:04005e,c:050001,C:1817,C:0100
+p:CANALDIGITAAL
 1b7d:00eb0000:0c88:0003:25:0
 Penthouse HD
-p:CANALDIGITAAL,c:000207,c:01005f,c:030207,c:050001,C:1818,C:1817,C:0100
-007e:00eb0000:271b:0085:25:0
-Disney Cinemagic  HD
-p:SKY,c:0000ff,c:020020,c:0300ff,c:040103,c:050001,C:1722,C:1801
+p:CANALDIGITAAL
 1b7e:00eb0000:0c88:0003:25:0
 Penthouse HD CZ
 p:CANALDIGITAAL
-007f:00eb0000:271b:0085:25:0
-NatGeo HD
-p:SKY,c:0001ff,c:020020,c:0301ff,c:040203,c:050001,C:1722,C:1801
-0080:00eb0000:271b:0085:25:0
-History HD
-p:SKY,c:0002ff,c:020020,c:0302ff,c:040303,c:050001,C:1801,C:1722
 13a6:00eb0000:0c85:0003:25:0
 Nova HD
 p:Skylink
@@ -2287,19 +1015,13 @@ Prima family HD
 p:Skylink
 13a9:00eb0000:0c85:0003:25:0
 Eurosport HD
-p:Skylink,c:0007dd,c:01080f,c:0307dd,c:050001,C:0d96,C:0d70,C:0d06,C:0d03,C:0b01,C:0624,C:0500,C:0100
+p:Skylink
 13aa:00eb0000:0c85:0003:25:0
 History HD
 p:Skylink
-13b0:00eb0000:0c95:0003:25:0
-HISTORY HD DUT
-p:Skylink,c:000fa2,c:011092,c:030fa2,c:050001,C:0100,C:0500,C:0d70
 13b1:00eb0000:0c95:0003:25:0
 Eurosport 2 HD
-p:Skylink,c:000fa1,c:011221,c:030fa1,c:050001,C:0d96,C:0d70,C:0d06,C:0d03,C:0b01,C:0624,C:0500,C:0100
-13b2:00eb0000:0c95:0003:25:0
-HISTORY HD
-p:Skylink,c:000fa2,c:011092,c:030fa2,c:050001,c:0911820202,C:0100,C:0500,C:0624,C:0b01,C:0d03,C:0d06,C:0d70,C:00
+p:Skylink
 13b3:00eb0000:0c95:0003:25:0
 FILMBOX HD
 p:Skylink
@@ -2314,111 +1036,42 @@ HBO HD
 p:Skylink
 13b8:00eb0000:0c95:0003:25:0
 Travel Channel HD CE
-p:Skylink,c:000fa8,c:011048,c:030fa8,c:050001,C:0100,C:0500,C:0624,C:0b01,C:0d03,C:0d06,C:0d70,C:0d96
-13b9:00eb0000:0c95:0003:25:0
-Eurosport HD DUT
 p:Skylink
 13c0:00eb0000:0c95:0003:25:0
 Travel Channel HD WE
-p:Skylink,c:000fa8,c:011048,c:030fa8,c:050001,c:09e540202,C:1818,C:1817,C:0d96,C:0624,C:0500,C:0100
+p:Skylink
 17c0:00eb0000:0c82:0003:25:0
 NED2 HD
-p:CANALDIGITAAL,c:00020d,c:02002b,c:03020d,c:040069,c:050001,c:090000,C:1818,C:1817,C:0500,C:0100
-13c1:00eb0000:0c95:0003:25:0
-HISTORY HD BG
-p:SatelliteBG
+p:CANALDIGITAAL,c:00020d,c:02002b,c:03020d,c:040069,c:050001,C:1818,C:1817,C:0500,C:0100
 13c8:00eb0000:0c95:0003:25:0
 Travel Channel HD EE
-p:Skylink,c:000fa8,c:011048,c:030fa8,c:050001,C:0624,C:0b01,C:0d06,C:0d70,C:0d96
+p:Skylink
 13c9:00eb0000:0c95:0003:25:0
 Eurosport 2 HD DUT
-p:Skylink
+p:Skylink,c:000db7,c:010dcb,c:030db7,c:050001,C:1817,C:0624,C:0100
 17ca:00eb0000:0c82:0003:25:0
 SBS6 HD
-p:CANALDIGITAAL,c:00020e,c:01006a,c:02002a,c:03020e,c:050001,c:090000,C:1817,C:0100
+p:CANALDIGITAAL
 17cc:00eb0000:0c82:0003:25:0
 EDL1 HD
-p:Canaldigitaal,c:000210,c:0100e0,c:02002d,c:030210,c:050001,C:1817,C:0100
-17ce:00eb0000:0c82:0003:25:0
-Penthouse HD
-p:Canaldigitaal,c:000211,c:0100e2,c:030211,c:050001,C:1818,C:1817,C:0d96,C:0d70,C:0d03,C:0624,C:0100
-13cf:00eb0000:0c8a:0003:25:0
-Nova HD
-p:Skylink
-17cf:00eb0000:0c82:0003:25:0
-Penthouse HD CZ
 p:Canaldigitaal
-13d0:00eb0000:0c8a:0003:25:0
-Nova Sport HD
-p:Skylink
 17d4:00eb0000:0c91:0003:25:0
 DELUXE LOUNGE HD
-p:BetaDigital,c:0000ff,c:0300ff,c:040103,c:050001,C:1837
+p:BetaDigital,C:1837
 17d5:00eb0000:0c91:0003:25:0
 UNITEL CLASSICA HD
-p:BetaDigital,c:0001ff,c:0301ff,c:040203,c:050001,C:1837
-13d6:00eb0000:0c8a:0003:25:0
-Novinka HD
-p:Skylink
+p:BetaDigital,C:1837
 17d6:00eb0000:0c91:0003:25:0
 .
-p:BetaDigital,c:0002ff,c:0302ff,c:040303,c:050001
-51d6:00eb0000:0c96:0003:25:0
-Test HD
-p:Canaldigitaal,c:000208,c:020028,c:030208,c:040060,c:050001,c:090000,C:0100,C:0500,C:1817,C:1818
+p:BetaDigital
 17d7:00eb0000:0c91:0003:25:0
 AutoMotorSport HD
-p:BetaDigital,c:0003ff,c:0303ff,c:040403,c:050001,C:1837
+p:BetaDigital,C:1837
 51db:00eb0000:0c96:0003:25:0
 Film 1 Premiere HD
-p:CANALDIGITAAL,c:000209,c:030209,c:04006f,c:050001,c:090000,C:1817,C:0100
+p:CANALDIGITAAL
 51e0:00eb0000:0c96:0003:25:0
 Sport1 SELECT HD
-p:Canaldigitaal,c:00020a,c:010064,c:03020a,c:050001,C:1817,C:0100
-cf18:00eb0000:2719:f001:100:0
-11475V SID 0xcf18
-p:DVB-S QPSK 11475V 23.5°E
-cf19:00eb0000:271a:f001:100:0
-12725V SID 0xcf19
-p:DVB-S QPSK 12725V 23.5°E
-cf1e:00eb0000:2718:f001:100:0
-11555H SID 0xcf1e
-p:DVB-S2 QPSK 11555H 23.5°E
-cf1f:00eb0000:2715:f001:100:0
-12605H SID 0xcf1f
-p:DVB-S2 QPSK 12605H 23.5°E
-cf20:00eb0000:2714:f001:100:0
-12605V SID 0xcf20
-p:DVB-S2 QPSK 12605V 23.5°E
-cf22:00eb0000:2718:f001:100:0
-11555H SID 0xcf22
-p:DVB-S2 QPSK 11555H 23.5°E
-cf24:00eb0000:2718:f001:100:0
-11555H SID 0xcf24
-p:DVB-S2 QPSK 11555H 23.5°E
-cf25:00eb0000:2718:f001:100:0
-11555H SID 0xcf25
-p:DVB-S2 QPSK 11555H 23.5°E
-cf2a:00eb0000:2718:f001:100:0
-11555H SID 0xcf2a
-p:DVB-S2 QPSK 11555H 23.5°E
-1f86:00eb0000:0bc7:0003:100:0
-12565H SID 0x1f86
-p:DVB-S QPSK 12565H 23.5°E
-1f87:00eb0000:0bc7:0003:100:0
-12565H SID 0x1f87
-p:DVB-S QPSK 12565H 23.5°E
-1f88:00eb0000:0bc7:0003:100:0
-12565H SID 0x1f88
-p:DVB-S QPSK 12565H 23.5°E
-1f89:00eb0000:0bc7:0003:100:0
-12565H SID 0x1f89
-p:DVB-S QPSK 12565H 23.5°E
-1f8a:00eb0000:0bc7:0003:100:0
-12565H SID 0x1f8a
-p:DVB-S QPSK 12565H 23.5°E
-1f8b:00eb0000:0bc7:0003:100:0
-12565H SID 0x1f8b
-p:DVB-S QPSK 12565H 23.5°E
+p:Canaldigitaal
 end
-Edited with dreamboxEDIT 5.0.0.3 on 13sep2012 17:45:00
+Edited with dreamboxEDIT 5.0.0.3 on 17sep2012 13:42:59

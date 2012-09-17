@@ -1816,7 +1816,7 @@ C+ ACCIÓN HD
 p:DIGITAL+
 0014:00c00000:0002:0085:1:0
 Sky Emotion
-p:SKY,C:1861
+p:SKY,c:000aff,c:010b00,c:020020,c:030aff,C:1861
 0014:00820000:012d:0006:1:0
 AFN Sigonella
 p:,C:0e00
@@ -1888,7 +1888,7 @@ MTV Polska.
 p:MTV Networks Europe,c:0000a1,c:010054,c:0300a1,C:1813,C:0d00,C:0100
 0016:00c00000:0011:0085:1:0
 Heimatkanal
-p:SKY,c:0005ff,c:010600,c:020020,c:0305ff,C:1861
+p:SKY,c:0005ff,c:010600,c:020020,c:0305ff,C:1861,C:1834,C:1833,C:1722,C:1702,C:09c7,C:09c4,C:09af,C:098c
 0016:00820000:30d4:013e:1:0
 Hope channel
 p:
@@ -2536,7 +2536,7 @@ MOTORS TV
 p:CSAT,c:0000a8,c:010070,c:0300a8,C:0100,C:0500,C:1811
 2525:00c00000:0456:0001:1:0
 MOTORS TV
-p:CSAT,c:0000a8,c:010071,c:0300a8,C:1863,C:1818,C:1817,C:1811,C:0500,C:0100
+p:CSAT,c:0000a8,c:010071,c:0300a8,C:1863,C:1819,C:1818,C:1817,C:1811,C:0500,C:0100
 2c25:00820000:251c:fbff:1:0
 Wimbledon 3 HD
 p:SkyItalia
@@ -9901,7 +9901,7 @@ Al Mayadeen Tv
 p:Harmonic,f:40
 07df:00c00000:0449:0035:1:0
 Discovery
-p:CANALDIGITAAL,c:000203,c:010058,c:020022,c:031ffe,C:1818,C:1817,C:0622,C:0500,C:0100
+p:CANALDIGITAAL,c:000203,c:010058,c:020022,c:031ffe,C:1818,C:1817,C:0500,C:0100
 0fdf:00820000:2648:fbff:1:0
 Vetrina Primafila
 p:SkyItalia
@@ -10150,7 +10150,7 @@ Mediaset ITALIA DUE
 p:Mediaset
 07e4:00c00000:0449:0035:1:0
 Animal Planet/TLC
-p:CANALDIGITAAL,c:000202,c:010060,c:020023,c:031ffe,C:1817,C:0622,C:0500,C:0100
+p:CANALDIGITAAL,c:000202,c:010060,c:020023,c:031ffe,C:1818,C:1817,C:0622,C:0500,C:0100
 12e4:00820000:2e7c:013e:1:0
  CANAL+ FILM
 p:CYFRA +
@@ -14473,13 +14473,13 @@ PARIS PREMIERE HD
 p:CSAT,f:40
 4333:00820000:300c:013e:25:0
 RTS Un HD
-p:Radio Television Suisse
+p:Radio Television Suisse,c:000214,c:010215,c:020219,c:030214,c:050001,C:0500
 1e34:00820000:15e0:fbff:25:0
 Primafila 1 HD
 p:SkyItalia,f:40
 4334:00820000:300c:013e:25:0
 RTS Deux HD
-p:Radio Television Suisse
+p:Radio Television Suisse,c:00021e,c:01021f,c:020223,c:03021e,c:050001,C:0500
 1e35:00820000:15e0:fbff:25:0
 Primafila 3 HD
 p:SkyItalia,f:40
@@ -15298,7 +15298,7 @@ Primafila 13 HD
 p:SkyItalia
 6ea5:00c00000:04b1:0001:25:0
 WDR HD Köln
-p:ARD,c:00157d,c:01157e,c:0201f8,c:03157d,c:050001
+p:ARD,c:00157d,c:01157e,c:021580,c:03157d,c:050001
 37a6:00820000:14b4:fbff:25:0
 Sky Uno HD
 p:SkyItalia
@@ -15388,7 +15388,7 @@ kabel eins HD Austria
 p:ProSiebenSat.1
 03b7:00820000:2134:013e:25:0
 RSI LA 2 HD
-p:Radiotelevisione svizzera
+p:Radiotelevisione svizzera,c:000232,c:010233,c:020237,c:030232,c:050001,C:0500
 0db7:00820000:2db4:fbff:25:0
 GamberoRossoHD
 p:SkyItalia
@@ -15589,7 +15589,7 @@ DISNEY MAGIC HD
 p:CSAT,f:40
 36e3:00820000:06a4:013e:25:0
 RSI LA 1 HD
-p:Radiotelevisione svizzera
+p:Radiotelevisione svizzera,c:000228,c:010229,c:02022d,c:030228,c:050001,C:0500
 6eea:00c00000:04b1:0001:25:0
 WDR Test B
 p:ARD
@@ -17115,4 +17115,4 @@ p:SkyItalia,f:40
 ikusi
 p:SkyItalia
 end
-Edited with dreamboxEDIT 5.0.0.3 on 27aug2012 11:05:00
+Edited with dreamboxEDIT 5.0.0.3 on 17sep2012 13:46:23
