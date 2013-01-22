@@ -1,8 +1,10 @@
 #NAME Sport
-#SERVICE 1:64:1E:0:0:0:0:0:0:0::-- C+ NL Sport --
+#SERVICE 1:64:24:0:0:0:0:0:0:0::-- C+ NL Sport --
 #DESCRIPTION -- C+ NL Sport --
 #SERVICE 1:0:1:7E9:449:35:C00000:0:0:0:
-#SERVICE 1:64:1F:0:0:0:0:0:0:0::-- Hotbird 13.0 --
+#SERVICE 1:64:25:0:0:0:0:0:0:0::-- Astra 28.2 --
+#DESCRIPTION -- Astra 28.2 --
+#SERVICE 1:64:26:0:0:0:0:0:0:0::-- Hotbird 13.0 --
 #DESCRIPTION -- Hotbird 13.0 --
 #SERVICE 1:0:19:7822:428:1:C00000:0:0:0:
 #SERVICE 1:0:1:778F:424:1:C00000:0:0:0:
