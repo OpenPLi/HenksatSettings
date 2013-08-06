@@ -799,7 +799,7 @@ transponders
 	s 11720000:28200000:0:4:235:2:0:1:2:0:2
 /
 00eb0000:0c82:0003
-	s 11739000:27500000:1:3:235:2:0
+	s 11739000:27500000:1:2:235:2:0:1:2:0:2
 /
 00eb0000:0c84:0003
 	s 11778000:27500000:1:9:235:2:0:1:1:2:2
@@ -2138,6 +2138,9 @@ p:Mediaset
 0001:011aace0:0088:0001:1:0
 Luxe TV SD
 p:Globecast UK
+0001:00eb0000:0c9a:0003:1:0
+Virtual
+p:Skylink,f:40
 0001:00820000:1fa4:013e:1:0
 RIT-TV
 p:RIT
@@ -2243,6 +2246,9 @@ p:,C:0e00
 0002:00820000:1770:0110:1:0
 Canale 5
 p:Mediaset
+0002:00eb0000:0c9a:0003:1:0
+Virtual2
+p:Skylink,f:40
 0002:00820000:00c9:0006:1:0
 AFN Atlantic
 p:,C:0e00
@@ -2642,6 +2648,9 @@ p:DIGITAL+
 7605:0e080000:02be:0600:1:0
 Minimax / Animax
 p:UPC Direct
+d805:011a0000:0a36:0002:1:0
+Cruzr Gay TV
+p:BSkyB
 0006:00820000:3200:013e:1:0
 Viacom Blink!
 p:MTV Networks Europe
@@ -2897,6 +2906,9 @@ p:,C:0e00
 0708:00300000:001e:0056:1:0
 DR Update
 p:,C:090f
+0708:0082accf:0578:013e:1:0
+CHAT
+p:Satlink
 0c08:0e08b13f:0009:0001:1:0
 Z1
 p:RCS
@@ -7667,6 +7679,9 @@ p:SkyItalia,c:0000a3,c:0300a3,C:09cd,C:093b,C:0919
 3641:00820000:00c8:013e:1:0
 ESP UPC
 p:Eutelsat,C:1861,C:1813,C:0604,C:0931,C:0100,C:1803,C:0b01,C:0500
+4241:00820000:3db8:013e:1:0
+Teleitalia Promo 1
+p:Telespazio
 6e41:00c00000:0431:0001:1:0
 NDR FS HH
 p:ARD
@@ -7748,6 +7763,9 @@ p:Cyfrowy Polsat S.A.
 3642:00820000:00c8:013e:1:0
 ESP2 NE Norwegian
 p:Eutelsat,C:0931,C:1861,C:1813,C:1803,C:0100,C:0500
+4242:00820000:3db8:013e:1:0
+Teleitalia Promo 2
+p:Telespazio
 6e42:00c00000:0431:0001:1:0
 NDR FS NDS
 p:ARD
@@ -7790,6 +7808,9 @@ p:SkyItalia
 3643:00820000:00c8:013e:1:0
 ESP2 NE Dutch
 p:Eutelsat,C:0931,C:1861,C:1813,C:1803,C:0100,C:0500
+4243:00820000:3db8:013e:1:0
+Teleitalia Promo 3
+p:Telespazio
 6e43:00c00000:0431:0001:1:0
 NDR FS SH
 p:ARD
@@ -7958,6 +7979,9 @@ p:MEDIA BROADCAST
 3346:00820000:3390:0071:1:0
 Polsat Cafe
 p:Cyfrowy Polsat S.A.
+4246:00820000:3db8:013e:1:0
+Sirio TV
+p:Telespazio
 6e46:00c00000:0431:0001:1:0
 MDR Thüringen
 p:ARD,c:000b55,c:010b56,c:020b58,c:030b55
@@ -8033,6 +8057,9 @@ p:SkyItalia
 3147:00c00000:0459:0001:1:0
 Deutsche Girls 2
 p:MEDIA BROADCAST
+4247:00820000:3db8:013e:1:0
+Sirio TV
+p:Telespazio
 6e47:00c00000:0431:0001:1:0
 SWR Fernsehen RP
 p:ARD
@@ -8093,6 +8120,9 @@ p:SkyItalia
 3148:00c00000:0459:0001:1:0
 Juwelo TV
 p:MEDIA BROADCAST
+4248:00820000:3db8:013e:1:0
+Sirio TV
+p:Telespazio
 5148:00eb0000:0c8b:0003:1:0
 Omrop Fryslan Televisie
 p:CANALDIGITAAL,c:000203,c:010056,c:020026,c:031ffe
@@ -8165,6 +8195,9 @@ p:SkyItalia
 3349:00820000:3390:0071:1:0
 Polsat News
 p:Cyfrowy Polsat S.A.
+4249:00820000:3db8:013e:1:0
+Sirio TV
+p:Telespazio
 7a49:00c00000:0410:0001:1:0
 TBN Enlace
 p:TSA
@@ -9007,7 +9040,7 @@ p:CYFRA +
 p:UPC Direct,c:000259,c:010262,c:02026c,c:030259,C:1815,C:0d02,C:0622,C:0100
 5157:00eb0000:0c8b:0003:1:0
 Test2
-p:CANALDIGITAAL,c:00020b,c:010067,c:031ffe,C:1817,C:0100
+p:CANALDIGITAAL,c:00020b,c:010067,c:031ffe,c:050001,C:1818,C:1817,C:0100
 7857:0e080000:02c4:0600:1:0
 MGM
 p:UPC Direct
@@ -9091,7 +9124,7 @@ TVP SPORT
 p:CYFRA +
 5158:00eb0000:0c8b:0003:1:0
 Test3
-p:CANALDIGITAAL,c:00020c,c:010068,c:031ffe,C:1817,C:0100
+p:CANALDIGITAAL,c:00020b,c:010067,c:031ffe,c:050001,C:0d96,C:0624
 7858:0e080000:02c4:0600:1:0
 ESPN America
 p:UPC Direct
@@ -9282,8 +9315,8 @@ p:MEDIA BROADCAST
 EDUSAT
 p:CYFRA +
 515b:00eb0000:0c8b:0003:1:0
-Crime Investigation
-p:CANALDIGITAAL
+Crime Inv
+p:CANALDIGITAAL,c:00020f,c:01006b,c:031ffe,c:09430202,C:1818,C:1817,C:0100
 785b:0e080000:02c4:0600:1:0
 AXN Crime
 p:UPC Direct
@@ -9351,7 +9384,7 @@ p:CYFRA +
 SAT.1
 p:ProSiebenSat.1,c:0000ff,c:010100,c:020020,c:0300ff
 515c:00eb0000:0c8b:0003:1:0
-Crime Investigation CZ
+Crime Inv CZ
 p:CANALDIGITAAL
 6f5c:00c00000:042c:0001:1:0
 Telesur
@@ -11468,6 +11501,9 @@ p:MEDIA BROADCAST
 0776:00300000:001d:0056:1:0
 TV 1000 Ru Kino FSS
 p:
+0776:0082accf:0578:013e:1:0
+PIU TV
+p:Satlink
 0c76:00300000:0005:0056:1:0
 Disney XD
 p:,C:090f
@@ -16109,6 +16145,9 @@ p:BSkyB
 d7bc:011a0000:0900:0002:1:0
 Ahlulbayt TV
 p:BSkyB
+02bd:00eb0000:0c9a:0003:1:0
+Nat Geo HD
+p:NURTS,f:40
 0bbd:0e080000:002c:0046:1:0
 SVT2 Dalarna
 p:Telenor
@@ -16118,6 +16157,9 @@ p:GlobeCast
 0fbd:00820000:2db4:fbff:1:0
 Fox +1
 p:SkyItalia
+13bd:00eb0000:0c85:0003:1:0
+Nickelodeon CZ
+p:Skylink,f:40
 1bbd:00c00000:0423:0001:1:0
 TVP2
 p:Telewizja Polska SA
@@ -16214,6 +16256,9 @@ p:CSAT
 2cbe:00820000:2580:fbff:1:0
 DisneyInEnglish
 p:SkyItalia
+2dbe:00820000:1a2c:fbff:1:0
+Primafila 20
+p:SkyItalia
 34be:00820000:3c28:013e:1:0
 Fashion One
 p:GLOBECAST ASIA
@@ -16288,6 +16333,9 @@ M6 MUSIC HITS
 p:CSAT
 2cbf:00820000:2580:fbff:1:0
 Juventus Channel
+p:SkyItalia
+2dbf:00820000:1a2c:fbff:1:0
+Primafila 20
 p:SkyItalia
 38bf:00820000:2648:fbff:1:0
 Primafila 2
@@ -17368,7 +17416,7 @@ TEST 117
 p:SkyItalia
 0fcc:00c00000:0451:0035:1:0
 RTL4
-p:CANALDIGITAAL
+p:CANALDIGITAAL,c:000216,c:01004a,c:020036,c:030216,C:1817,C:0100
 12cc:011a0000:0966:0002:1:0
 
 p:
@@ -17467,7 +17515,7 @@ Speeda TV
 p:GlobeCast
 0fcd:00c00000:0451:0035:1:0
 RTL5
-p:CANALDIGITAAL
+p:CANALDIGITAAL,c:000217,c:01004b,c:020037,c:030217,C:1817,C:0100
 10cd:00c00000:0418:0001:1:0
 FASHIONTV
 p:RRSat
@@ -17749,7 +17797,7 @@ Disney XD
 p:RCS
 0fd0:00c00000:0451:0035:1:0
 RTL8
-p:CANALDIGITAAL
+p:CANALDIGITAAL,c:00021a,c:01004e,c:02003a,c:03021a,C:1817,C:0100
 10d0:011a0000:07d7:0002:1:0
 Sky ScFi/Horror
 p:BSkyB
@@ -17987,6 +18035,9 @@ p:AB SAT
 02d3:00820000:1b58:013e:1:0
 S.NEU JERUSALEM
 p:Telespazio
+06d3:0082accf:0578:013e:1:0
+SUPERFLUO
+p:Satlink
 07d3:00820000:22c4:013e:1:0
 Supertennis HD
 p:GlobeCast
@@ -18449,6 +18500,9 @@ p:GlobeCast
 07da:00c00000:0449:0035:1:0
 TV Oranje
 p:CANALDIGITAAL,c:000204,c:010054,c:031ffe,C:0100,C:0500,C:0622,C:1817
+07da:0082accf:0578:013e:1:0
+SUPER
+p:Satlink
 09da:0e080000:000a:0046:1:0
 TV3 Sport 1
 p:Telenor,f:40
@@ -18794,6 +18848,9 @@ p:Arqiva
 75de:00c00000:0422:0001:1:0
 TEST_CSD1
 p:DIGITAL+
+ccde:011a0000:090b:0002:1:0
+TLC+1
+p:BSkyB
 00df:00c00000:0004:0085:1:0
 Sky Bundesliga 1
 p:SKY,c:0002ff,c:010300,c:020020,c:0302ff,C:1861
@@ -19634,6 +19691,9 @@ p:IRIB
 1feb:00c00000:0434:0001:1:0
 TMC
 p:CSAT
+20eb:0082accf:0578:013e:1:0
+CONTO TV 3
+p:Harmonic
 20eb:00820000:3db8:013e:1:0
 CONTO TV 3
 p:Telespazio,c:0001f5,c:0101f6,c:0301f5
@@ -19724,6 +19784,9 @@ p:
 1fec:00c00000:0434:0001:1:0
 ARTE
 p:CSAT
+20ec:0082accf:0578:013e:1:0
+CONTO TV 2
+p:Harmonic
 20ec:00820000:3db8:013e:1:0
 CONTO TV 2
 p:Telespazio,c:0004b1,c:0104b2,c:0304b1,C:0b01,C:09cd,C:093b,C:0919
@@ -19802,6 +19865,9 @@ p:GlobeCast
 1fed:00c00000:0434:0001:1:0
 LCP
 p:CSAT
+20ed:0082accf:0578:013e:1:0
+CONTO TV 1
+p:Harmonic
 20ed:00820000:3db8:013e:1:0
 CONTO TV 1
 p:Telespazio,c:00057a,c:01057b,c:03057a
@@ -19868,6 +19934,9 @@ p:Globecast
 1eee:00820000:21fc:013e:1:0
 RADIO QURAN
 p:
+20ee:0082accf:0578:013e:1:0
+CONTO TV
+p:Harmonic
 20ee:00820000:3db8:013e:1:0
 CONTO TV
 p:Telespazio,c:0001f5,c:0101f6,c:0301f5
@@ -20024,6 +20093,9 @@ p:Skylink
 1ef0:00300000:000a:0056:1:0
 Viasat Xtra PL3
 p:,C:093e,C:090f
+20f0:0082accf:0578:013e:1:0
+CONTO TV 5
+p:Harmonic
 20f0:00820000:3db8:013e:1:0
 CONTO TV 5
 p:Telespazio,c:0001f5,c:0101f6,c:0301f5
@@ -20063,6 +20135,9 @@ p:UPC Direct
 d7f0:011a0000:0900:0002:1:0
 Euronews
 p:BSkyB,c:000926,c:010923,c:030926
+00f1:00c00000:0003:0085:1:0
+Sky Sport News
+p:SKY
 00f1:00820000:2e18:00b0:1:0
 Tamazight
 p:SNRT
@@ -20240,6 +20315,9 @@ p:BSkyB
 13f3:011a0000:07ee:0002:1:0
 5107
 p:BSkyB
+20f3:0082accf:0578:013e:1:0
+CONTO TV 4
+p:Satlink
 23f3:00c00000:0452:0001:1:0
 FRANCE 4
 p:CSAT
@@ -20630,6 +20708,9 @@ p:MTV Networks Europe
 01f9:00820000:26ac:013f:1:0
 TMC
 p:AB SAT
+02f9:00eb0000:0c9a:0003:1:0
+Nat Geo Wild HD
+p:NURTS,f:40
 03f9:0e08318f:0001:0001:1:0
 Disney Channel
 p:RCS
@@ -24525,8 +24606,8 @@ p:Telespazio
 DR P5
 p:Telenor
 0fdc:00c00000:0451:0035:2:0
-RNW3
-p:CanalDigitaal
+RTL 1440
+p:CANALDIGITAAL
 38dc:00820000:0320:fbff:2:0
 Radio Montecarlo
 p:SkyItalia
@@ -25812,23 +25893,23 @@ p:Astra2Connect
 Astra2Connect
 p:Astra2Connect
 3201:00c00000:045f:0035:22:0
-een (MPEG4)
-p:TV Vlaanderen
+een
+p:TV Vlaanderen,c:0001f5,c:01004a,c:020389,c:031ffe,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
 3202:00c00000:045f:0035:22:0
-Canvas (MPEG4)
-p:TV Vlaanderen
+Canvas
+p:TV Vlaanderen,c:0001f6,c:01004c,c:02038a,c:031ffe,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
 3208:00c00000:045f:0035:22:0
 KetOp12
 p:TV Vlaanderen,c:0001fc,c:01004e,c:020020,c:031ffe,c:050001,C:1819,C:1818,C:1817,C:0500,C:0100
 320a:00c00000:045f:0035:22:0
-VTM (MPEG4)
-p:TV Vlaanderen
+VTM
+p:TV Vlaanderen,c:0001fe,c:010050,c:020385,c:031ffe,c:050001,C:1819,C:1818,C:0500,C:0100
 320c:00c00000:045f:0035:22:0
-2BE (MPEG4)
-p:TV Vlaanderen
+2BE
+p:TV Vlaanderen,c:000200,c:010052,c:020024,c:031ffe,c:050001,C:1819,C:1818,C:0500,C:0100
 320e:00c00000:045f:0035:22:0
-VIER (MPEG4)
-p:TV Vlaanderen
+VIER
+p:TV Vlaanderen,c:000202,c:010054,c:020026,c:031ffe,c:050001,C:1819,C:1818,C:0500,C:0100
 3210:00c00000:045f:0035:22:0
 vtmKazoom/Kanaal Z (MPEG4)
 p:TV Vlaanderen
@@ -25836,8 +25917,8 @@ p:TV Vlaanderen
 Vitaya (MPEG4)
 p:TV Vlaanderen,c:000206,c:010058,c:02002a,c:031ffe,c:050001,C:1819,C:1818,C:0500,C:0100
 3214:00c00000:045f:0035:22:0
-VIJF (MPEG4)
-p:TV Vlaanderen
+VIJF
+p:TV Vlaanderen,c:000208,c:01005a,c:02002c,c:031ffe,c:050001,C:1819,C:1818,C:0500,C:0100
 3216:00c00000:045f:0035:22:0
 Acht (MPEG4)
 p:TV Vlaanderen
@@ -25896,7 +25977,7 @@ p:CANALDIGITAAL,c:000209,c:010062,c:020032,c:031ffe,c:050001,C:1817,C:0100
 ComedyCentral/Kindernet
 p:CANALDIGITAAL,c:00020e,c:01006a,c:020038,c:031ffe,c:050001,C:1817,C:0500,C:0100
 325d:00c00000:045f:0035:22:0
-NGC (MPEG4)
+NGC
 p:TV Vlaanderen,c:000251,c:01008f,c:02003f,c:031ffe,c:050001,C:1818,C:1817,C:0500,C:0100
 5276:00eb0000:0c96:0003:22:0
 JIM
@@ -26031,7 +26112,7 @@ p:Canaldigitaal,c:000203,c:010056,c:030203,c:050001,C:1817,C:0100
 Sport1 Golf
 p:Canaldigitaal,c:000204,c:010058,c:030204,c:050001,C:1817,C:0100
 51c7:00eb0000:0c96:0003:22:0
-EDL2
+FOX Sports Eredivisie 3
 p:Canaldigitaal,c:000205,c:01005a,c:020025,c:030205,c:050001,C:1818,C:1817,C:0500,C:0100
 51cc:00eb0000:0c96:0003:22:0
 Cartoon/TCM
@@ -26050,7 +26131,7 @@ TV Oranje
 p:Canaldigitaal,c:00020b,c:010066,c:03020b,c:050001,C:1818,C:1817,C:0500,C:0100
 51d5:00eb0000:0c96:0003:22:0
 TLC
-p:Canaldigitaal
+p:Canaldigitaal,c:00020c,c:010067,c:02002b,c:03020c,c:050001,C:1817,C:0100
 2500:00820000:2260:fbff:25:0
 TEST13
 p:SkyItalia,f:40
@@ -26861,6 +26942,9 @@ p:,C:093e,C:090f
 0f42:00820000:2198:fbff:25:0
 Disney XD HD
 p:SkyItalia
+0f42:011a0000:07eb:0002:25:0
+TCM HD
+p:BSkyB
 1042:00820000:1d4c:fbff:25:0
 Sky 3D
 p:SkyItalia
@@ -27113,6 +27197,9 @@ p:CSAT
 2857:00c00000:0401:0001:25:0
 NDR FS NDS HD
 p:ARD
+5157:00eb0000:0c8b:0003:25:0
+iConcerts
+p:CANALDIGITAAL,c:00020b,c:010067,c:031ffe,c:050001,C:1818,C:1817,C:0100,f:40
 7857:00c00000:041a:0001:25:0
 C+COMEDIA HD
 p:DIGITAL+
@@ -27131,6 +27218,9 @@ p:CSAT,c:0000a3,c:0300a3,c:04005e,c:050001,C:1863,C:1811,C:0500,C:0100
 2858:00c00000:0401:0001:25:0
 NDR FS MV HD
 p:ARD
+5158:00eb0000:0c8b:0003:25:0
+iConcerts HD CZ
+p:CANALDIGITAAL,c:00020b,c:010067,c:031ffe,c:050001,C:0d96,C:0624,f:40
 7858:00c00000:041a:0001:25:0
 C+ LIGA HD
 p:DIGITAL+
@@ -28593,7 +28683,7 @@ p:VisionTV
 DR1 (720p50)
 p:Telenor
 17cc:00eb0000:0c82:0003:25:0
-EDL1 HD
+FOX Sports Eredivisie 1 HD
 p:Canaldigitaal,c:000210,c:0100e0,c:02002d,c:030210,c:050001,C:1817,C:0100
 19cc:00c00000:0444:0001:25:0
 OCS GEANTS HD
@@ -28734,7 +28824,7 @@ p:BSkyB,c:000202,c:010282,c:020901,c:030202,c:050001,c:099018800,C:0963,C:0961,C
 Discovery HD
 p:BSkyB
 51db:00eb0000:0c96:0003:25:0
-Film 1 Premiere HD
+Film1 Premiere HD
 p:CANALDIGITAAL,c:000209,c:030209,c:04006f,c:050001,C:1817,C:0100
 c4db:011a0000:0964:0002:25:0
 Rush HD
@@ -32045,74 +32135,68 @@ p:SkyItalia
 38fe:00820000:1af4:fbff:250:0
 ikusi
 p:SkyItalia
-00f1:00c00000:0003:0085:1:0
-Sky Sport News
-p:SKY
-0f42:011a0000:07eb:0002:25:0
-TCM HD
-p:BSkyB
-ccde:011a0000:090b:0002:1:0
-TLC+1
-p:BSkyB
-20ee:0082accf:0578:013e:1:0
-CONTO TV
-p:Harmonic
-20ed:0082accf:0578:013e:1:0
-CONTO TV 1
-p:Harmonic
-20ec:0082accf:0578:013e:1:0
-CONTO TV 2
-p:Harmonic
-20eb:0082accf:0578:013e:1:0
-CONTO TV 3
-p:Harmonic
-20f3:0082accf:0578:013e:1:0
-CONTO TV 4
-p:Satlink
-20f0:0082accf:0578:013e:1:0
-CONTO TV 5
-p:Harmonic
-2dbe:00820000:1a2c:fbff:1:0
-Primafila 20
-p:SkyItalia
-2dbf:00820000:1a2c:fbff:1:0
-Primafila 20
-p:SkyItalia
-0708:0082accf:0578:013e:1:0
-CHAT
-p:Satlink
-d805:011a0000:0a36:0002:1:0
-Cruzr Gay TV
-p:BSkyB
-0776:0082accf:0578:013e:1:0
-PIU TV
-p:Satlink
-4246:00820000:3db8:013e:1:0
-Sirio TV
-p:Telespazio
-4249:00820000:3db8:013e:1:0
-Sirio TV
-p:Telespazio
-4247:00820000:3db8:013e:1:0
-Sirio TV
-p:Telespazio
-4248:00820000:3db8:013e:1:0
-Sirio TV
-p:Telespazio
-07da:0082accf:0578:013e:1:0
-SUPER
-p:Satlink
-06d3:0082accf:0578:013e:1:0
-SUPERFLUO
-p:Satlink
-4241:00820000:3db8:013e:1:0
-Teleitalia Promo 1
-p:Telespazio
-4242:00820000:3db8:013e:1:0
-Teleitalia Promo 2
-p:Telespazio
-4243:00820000:3db8:013e:1:0
-Teleitalia Promo 3
-p:Telespazio
+2510:00820000:170c:fbff:25:0
+Race Control HD
+p:SkyItalia,f:40
+2513:00820000:170c:fbff:1:0
+Race F1 Hdfeed
+p:SkyItalia,f:40
+2514:00820000:170c:fbff:1:0
+On Board Sky HD
+p:SkyItalia,f:40
+2507:00820000:170c:fbff:25:0
+Onboard Mix HD
+p:SkyItalia,f:40
+2511:00820000:170c:fbff:1:0
+OnBoardMixHDfee
+p:SkyItalia,f:40
+2508:00820000:170c:fbff:1:0
+MosaicoFormu1HD
+p:SkyItalia,f:40
+2d56:00820000:2260:fbff:1:0
+Sky Calcio 8
+p:SkyItalia,f:40
+2d5d:00820000:2260:fbff:1:0
+Sky Calcio 9
+p:SkyItalia,f:40
+2d5f:00820000:2260:fbff:1:0
+Sky Calcio 10
+p:SkyItalia,f:40
+2d61:00820000:2260:fbff:1:0
+Sky Calcio 11
+p:SkyItalia,f:40
+2d62:00820000:2260:fbff:1:0
+Sky Calcio 12
+p:SkyItalia,f:40
+2d63:00820000:2260:fbff:1:0
+Sky Calcio 13
+p:SkyItalia,f:40
+2d66:00820000:2260:fbff:1:0
+Sky Calcio 14
+p:SkyItalia,f:40
+0003:00820000:03de:0110:1:0
+Rete 4
+p:Mediaset,c:00065e,c:01065f,c:020653,c:03065e,f:40
+0002:00820000:03de:0110:1:0
+Canale 5
+p:Mediaset,f:40
+0001:00820000:03de:0110:1:0
+Italia 1
+p:Mediaset,f:40
+000a:00820000:03de:0110:1:0
+Mediaset ITALIA DUE
+p:Mediaset,f:40
+0009:00820000:03de:0110:1:0
+Mediaset EXTRA
+p:Mediaset,f:40
+2502:00820000:170c:fbff:25:0
+cielo HD
+p:SkyItalia,f:40
+0004:00820000:03de:0110:1:0
+Iris
+p:Mediaset,f:40
+0007:00820000:03de:0110:1:0
+La 5
+p:Mediaset,f:40
 end
-Edited with dreamboxEDIT 5.2.0.0 on 13jul2013 13:03:02
+Edited with dreamboxEDIT 5.2.0.0 on 06aug2013 23:08:54
