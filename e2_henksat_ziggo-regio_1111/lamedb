@@ -1,145 +1,145 @@
 eDVB services /4/
 transponders
 ffff0000:0001:03e8
-	c 420000:6875000:2:5:15:0
+	c 420000:6875000:2:5:0:0:0
 /
 ffff0000:0003:03e8
-	c 372000:6875000:2:5:15:0
+	c 372000:6875000:2:5:0:0:0
 /
 ffff0000:0004:03e8
-	c 554750:6875000:2:3:15:0
+	c 554750:6875000:2:3:0:0:0
 /
 ffff0000:0005:03e8
-	c 460000:6875000:2:5:15:0
+	c 460000:6875000:2:5:0:0:0
 /
 ffff0000:0006:03e8
-	c 762750:6875000:2:3:15:0
+	c 762750:6875000:2:3:0:0:0
 /
 ffff0000:0007:03e8
-	c 538750:6875000:2:3:15:0
-/
-ffff0000:0008:03e8
-	c 404000:6875000:2:5:0:0
+	c 538750:6875000:2:3:0:0:0
 /
 ffff0000:0009:03e8
-	c 642750:6875000:2:3:15:0
+	c 642750:6875000:2:3:0:0:0
 /
 ffff0000:000a:03e8
-	c 474750:6875000:2:5:15:0
+	c 474750:6875000:2:5:0:0:0
 /
 ffff0000:000b:03e8
-	c 586750:6875000:2:3:15:0
+	c 586750:6875000:2:3:0:0:0
 /
 ffff0000:000c:03e8
-	c 738750:6875000:2:3:15:0
+	c 738750:6875000:2:3:0:0:0
 /
 ffff0000:000d:03e8
-	c 412000:6875000:2:5:15:0
+	c 412000:6875000:2:5:0:0:0
 /
 ffff0000:000e:03e8
-	c 682750:6875000:2:3:15:0
+	c 682750:6875000:2:3:0:0:0
 /
 ffff0000:000f:03e8
-	c 658750:6875000:2:3:15:0
+	c 658750:6875000:2:3:0:0:0
 /
 ffff0000:0010:03e8
-	c 562750:6875000:2:3:15:0
+	c 562750:6875000:2:3:0:0:0
 /
 ffff0000:0012:03e8
-	c 356000:6875000:2:3:15:0
+	c 356000:6875000:2:3:0:0:0
 /
 ffff0000:0013:03e8
-	c 428000:6875000:2:5:15:0
+	c 428000:6875000:2:5:0:0:0
 /
 ffff0000:0016:03e8
-	c 674750:6875000:2:3:15:0
+	c 674750:6875000:2:3:0:0:0
 /
 ffff0000:0017:03e8
-	c 578750:6875000:2:3:15:0
+	c 578750:6875000:2:3:0:0:0
 /
 ffff0000:0018:03e8
-	c 826750:6875000:2:3:15:0
+	c 826750:6875000:2:3:0:0:0
 /
 ffff0000:0019:03e8
-	c 690750:6875000:2:3:15:0
+	c 690750:6875000:2:3:0:0:0
 /
 ffff0000:001a:03e8
-	c 498750:6875000:2:3:15:0
+	c 498750:6875000:2:3:0:0:0
 /
 ffff0000:001b:03e8
-	c 452000:6875000:2:5:15:0
+	c 452000:6875000:2:5:0:0:0
 /
 ffff0000:001c:03e8
-	c 818750:6875000:2:3:15:0
+	c 818750:6875000:2:3:0:0:0
 /
 ffff0000:001d:03e8
-	c 802750:6875000:2:3:15:0
+	c 802750:6875000:2:3:0:0:0
 /
 ffff0000:001e:03e8
-	c 546750:6875000:2:3:15:0
+	c 546750:6875000:2:3:0:0:0
 /
 ffff0000:001f:03e8
-	c 570750:6875000:2:3:15:0
+	c 570750:6875000:2:3:0:0:0
 /
 ffff0000:0020:03e8
-	c 626750:6875000:2:3:15:0
+	c 626750:6875000:2:3:0:0:0
 /
 ffff0000:0021:03e8
-	c 364000:6875000:2:5:15:0
+	c 364000:6875000:2:5:0:0:0
 /
 ffff0000:00ce:03e8
-	c 436000:6875000:2:3:15:0
+	c 436000:6875000:2:3:0:0:0
 /
 ffff0000:00cf:03e8
-	c 444000:6875000:2:3:15:0
+	c 444000:6875000:2:3:0:0:0
 /
 ffff0000:0a8c:03e8
-	c 618750:6875000:2:5:15:0
+	c 618750:6875000:2:5:0:0:0
 /
 end
 services
-1450:ffff0000:0a8c:03e8:0:0
-
-p:,f:40
+0101:ffff0000:0003:03e8:1:0
+FOX Sports Informatie
+p:Ziggo,f:40
 0202:ffff0000:0a8c:03e8:1:0
 TV Limburg
-p:Ziggo,c:001415,c:011416,c:021417,c:031415,f:40
+p:Ziggo,f:40
 0009:ffff0000:0003:03e8:1:0
 Net 5
-p:Ziggo,c:000105,c:010029,c:020112,c:030105,C:0604,f:40
+p:Ziggo,f:40
 000c:ffff0000:0004:03e8:1:0
 Zenderoverzicht
 p:Ziggo,f:40
 0010:ffff0000:0006:03e8:1:0
 Nickelodeon
-p:Ziggo,c:000c1d,c:010c1e,c:020c2f,c:030c1d,f:40
+p:Ziggo,f:40
 0011:ffff0000:0006:03e8:1:0
 Eurosport
-p:Ziggo,c:000a11,c:010a04,c:020a12,c:030a11,C:0604,f:40
+p:Ziggo,f:40
 2711:ffff0000:000a:03e8:1:0
 Nederland 1
-p:Ziggo,c:000083,c:010084,c:020085,c:030083,f:40
+p:Ziggo,f:40
 2712:ffff0000:000a:03e8:1:0
 Nederland 2
 p:Ziggo,f:40
 0013:ffff0000:0006:03e8:1:0
 MTV
-p:Ziggo,c:000023,c:010ffc,c:020cee,c:030023,C:0604,f:40
+p:Ziggo,f:40
 2713:ffff0000:000a:03e8:1:0
 Nederland 3
 p:Ziggo,f:40
 0014:ffff0000:0006:03e8:1:0
 Comedy Central/Kindernet
-p:Ziggo,c:000c81,c:010c82,c:020c8a,c:030c81,C:0604,f:40
+p:Ziggo,f:40
 2714:ffff0000:000a:03e8:1:0
 RTL 4
 p:Ziggo,f:40
 0016:ffff0000:0003:03e8:1:0
 Eén
-p:Ziggo,c:000258,c:010023,c:02025a,c:030258,C:0604,f:40
+p:Ziggo,f:40
 0017:ffff0000:0003:03e8:1:0
 Canvas
-p:Ziggo,c:001021,c:011022,c:021023,c:031021,C:0604,f:40
+p:Ziggo,f:40
+0219:ffff0000:001e:03e8:1:0
+DJAZZ.tv
+p:Ziggo,f:40
 021a:ffff0000:001d:03e8:1:0
 538
 p:Ziggo,f:40
@@ -149,9 +149,6 @@ p:Ziggo,f:40
 0021:ffff0000:0021:03e8:1:0
 Film 1 Premiere
 p:Ziggo,f:40
-0521:ffff0000:0005:03e8:1:0
-Test live feed
-p:Ziggo,f:40
 0023:ffff0000:000a:03e8:1:0
 Film 1 Family
 p:Ziggo,f:40
@@ -160,25 +157,25 @@ Film 1 Sundance
 p:Ziggo,f:40
 0027:ffff0000:0003:03e8:1:0
 Crime & Investigation Network
-p:Ziggo,c:000025,c:010908,c:020028,c:030025,c:09288800,C:0604,f:40
+p:Ziggo,f:40
 2329:ffff0000:0009:03e8:1:0
 Sport1 Golf
 p:Ziggo,f:40
 232a:ffff0000:0009:03e8:1:0
 Sport1 Tennis
-p:Ziggo,c:000046,c:010b5f,c:030046,C:0604,f:40
+p:Ziggo,f:40
 002b:ffff0000:0016:03e8:1:0
 E! Entertainment
 p:Ziggo,f:40
 232b:ffff0000:0009:03e8:1:0
 Sport1 Extra 1
-p:Ziggo,c:000c81,c:010c8a,c:030c81,C:0604,f:40
+p:Ziggo,f:40
 232c:ffff0000:0009:03e8:1:0
 Sport1 Extra 2
-p:Ziggo,c:000dad,c:010db6,c:030dad,C:0604,f:40
+p:Ziggo,f:40
 0039:ffff0000:0019:03e8:1:0
 HISTORY
-p:Ziggo,c:000065,c:01006f,c:020024,c:030065,c:09248800,C:0604,f:40
+p:Ziggo,f:40
 003a:ffff0000:0019:03e8:1:0
 NostalgieNet
 p:Ziggo,f:40
@@ -189,44 +186,32 @@ p:Ziggo,f:40
 Rai Uno
 p:Ziggo,f:40
 003c:ffff0000:000e:03e8:1:0
-Etalagekanaal
+Zender vd Maand
 p:Ziggo,f:40
 4a3d:ffff0000:0013:03e8:1:0
 TV5 Monde
-p:Ziggo,f:40
-003e:ffff0000:0008:03e8:1:0
-Zappelin / Zapp 24
 p:Ziggo,f:40
 4a40:ffff0000:0013:03e8:1:0
 TRT Türk
 p:Ziggo,f:40
 0041:ffff0000:001a:03e8:1:0
 Nick Jr.
-p:Ziggo,c:000049,c:01004a,c:030049,C:0604,f:40
+p:Ziggo,f:40
 0042:ffff0000:0010:03e8:1:0
 Nick Toons
 p:Ziggo,f:40
 7542:ffff0000:001e:03e8:1:0
 TLC
-p:Ziggo,c:00189d,c:01189e,c:0218a6,c:03189d,C:0604,f:40
+p:Ziggo,f:40
 0043:ffff0000:0010:03e8:1:0
 Nick Hits
 p:Ziggo,f:40
 0044:ffff0000:0010:03e8:1:0
 Baby TV
-p:Ziggo,c:000107,c:010607,c:030107,C:0604,f:40
+p:Ziggo,f:40
 0045:ffff0000:0020:03e8:1:0
 Lite TV
 p:Ziggo,f:40
-1f48:ffff0000:0008:03e8:1:0
-404 SID 0x1f48
-p:,c:000040,c:010041,c:030040,C:0604,f:40
-1f49:ffff0000:0008:03e8:1:0
-404 SID 0x1f49
-p:,c:000042,c:010043,c:030042,C:0604,f:40
-1f4a:ffff0000:0008:03e8:1:0
-404 SID 0x1f4a
-p:,f:40
 004d:ffff0000:000d:03e8:1:0
 192TV
 p:Ziggo,f:40
@@ -236,36 +221,30 @@ p:Ziggo,f:40
 0050:ffff0000:000d:03e8:1:0
 Mezzo
 p:Ziggo,f:40
-1f51:ffff0000:0008:03e8:1:0
-404 SID 0x1f51
-p:,c:0000fb,c:010045,c:0300fb,C:0604,f:40
 4651:ffff0000:0012:03e8:1:0
 Cartoon Network
-p:Home,c:00067c,c:010655,c:020657,c:03067c,c:096575507,C:0604,f:40
+p:Home,f:40
 4656:ffff0000:0012:03e8:1:0
 Boomerang
-p:Home,c:0001f5,c:010088,c:0201f7,c:0301f5,c:091f78507,C:0604,f:40
+p:Home,f:40
 1b5d:ffff0000:0007:03e8:1:0
 Zee TV
 p:Ziggo,f:40
 1b5e:ffff0000:0007:03e8:1:0
 SET Asia
-p:Ziggo,c:000029,c:010903,c:030029,C:0604,f:40
+p:Ziggo,f:40
 0065:ffff0000:0016:03e8:1:0
 Weer en Verkeer
 p:Ziggo,f:40
-0067:ffff0000:0005:03e8:1:0
-Spirit 24
-p:Ziggo,f:40
 1771:ffff0000:0006:03e8:1:0
 Sport1 Select
-p:Ziggo,c:0007d1,c:0107da,c:0307d1,C:0604,f:40
+p:Ziggo,f:40
 0072:ffff0000:000f:03e8:1:0
 Arte
 p:Ziggo,f:40
 1772:ffff0000:0006:03e8:1:0
 Sport1 Voetbal
-p:Ziggo,c:0008fd,c:010906,c:0308fd,C:0604,f:40
+p:Ziggo,f:40
 0075:ffff0000:0013:03e8:1:0
 France 2
 p:Ziggo,f:40
@@ -304,7 +283,7 @@ Show TV
 p:Ziggo,f:40
 507e:ffff0000:00ce:03e8:1:0
 Ziggo TV
-p:Ziggo,c:0000c8,c:0107d0,c:020111,c:0300c8,f:40
+p:Ziggo,f:40
 697e:ffff0000:001b:03e8:1:0
 ZDF
 p:Ziggo,f:40
@@ -314,66 +293,57 @@ p:Ziggo,f:40
 0085:ffff0000:000e:03e8:1:0
 Eventkanaal
 p:Ziggo,f:40
-0086:ffff0000:0007:03e8:1:0
-Phoenix CNE
-p:Ziggo,f:40
-1388:ffff0000:0a8c:03e8:1:0
-Service 5000
-p:,f:40
 1389:ffff0000:0005:03e8:1:0
 Comedy Central Family
-p:Ziggo,c:000079,c:010140,c:030079,C:0604,f:40
+p:Ziggo,f:40
 008a:ffff0000:0005:03e8:1:0
 Private Spice
-p:Ziggo,c:000b55,c:010b5f,c:030b55,C:0604,f:40
+p:Ziggo,f:40
 048a:ffff0000:000b:03e8:1:0
-586 SID 0x48a
-p:,f:40
+Zappelin / Zapp 24
+p:Ziggo,f:40
 138a:ffff0000:0005:03e8:1:0
 Eurosport 2
 p:Ziggo,f:40
 008b:ffff0000:0009:03e8:1:0
 PassieTV/Dusk!
-p:Ziggo,c:0004d9,c:0104da,c:0304d9,C:0604,f:40
+p:Ziggo,f:40
 138c:ffff0000:0005:03e8:1:0
 Motors TV
-p:Ziggo,c:000209,c:01006d,c:030209,C:0604,f:40
+p:Ziggo,f:40
 138e:ffff0000:0005:03e8:1:0
 ESPN America
-p:Ziggo,c:000442,c:010443,c:030442,C:0604,f:40
-009a:ffff0000:001c:03e8:1:0
-GoedTV
 p:Ziggo,f:40
 00a1:ffff0000:00ce:03e8:1:0
-BravaNL
+brava nl klassiek
 p:Ziggo,f:40
 0fa1:ffff0000:0004:03e8:1:0
 Nat Geo Wild
 p:Ziggo,f:40
 00a2:ffff0000:0007:03e8:1:0
 MAX
-p:Ziggo,c:000907,c:010908,c:030900,C:0604,f:40
+p:Ziggo,f:40
+33a2:ffff0000:000d:03e8:1:0
+RTL Crime
+p:Ziggo,f:40
 3aa2:ffff0000:000f:03e8:1:0
 RTL 8
-p:Ziggo,c:000065,c:010035,c:020086,c:030065,C:0604,f:40
+p:Ziggo,f:40
 00a3:ffff0000:001c:03e8:1:0
 Habertürk
 p:Ziggo,f:40
 00a4:ffff0000:0007:03e8:1:0
 Zee Cinema
-p:Ziggo,c:000393,c:010396,c:020395,c:030393,C:0604,f:40
+p:Ziggo,f:40
 08a4:ffff0000:001d:03e8:1:0
 24 Kitchen
-p:Ziggo,c:000ed9,c:010136,c:030ed9,C:0604,f:40
+p:Ziggo,f:40
 0fa4:ffff0000:0004:03e8:1:0
 Discovery World
 p:Ziggo,f:40
-00a5:ffff0000:0007:03e8:1:0
-Phoenix InfoNews
-p:Ziggo,f:40
 0fa5:ffff0000:0004:03e8:1:0
 Discovery Science
-p:Ziggo,c:0007a8,c:010780,c:021bdb,c:0307a8,c:091bdb8507,C:0604,f:40
+p:Ziggo,f:40
 0fa6:ffff0000:0004:03e8:1:0
 Investigation Discovery
 p:Ziggo,f:40
@@ -385,31 +355,28 @@ Discovery Channel
 p:Ziggo,f:40
 0fa9:ffff0000:0004:03e8:1:0
 National Geographic Channel
-p:Ziggo,c:00028b,c:010295,c:03028b,C:0604,f:40
+p:Ziggo,f:40
 00ab:ffff0000:001b:03e8:1:0
 JimJam
 p:Ziggo,f:40
-0cab:ffff0000:0003:03e8:1:0
-Eurosport 2 HD
-p:Ziggo,f:40
 00ae:ffff0000:0018:03e8:1:0
-Eredivisie Live 1
+FOX Sports 1 Eredivisie
 p:Ziggo,f:40
 00af:ffff0000:0018:03e8:1:0
-Eredivisie Live 2
-p:Ziggo,c:00005c,c:01005d,c:03005c,C:0604,f:40
+FOX Sports 2
+p:Ziggo,f:40
 00b0:ffff0000:0018:03e8:1:0
-Eredivisie Live 3
-p:Ziggo,c:000070,c:010071,c:030070,C:0604,f:40
+FOX Sports 3 Eredivisie
+p:Ziggo,f:40
 00b1:ffff0000:0018:03e8:1:0
-Eredivisie Live 4
-p:Ziggo,c:000084,c:010085,c:030084,C:0604,f:40
+FOX Sports 4
+p:Ziggo,f:40
 36b1:ffff0000:000e:03e8:1:0
 Dusk! Deluxe
 p:Ziggo,f:40
 00b2:ffff0000:000c:03e8:1:0
 Film1 Action
-p:Ziggo,c:00019b,c:01019a,c:03019b,C:0604,f:40
+p:Ziggo,f:40
 36b3:ffff0000:000e:03e8:1:0
 MTV Brand New
 p:Ziggo,f:40
@@ -427,171 +394,63 @@ OUTTV
 p:Ziggo,f:40
 00b7:ffff0000:000d:03e8:1:0
 13TH STREET
-p:Ziggo,c:0000c9,c:0100d2,c:02005e,c:0300c9,c:095e8800,C:0604,f:40
+p:Ziggo,f:40
 36b7:ffff0000:000e:03e8:1:0
 TCM
 p:Ziggo,f:40
 00b8:ffff0000:0010:03e8:1:0
 Syfy Universal
-p:Ziggo,c:000059,c:01005a,c:02005b,c:030059,c:095b8800,C:0604,f:40
+p:Ziggo,f:40
 36b8:ffff0000:000e:03e8:1:0
 MGM Movie Channel
-p:Ziggo,c:00002b,c:01002c,c:020140,c:03002b,c:091408800,C:0604,f:40
-03c0:ffff0000:0005:03e8:1:0
-Humax 5300c_ Prod
 p:Ziggo,f:40
-03c1:ffff0000:0008:03e8:1:0
-Cisco_8485_iGuide_Dev
-p:Ziggo,f:40
-03c1:ffff0000:0016:03e8:1:0
-Cisco_8485_iGuide_Dev
-p:Ziggo,f:40
-03c2:ffff0000:0012:03e8:1:0
-Humax_5100_DEV
-p:ziggo,f:40
 00c3:ffff0000:000d:03e8:1:0
 SLAM!TV
 p:Ziggo,f:40
-03c3:ffff0000:0012:03e8:1:0
-Humax_5200_DEV
-p:ziggo,f:40
 00c4:ffff0000:0005:03e8:1:0
 FOXlife
-p:Ziggo,c:000191,c:01019a,c:030191,C:0604,f:40
-03c4:ffff0000:0008:03e8:1:0
-cisco_8455_iguide_dev
-p:Ziggo,f:40
-03c4:ffff0000:0016:03e8:1:0
-cisco_8455_iguide_dev
 p:Ziggo,f:40
 00c5:ffff0000:000c:03e8:1:0
 RTL Lounge
-p:Ziggo,c:000231,c:010232,c:030231,C:0604,f:40
-03c5:ffff0000:0008:03e8:1:0
-Samsung SMT-C1140
-p:Ziggo,f:40
-03c5:ffff0000:0016:03e8:1:0
-Samsung SMT-C1140
-p:Ziggo,f:40
-03c6:ffff0000:001d:03e8:1:0
-Samsung 380 L4 Prod
 p:Ziggo,f:40
 00c7:ffff0000:0009:03e8:1:0
 PassieXXX
-p:Ziggo,c:0004e3,c:0104e4,c:0304e3,C:0604,f:40
-03c7:ffff0000:0008:03e8:1:0
-Humax 5100C_PROD
-p:Ziggo,f:40
-03c7:ffff0000:0016:03e8:1:0
-Humax 5100C_PROD
-p:Ziggo,f:40
-03c8:ffff0000:0004:03e8:1:0
-Humax 5050 DEV
-p:Ziggo,f:40
-03c9:ffff0000:0008:03e8:1:0
-Humax_5200_Prod
-p:Ziggo,f:40
-03c9:ffff0000:000f:03e8:1:0
-Humax_5200_Prod
 p:Ziggo,f:40
 32c9:ffff0000:000d:03e8:1:0
 VH-1
 p:Ziggo,f:40
-03ca:ffff0000:0012:03e8:1:0
-samsungITVL
-p:Ziggo,f:40
 32ca:ffff0000:000d:03e8:1:0
 VH-1 Classic
-p:Ziggo,f:40
-03cb:ffff0000:0012:03e8:1:0
-Homecast_Colorado_L8
-p:ziggo,f:40
-03cc:ffff0000:0008:03e8:1:0
-samsungSMT7140
-p:Ziggo,f:40
-03cc:ffff0000:000f:03e8:1:0
-samsungSMT1740
-p:Ziggo,f:40
-03cd:ffff0000:0012:03e8:1:0
-cisco8485sdl
-p:Ziggo,f:40
-03ce:ffff0000:0008:03e8:1:0
-Samsung 7140HD DEV
-p:Ziggo,f:40
-03ce:ffff0000:000f:03e8:1:0
-Samsung 7140HD DEV
-p:Ziggo,f:40
-03cf:ffff0000:0012:03e8:1:0
-Sams_iguide
 p:Ziggo,f:40
 32cf:ffff0000:000d:03e8:1:0
 TV Oranje
 p:Ziggo,f:40
-32d1:ffff0000:000d:03e8:1:0
-Sterren 24
-p:Ziggo,f:40
 00d5:ffff0000:001f:03e8:1:0
 Disney Channel
-p:Ziggo,c:00055b,c:01055c,c:020563,c:03055b,C:0604,f:40
-03d5:ffff0000:0012:03e8:1:0
-cisco_8455_Iguide
 p:Ziggo,f:40
 00d6:ffff0000:001e:03e8:1:0
 Disney XD 24
 p:Ziggo,f:40
-03d6:ffff0000:0012:03e8:1:0
-Cisco_8485_DEV
-p:Ziggo,f:40
-03d7:ffff0000:0012:03e8:1:0
-Humax_HD_PVR_5050
-p:Ziggo,f:40
-1bd7:ffff0000:0007:03e8:1:0
-LIG TV
-p:Ziggo,f:40
-03d8:ffff0000:0012:03e8:1:0
-Samsung9401_L06_prod
-p:Ziggo,f:40
-1bd8:ffff0000:0007:03e8:1:0
-Türk Max
-p:Ziggo,f:40
-03d9:ffff0000:0012:03e8:1:0
-Iguide cisco 8485
-p:Ziggo,f:40
 59d9:ffff0000:0017:03e8:1:0
 Holland Doc 24
 p:Ziggo,f:40
-00da:ffff0000:001f:03e8:1:0
-RTL Crime
-p:Ziggo,c:000245,c:010246,c:030245,C:0604,f:40
-03da:ffff0000:0012:03e8:1:0
-Humax_5000
-p:Ziggo,f:40
 00db:ffff0000:0020:03e8:1:0
 Pebble TV
-p:Ziggo,f:40
-03db:ffff0000:0012:03e8:1:0
-Samsung_Sd_102
 p:Ziggo,f:40
 59db:ffff0000:0017:03e8:1:0
 Cultura 24
 p:Ziggo,f:40
 00dc:ffff0000:001b:03e8:1:0
 Disney Junior
-p:Ziggo,c:00199b,c:010322,c:03199b,C:0604,f:40
-03dc:ffff0000:0012:03e8:1:0
-Cisco_8455_Sdl
 p:Ziggo,f:40
 1bdc:ffff0000:0007:03e8:1:0
-Planet Türk
+Planet Turk
 p:Ziggo,f:40
 59dc:ffff0000:0017:03e8:1:0
 Erotiek Pakket
-p:Ziggo,c:0001f4,c:010fa0,c:0301f4,f:40
+p:Ziggo,f:40
 00dd:ffff0000:001d:03e8:1:0
 538
-p:Ziggo,f:40
-03dd:ffff0000:0012:03e8:1:0
-Cisco_8455_DEV
 p:Ziggo,f:40
 50dd:ffff0000:00cf:03e8:1:0
 TV Gelderland
@@ -599,81 +458,51 @@ p:Ziggo,f:40
 00de:ffff0000:001e:03e8:1:0
 MTV Music 24
 p:Ziggo,f:40
-03de:ffff0000:0012:03e8:1:0
-Humax_SD_Pvr_9200
-p:Ziggo,f:40
 50de:ffff0000:00cf:03e8:1:0
 Omroep Zeeland
-p:Ziggo,c:000489,c:01048a,c:020491,c:030489,f:40
+p:Ziggo,f:40
 59de:ffff0000:0017:03e8:1:0
 101 TV
-p:Ziggo,c:00005c,c:01005d,c:0200d6,c:03005c,c:09d60001,C:0604,f:40
-03df:ffff0000:0012:03e8:1:0
-Humax_5300_DEV_L6
 p:Ziggo,f:40
 50df:ffff0000:00cf:03e8:1:0
 L1 Limburg
-p:Ziggo,f:40
-03e0:ffff0000:0008:03e8:1:0
-foxz_homecastSD
-p:Ziggo,f:40
-03e0:ffff0000:000f:03e8:1:0
-foxz_homecastSD
 p:Ziggo,f:40
 50e0:ffff0000:00cf:03e8:1:0
 Omroep Brabant TV
 p:Ziggo,f:40
 59e0:ffff0000:0017:03e8:1:0
 Best 24
-p:Ziggo,c:0001a5,c:0101a6,c:020090,c:0301a5,C:0604,f:40
-03e1:ffff0000:0012:03e8:1:0
-Samsung_Pvr
 p:Ziggo,f:40
 2ee1:ffff0000:000c:03e8:1:0
 CNBC Europe
 p:Ziggo,f:40
 50e1:ffff0000:00cf:03e8:1:0
 TV Rijnmond
-p:Ziggo,c:000493,c:010494,c:02049b,c:030493,f:40
+p:Ziggo,f:40
 00e2:ffff0000:0005:03e8:1:0
 Comedy Central Extra
-p:Ziggo,f:40
-03e2:ffff0000:0012:03e8:1:0
-Samsung_Hd
 p:Ziggo,f:40
 2ee2:ffff0000:000c:03e8:1:0
 BBC World News
 p:Ziggo,f:40
 50e2:ffff0000:00cf:03e8:1:0
 TV West
-p:Ziggo,c:00003d,c:010bb9,c:0202a2,c:03003d,f:40
-03e4:ffff0000:0012:03e8:1:0
-Panasonic_Sd
-p:Ziggo,f:40
-03e5:ffff0000:0012:03e8:1:0
-homecast_Montana_l4
 p:Ziggo,f:40
 2ee5:ffff0000:000c:03e8:1:0
 Politiek 24
-p:Ziggo,c:000191,c:01005e,c:02019e,c:030191,C:0604,f:40
-03e6:ffff0000:0012:03e8:1:0
-Humax_Sd
 p:Ziggo,f:40
 00e7:ffff0000:000e:03e8:1:0
 HBO
 p:Ziggo,f:40
-03e7:ffff0000:0012:03e8:1:0
-Digi1_Sd
-p:Ziggo,f:40
 2ee7:ffff0000:000c:03e8:1:0
 Journaal 24
-p:Ziggo,c:000155,c:010057,c:020464,c:030155,C:0604,f:40
+p:Ziggo,f:40
 00e8:ffff0000:0001:03e8:1:0
 HBO 2
 p:Ziggo,f:40
 00e9:ffff0000:0017:03e8:1:0
 HBO 3
-p:Ziggo,c:0010e0,c:0310e0,c:0410e2,C:0604,f:40
+p:Ziggo,f:40
 03e9:ffff0000:0001:03e8:1:0
 ARD
 p:Ziggo,f:40
@@ -688,19 +517,16 @@ NDR
 p:Home,f:40
 00ee:ffff0000:0017:03e8:1:0
 Ziggo Xite
-p:Ziggo,c:00012d,c:01012e,c:03012d,C:0604,f:40
+p:Ziggo,f:40
 03ee:ffff0000:0001:03e8:1:0
 RTL Television
-p:Home,c:0000a3,c:010068,c:020069,c:0300a3,C:0604,f:40
+p:Home,f:40
 03f0:ffff0000:0001:03e8:1:0
 Sat. 1
 p:Home,f:40
 03f1:ffff0000:0001:03e8:1:0
 WDR
-p:Ziggo,c:000025,c:01025a,c:02025c,c:030025,C:0604,f:40
-00f3:ffff0000:0008:03e8:1:0
-404 SID 0xf3
-p:,f:40
+p:Ziggo,f:40
 55f3:ffff0000:0016:03e8:1:0
 Humor TV 24
 p:Ziggo,f:40
@@ -712,21 +538,15 @@ CBS Reality
 p:Ziggo,f:40
 00f5:ffff0000:000d:03e8:1:0
 RTL Telekids
-p:Ziggo,c:00025a,c:010259,c:03025a,C:0604,f:40
+p:Ziggo,f:40
 01f5:ffff0000:0a8c:03e8:1:0
 Omroep P&M TV
 p:Ziggo,f:40
 01f6:ffff0000:0a8c:03e8:1:0
 Reindonk Horst a/d Maas
 p:Ziggo,f:40
-00f7:ffff0000:0005:03e8:1:0
-Star Plus
-p:Ziggo,f:40
 01f7:ffff0000:0a8c:03e8:1:0
 Peel en Maas TV Venray
-p:Ziggo,c:0013a7,c:01012d,c:0213a9,c:0313a7,f:40
-00f8:ffff0000:0005:03e8:1:0
-Star Gold
 p:Ziggo,f:40
 01f8:ffff0000:0a8c:03e8:1:0
 nimaTV
@@ -736,15 +556,15 @@ Star Plus
 p:Ziggo,f:40
 01f9:ffff0000:0a8c:03e8:1:0
 Omroep Venray TV
-p:Ziggo,c:0013bb,c:0113bc,c:0213bd,c:0313bb,f:40
+p:Ziggo,f:40
 2af9:ffff0000:000b:03e8:1:0
 Veronica/Disney XD
-p:Ziggo,c:000039,c:0101f5,c:02013a,c:030039,C:0604,f:40
+p:Ziggo,f:40
 00fa:ffff0000:0007:03e8:1:0
 Star Gold
 p:Ziggo,f:40
 01fa:ffff0000:0a8c:03e8:1:0
-Lokale omroep
+Lokale omroep 
 p:Ziggo,f:40
 50fa:ffff0000:00cf:03e8:1:0
 L1 Limburg
@@ -752,24 +572,33 @@ p:Ziggo,f:40
 01fb:ffff0000:0a8c:03e8:1:0
 Lokale omroep
 p:Ziggo,f:40
+00fc:ffff0000:001e:03e8:1:0
+Penthouse
+p:Ziggo,f:40
 01fc:ffff0000:0a8c:03e8:1:0
 Lokale omroep
 p:Ziggo,f:40
 2afc:ffff0000:000b:03e8:1:0
 SBS 6
-p:Ziggo,c:0000dd,c:01025e,c:0200ea,c:0300dd,C:0604,f:40
+p:Ziggo,f:40
+00fd:ffff0000:001c:03e8:1:0
+Horse & Country TV
+p:Ziggo,f:40
 2afd:ffff0000:000b:03e8:1:0
 RTL 5
-p:Ziggo,c:0000b5,c:010059,c:020058,c:0300b5,C:0604,f:40
+p:Ziggo,f:40
+00fe:ffff0000:000a:03e8:1:0
+FOX
+p:Ziggo,f:40
 2afe:ffff0000:000b:03e8:1:0
 RTL 7
-p:Ziggo,c:000037,c:01006d,c:0200d6,c:030037,C:0604,f:40
+p:Ziggo,f:40
+00ff:ffff0000:0005:03e8:1:0
+FOX Sports 5 Eredivisie
+p:Ziggo,f:40
 1518:ffff0000:0a8c:03e8:2:0
 nimaFM
 p:Ziggo,f:40
-0a2f:ffff0000:00cf:03e8:2:0
-444 SID 0xa2f
-p:,f:40
 1644:ffff0000:0a8c:03e8:2:0
 Lokale radio
 p:Ziggo,f:40
@@ -808,9 +637,6 @@ Radio Veronica
 p:Ziggo,f:40
 0263:ffff0000:000f:03e8:2:0
 Radio 10 Gold
-p:Ziggo,f:40
-0264:ffff0000:000f:03e8:2:0
-Kink FM
 p:Ziggo,f:40
 0265:ffff0000:000f:03e8:2:0
 BNR Nieuwsradio
@@ -857,17 +683,8 @@ p:Ziggo,f:40
 0275:ffff0000:0003:03e8:2:0
 L1 Radio
 p:Ziggo,f:40
-027a:ffff0000:0010:03e8:2:0
-RADIONL
-p:Ziggo,f:40
-027b:ffff0000:0010:03e8:2:0
-Waterstad FM
-p:Ziggo,f:40
 157c:ffff0000:0a8c:03e8:2:0
 Omroep Venray Radio
-p:Ziggo,f:40
-027d:ffff0000:0010:03e8:2:0
-City FM Classic Rock
 p:Ziggo,f:40
 027f:ffff0000:0004:03e8:2:0
 100% NL
@@ -878,23 +695,8 @@ p:Ziggo,f:40
 0282:ffff0000:0004:03e8:2:0
 Tweede kamerlijn
 p:Ziggo,f:40
-0288:ffff0000:0010:03e8:2:0
-BBC Radio 1
-p:Ziggo,f:40
 1388:ffff0000:0a8c:03e8:2:0
 Omroep Venlo FM
-p:Ziggo,f:40
-0289:ffff0000:0010:03e8:2:0
-BBC Radio 2
-p:Ziggo,f:40
-028a:ffff0000:0010:03e8:2:0
-BBC Radio 3
-p:Ziggo,f:40
-028b:ffff0000:0010:03e8:2:0
-BBC Radio 4
-p:Ziggo,f:40
-028c:ffff0000:0010:03e8:2:0
-BBC World Service
 p:Ziggo,f:40
 028d:ffff0000:0003:03e8:2:0
 Eins Live
@@ -902,47 +704,17 @@ p:Ziggo,f:40
 028e:ffff0000:0003:03e8:2:0
 Radio Decibel
 p:Ziggo,f:40
-018f:ffff0000:0009:03e8:2:0
-XLnt Sinterklaas
-p:Ziggo,f:40
 028f:ffff0000:0003:03e8:2:0
 NDR 2
 p:Ziggo,f:40
 0290:ffff0000:0003:03e8:2:0
 NDR Kultur
 p:Ziggo,f:40
-0291:ffff0000:000b:03e8:2:0
-WDR 2
-p:Ziggo,f:40
-0292:ffff0000:000b:03e8:2:0
-WDR 3
-p:Ziggo,f:40
-0293:ffff0000:000b:03e8:2:0
-WDR 4
-p:Ziggo,f:40
-2993:ffff0000:000b:03e8:2:0
-VRT Radio 1
-p:Ziggo,f:40
-0294:ffff0000:000b:03e8:2:0
-WDR 5
-p:Ziggo,f:40
-2994:ffff0000:000b:03e8:2:0
-VRT Radio 2
-p:Ziggo,f:40
 0295:ffff0000:001b:03e8:2:0
 Radio France International
 p:Ziggo,f:40
-2995:ffff0000:000b:03e8:2:0
-Klara
-p:Ziggo,f:40
-2996:ffff0000:000b:03e8:2:0
-Studio Brussel
-p:Ziggo,f:40
 0297:ffff0000:001b:03e8:2:0
 RNE Radio
-p:Ziggo,f:40
-2997:ffff0000:000b:03e8:2:0
-MNM
 p:Ziggo,f:40
 0298:ffff0000:001b:03e8:2:0
 RAI Radio 1
@@ -985,9 +757,6 @@ Reggae
 p:Ziggo,f:40
 17bb:ffff0000:0006:03e8:2:0
 All Day Party
-p:Ziggo,f:40
-31bb:ffff0000:000f:03e8:2:0
-Summer Festival
 p:Ziggo,f:40
 02bd:ffff0000:001b:03e8:2:0
 Head bangers
@@ -1118,9 +887,6 @@ p:Ziggo,f:40
 02e7:ffff0000:0003:03e8:2:0
 Waterstad FM
 p:Ziggo,f:40
-02e8:ffff0000:0003:03e8:2:0
-Freez FM
-p:Ziggo,f:40
 02e9:ffff0000:0003:03e8:2:0
 BBC Radio 1
 p:Ziggo,f:40
@@ -1142,30 +908,30 @@ p:Ziggo,f:40
 02ee:ffff0000:000a:03e8:2:0
 Radio zeeland
 p:Ziggo,f:40
-001d:ffff0000:0012:03e8:25:0
-Discovery HD Showcase
+0100:ffff0000:001f:03e8:25:0
+FOX HD
 p:Ziggo,f:40
 0328:ffff0000:0006:03e8:25:0
 Zenderoverzicht HD
-p:Ziggo,c:000169,c:010c77,c:030169,c:050001,f:40
+p:Ziggo,f:40
 3e82:ffff0000:0010:03e8:25:0
 Sport1 Select HD
-p:Ziggo,c:0015e1,c:01006e,c:0315e1,c:050001,C:0604,f:40
+p:Ziggo,f:40
 3a99:ffff0000:000f:03e8:25:0
 National Geographic Channel HD
 p:Ziggo,f:40
 089c:ffff0000:001a:03e8:25:0
 RTL 4 HD
-p:Ziggo,c:000065,c:010066,c:020072,c:030065,c:09730202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 089e:ffff0000:00ce:03e8:25:0
 SBS 6 HD
-p:Ziggo,c:000065,c:010066,c:020067,c:030065,c:09750202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 08a0:ffff0000:0020:03e8:25:0
 Veronica HD/Disney XD
-p:Ziggo,c:0000a1,c:0100a2,c:0200ae,c:0300a1,c:09b10202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00a7:ffff0000:0003:03e8:25:0
 Eurosport HD
-p:Ziggo,c:000c8a,c:010c85,c:030c8a,c:050001,C:0604,f:40
+p:Ziggo,f:40
 0cab:ffff0000:0003:03e8:25:0
 Eurosport 2 HD
 p:Ziggo,f:40
@@ -1174,55 +940,52 @@ HISTORY HD
 p:Ziggo,f:40
 00c9:ffff0000:001d:03e8:25:0
 Nederland 1 HD
-p:Ziggo,c:000065,c:010066,c:020072,c:030065,c:09750202,c:050001,f:40
+p:Ziggo,f:40
 00ca:ffff0000:001d:03e8:25:0
 Nederland 2 HD
-p:Ziggo,c:000079,c:01007a,c:020086,c:030079,c:09750202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00cb:ffff0000:001a:03e8:25:0
 Nederland 3 HD
-p:Ziggo,c:0000a1,c:0100a2,c:0200ae,c:0300a1,c:09a30202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00cd:ffff0000:00ce:03e8:25:0
 RTL 5 HD
-p:Ziggo,c:000079,c:01007a,c:020086,c:030079,c:09870202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00cf:ffff0000:0020:03e8:25:0
 RTL 7 HD
-p:Ziggo,c:00008d,c:01008e,c:02009a,c:03008d,c:099b0202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00d1:ffff0000:0019:03e8:25:0
 Net 5 HD
-p:Ziggo,c:0000dd,c:0100de,c:020086,c:0300dd,c:09890202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00d2:ffff0000:0019:03e8:25:0
 RTL 8 HD
-p:Ziggo,c:0000a1,c:0100a2,c:0200ae,c:0300a1,c:09af0202,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00d3:ffff0000:0013:03e8:25:0
-Eredivisie Live 1 HD
-p:Ziggo,c:000029,c:01002a,c:020072,c:030029,c:09728800,c:050001,C:0604,f:40
+FOX Sports 1 Eredivisie HD
+p:Ziggo,f:40
 00d7:ffff0000:0012:03e8:25:0
 Animal Planet HD
 p:Ziggo,f:40
-00d8:ffff0000:001e:03e8:25:0
-BBC HD
-p:Ziggo,f:40
 00df:ffff0000:001f:03e8:25:0
-Foxlife HD
-p:Ziggo,c:000191,c:01019a,c:030191,c:050001,C:0604,f:40
+FOXlife HD
+p:Ziggo,f:40
 00e0:ffff0000:001e:03e8:25:0
 Nat Geo Wild HD
 p:Ziggo,f:40
 00e1:ffff0000:001f:03e8:25:0
 MTV Live HD
-p:Ziggo,c:000dad,c:010dae,c:030dad,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00ea:ffff0000:0021:03e8:25:0
 HBO HD
-p:Ziggo,c:001ff4,c:011ff5,c:031ff4,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00eb:ffff0000:0021:03e8:25:0
 HBO 2 HD
-p:Ziggo,c:000020,c:010021,c:030020,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00ec:ffff0000:0021:03e8:25:0
 HBO 3 HD
-p:Ziggo,c:001ffe,c:011ff9,c:031ffe,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00ef:ffff0000:0013:03e8:25:0
 Discovery Channel HD
-p:Ziggo,c:001839,c:031839,c:04183a,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00f0:ffff0000:0012:03e8:25:0
 Comedy Central HD / Kindernet
 p:Ziggo,f:40
@@ -1231,33 +994,15 @@ Eén HD
 p:Ziggo,f:40
 55f1:ffff0000:0016:03e8:25:0
 Film1 Premiere HD
-p:Ziggo,c:000097,c:010035,c:030097,c:050001,C:0604,f:40
+p:Ziggo,f:40
 00f2:ffff0000:001b:03e8:25:0
 Canvas HD
-p:Ziggo,c:000079,c:010192,c:02041e,c:030079,c:050001,C:0604,f:40
-00f3:ffff0000:0008:03e8:25:0
-Eurosport 2 HD
 p:Ziggo,f:40
 00f6:ffff0000:0005:03e8:25:0
 Sport1 Voetbal HD
-p:Ziggo,c:00170d,c:011716,c:03170d,c:050001,C:0604,f:40
-0640:ffff0000:0001:03e8:128:0
-Cisco_8485_Zwolle_sdl
-p:ziggo,f:40
-0078:ffff0000:0001:03e8:128:0
-Cisco_8455_iguide_zwolle
-p:ziggo,f:40
-00a0:ffff0000:0001:03e8:128:0
-Cisco_8485_iguide_zwole
-p:ziggo,f:40
-04b0:ffff0000:0001:03e8:128:0
-Cisco_8455_Zwolle_sdl
-p:ziggo,f:40
+p:Ziggo,f:40
 03c0:ffff0000:0005:03e8:128:0
 Humax 5300c_ Prod
-p:Ziggo,f:40
-03c1:ffff0000:0008:03e8:128:0
-Cisco_8485_iGuide_Dev
 p:Ziggo,f:40
 03c1:ffff0000:0016:03e8:128:0
 Cisco_8485_iGuide_Dev
@@ -1268,14 +1013,8 @@ p:ziggo,f:40
 03c3:ffff0000:0012:03e8:128:0
 Humax_5200_DEV
 p:ziggo,f:40
-03c4:ffff0000:0008:03e8:128:0
-cisco_8485_iguide_dev
-p:Ziggo,f:40
 03c4:ffff0000:0016:03e8:128:0
 cisco_8455_iguide_dev
-p:Ziggo,f:40
-03c5:ffff0000:0008:03e8:128:0
-Samsung SMT-C1140
 p:Ziggo,f:40
 03c5:ffff0000:0016:03e8:128:0
 Samsung SMT-C1140
@@ -1283,17 +1022,11 @@ p:Ziggo,f:40
 03c6:ffff0000:001d:03e8:128:0
 Samsung 380 L4 Prod
 p:Ziggo,f:40
-03c7:ffff0000:0008:03e8:128:0
-Humax 5100C_PROD
-p:Ziggo,f:40
 03c7:ffff0000:0016:03e8:128:0
 Humax 5100C_PROD
 p:Ziggo,f:40
 03c8:ffff0000:0004:03e8:128:0
 Humax 5050 DEV
-p:Ziggo,f:40
-03c9:ffff0000:0008:03e8:128:0
-Humax_5200_Prod
 p:Ziggo,f:40
 03c9:ffff0000:000f:03e8:128:0
 Humax_5200_Prod
@@ -1304,17 +1037,11 @@ p:Ziggo,f:40
 03cb:ffff0000:0012:03e8:128:0
 Homecast_Colorado_L8
 p:ziggo,f:40
-03cc:ffff0000:0008:03e8:128:0
-samsungSMT7140
-p:Ziggo,f:40
 03cc:ffff0000:000f:03e8:128:0
 samsungSMT1740
 p:Ziggo,f:40
 03cd:ffff0000:0012:03e8:128:0
 cisco8485sdl
-p:Ziggo,f:40
-03ce:ffff0000:0008:03e8:128:0
-Samsung 7140HD DEV
 p:Ziggo,f:40
 03ce:ffff0000:000f:03e8:128:0
 Samsung 7140HD DEV
@@ -1322,9 +1049,6 @@ p:Ziggo,f:40
 03cf:ffff0000:0012:03e8:128:0
 Sams_iguide
 p:Ziggo,f:40
-03d0:ffff0000:0012:03e8:128:0
-Homecast_Colorado_HD_DEV
-p:ziggo,f:40
 03d5:ffff0000:0012:03e8:128:0
 cisco_8455_Iguide
 p:Ziggo,f:40
@@ -1358,9 +1082,6 @@ p:Ziggo,f:40
 03df:ffff0000:0012:03e8:128:0
 Humax_5300_DEV_L6
 p:Ziggo,f:40
-03e0:ffff0000:0008:03e8:128:0
-foxz_homecastSD
-p:Ziggo,f:40
 03e0:ffff0000:000f:03e8:128:0
 foxz_homecastSD
 p:Ziggo,f:40
@@ -1383,4 +1104,4 @@ p:Ziggo,f:40
 Digi1_Sd
 p:Ziggo,f:40
 end
-Edited with dreamboxEDIT 5.2.0.0 on 21apr2013 20:07:09
+Have a lot of bugs!
