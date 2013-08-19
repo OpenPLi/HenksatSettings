@@ -1221,8 +1221,8 @@ p:ARD
 DCINE ESPAÑOL
 p:DCESP
 0037:00c00000:000f:0085:1:0
-Eurosport 2 Deutschland
-p:SKY,c:0005ff,c:010601,c:020025,c:0305ff,C:1833
+.
+p:BetaDigital,c:0005ff,c:010601,c:020025,c:0305ff,C:1833
 3337:00c00000:045b:0001:1:0
 ServusTV Oesterreich
 p:ServusTV,c:00083e,c:01083f,c:020843,c:03083e
@@ -7989,4 +7989,4 @@ p:
 ESPN America HD
 p:
 end
-Edited with dreamboxEDIT 5.2.0.0 on 06aug2013 23:20:03
+Edited with dreamboxEDIT 5.2.0.0 on 19aug2013 21:22:40

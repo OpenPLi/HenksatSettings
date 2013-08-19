@@ -1958,6 +1958,9 @@ p:
 1d2f:00eb0000:0c97:0003:0:0
 
 p:
+5235:00eb0000:0c99:0003:0:0
+
+p:,f:40
 0f36:011a0000:0968:0002:0:0
 
 p:
@@ -2810,6 +2813,9 @@ p:,C:0e00
 0001:00820000:30d4:013e:1:0
 CGN
 p:
+0001:00820000:03de:0110:1:0
+Italia 1
+p:Mediaset,f:40
 0001:00820000:25e4:02be:1:0
 SHARJAH TV
 p:ARABSAT
@@ -2984,6 +2990,9 @@ p:,C:0e00
 0002:00820000:30d4:013e:1:0
 MARE TV
 p:RRSat
+0002:00820000:03de:0110:1:0
+Canale 5
+p:Mediaset,f:40
 0002:00820000:25e4:02be:1:0
 QATAR TV
 p:ARABSAT
@@ -3161,6 +3170,9 @@ p:,C:0e00
 0003:005a0000:00c9:000a:1:0
 AFN Spectrum
 p:,C:0e00
+0003:00820000:03de:0110:1:0
+Rete 4
+p:Mediaset,c:00065e,c:01065f,c:020653,c:03065e,f:40
 0003:00820000:25e4:02be:1:0
 SAUDI1
 p:ARABSAT
@@ -3296,6 +3308,9 @@ p:,C:0e00
 0004:00820000:30d4:013e:1:0
 Rusiya Al-Yaum
 p:
+0004:00820000:03de:0110:1:0
+Iris
+p:Mediaset,f:40
 0004:00820000:25e4:02be:1:0
 KUWAIT
 p:ARABSAT
@@ -3797,6 +3812,9 @@ p:,C:0e00
 0007:005a0000:00c9:000a:1:0
 AFNE Guide
 p:,C:0e00
+0007:00820000:03de:0110:1:0
+La 5
+p:Mediaset,f:40
 0007:00820000:25e4:02be:1:0
 OMAN
 p:ARABSAT
@@ -4022,6 +4040,9 @@ p:CSAT
 2408:005a0000:14b4:009c:1:0
 Coming soon 2
 p:BASIS 1
+2508:00820000:170c:fbff:1:0
+MosaicoFormu1HD
+p:SkyItalia,f:40
 2908:00820000:1edc:0071:1:0
 Planeta FM
 p:Cyfrowy Polsat S.A.
@@ -4109,6 +4130,9 @@ p:Harmonic
 0009:00a0acf8:00c8:0001:1:0
 TVR Iasi
 p:,f:40
+0009:00820000:03de:0110:1:0
+Mediaset EXTRA
+p:Mediaset,f:40
 0009:00820000:25e4:02be:1:0
 AL-IRAQIA TV
 p:ARABSAT
@@ -4280,6 +4304,9 @@ p:HD Platform
 000a:005a0000:20d0:06b2:1:0
 Infokanal
 p:Platforma HD
+000a:00820000:03de:0110:1:0
+Mediaset ITALIA DUE
+p:Mediaset,f:40
 000a:00820000:25e4:02be:1:0
 ADDOUNIA TV
 p:ARABSAT
@@ -5198,6 +5225,9 @@ p:GlobeCast
 2211:00c00000:044c:0001:1:0
 D8
 p:IMEDIA
+2511:00820000:170c:fbff:1:0
+OnBoardMixHDfee
+p:SkyItalia,f:40
 2711:00820000:23f0:013f:1:0
 SIMS Signaling
 p:VVF_ANCONA
@@ -5423,6 +5453,9 @@ p:GlobeCast
 2213:00c00000:044c:0001:1:0
 FRANCE 4
 p:CSAT,f:40
+2513:00820000:170c:fbff:1:0
+Race F1 Hdfeed
+p:SkyItalia,f:40
 2913:00820000:1edc:0071:1:0
 Dla Abonentow
 p:Cyfrowy Polsat S.A.
@@ -5558,6 +5591,9 @@ p:CSAT
 2214:00c00000:044c:0001:1:0
 FRANCE 5
 p:CSAT
+2514:00820000:170c:fbff:1:0
+On Board Sky HD
+p:SkyItalia,f:40
 2814:011a0000:0806:0002:1:0
 ITV3
 p:BSkyB,c:000d14,c:010d15,c:020932,c:030d14
@@ -9078,8 +9114,8 @@ p:BSkyB
 AXN Sci Fi
 p:DCS
 0037:00c00000:000f:0085:1:0
-Eurosport 2 Deutschland
-p:SKY,c:0005ff,c:010601,c:020025,c:0305ff,C:1833
+.
+p:BetaDigital,c:0005ff,c:010601,c:020025,c:0305ff,C:1833
 0037:005a0000:0013:006e:1:0
 HADI TV
 p:NOORSAT
@@ -11552,6 +11588,9 @@ p:BSkyB,c:000d04,c:010d05,c:020938,c:030d04
 2d56:00820000:170c:fbff:1:0
 Sky Calcio 8
 p:SkyItalia
+2d56:00820000:2260:fbff:1:0
+Sky Calcio 8
+p:SkyItalia,f:40
 3156:00c00000:0459:0001:1:0
 Das Erotische TV
 p:MEDIA BROADCAST
@@ -11877,7 +11916,7 @@ p:RCS
 Travel Channel
 p:RCS
 0a5a:00300000:0018:0044:1:0
-Viasat Promo
+Перший автомобільний
 p:
 0a5a:005a0000:1bbc:009c:1:0
 EuroNews Spanish
@@ -12152,6 +12191,9 @@ p:SkyItalia,c:0000a3,c:0300a3,C:09cd,C:093b,C:0919
 2d5d:00820000:170c:fbff:1:0
 Sky Calcio 9
 p:SkyItalia
+2d5d:00820000:2260:fbff:1:0
+Sky Calcio 9
+p:SkyItalia,f:40
 3d5d:00820000:2c88:013e:1:0
 KP MUZYKA
 p:CYFRA +
@@ -12320,6 +12362,9 @@ p:DVB-S QPSK 12616H 13.0°E
 2d5f:00820000:170c:fbff:1:0
 Sky Calcio 10
 p:SkyItalia
+2d5f:00820000:2260:fbff:1:0
+Sky Calcio 10
+p:SkyItalia,f:40
 315f:00c00000:0459:0001:1:0
 EROTIKA TV - NEU!
 p:MEDIA BROADCAST
@@ -12524,6 +12569,9 @@ p:SkyItalia
 2d61:00820000:170c:fbff:1:0
 Sky Calcio 11
 p:SkyItalia
+2d61:00820000:2260:fbff:1:0
+Sky Calcio 11
+p:SkyItalia,f:40
 3161:00c00000:0459:0001:1:0
 Clipmobile
 p:MEDIA BROADCAST
@@ -12641,6 +12689,9 @@ p:Telespazio
 2d62:00820000:170c:fbff:1:0
 Sky Calcio 12
 p:SkyItalia
+2d62:00820000:2260:fbff:1:0
+Sky Calcio 12
+p:SkyItalia,f:40
 2f62:00c00000:0454:0001:1:0
 MCE
 p:Arqiva
@@ -12737,6 +12788,9 @@ p:SkyItalia,c:0000ad,c:0101c4,c:0201da,c:0300ad,C:0919,C:093b,C:09cd
 2d63:00820000:170c:fbff:1:0
 Sky Calcio 13
 p:SkyItalia
+2d63:00820000:2260:fbff:1:0
+Sky Calcio 13
+p:SkyItalia,f:40
 3163:00c00000:0459:0001:1:0
 ALT - SUCHLAUF STARTEN
 p:MEDIA BROADCAST,c:0000f3,c:010157,c:0300f3
@@ -12826,7 +12880,7 @@ p:DVB-S QPSK 12643H 359.2Â°E
 p:DVB-S QPSK 12563H 359.2Â°E
 0a64:00300000:0018:0044:1:0
 VH1
-p:VisionTV
+p:VisionTV,c:000a65,c:010a66,c:030a65,c:050001,C:0931
 0f64:00820000:2198:fbff:1:0
 12418V SID 0xf64
 p:DVB-S2 8PSK 12418V 13.0°E
@@ -13103,6 +13157,9 @@ p:
 2c66:00820000:251c:fbff:1:0
 12616H SID 0x2c66
 p:DVB-S QPSK 12616H 13.0°E
+2d66:00820000:2260:fbff:1:0
+Sky Calcio 14
+p:SkyItalia,f:40
 3b66:00820000:012c:013e:1:0
 Animal Planet HD
 p:ITI
@@ -18012,7 +18069,7 @@ p:GlobeCast
 Discovery Channel
 p:RCS
 0aa0:00300000:0018:0044:1:0
-The Disney Channel
+Nickelodeon
 p:VisionTV
 0aa0:005a0000:1bbc:009c:1:0
 EuroNews French
@@ -22311,7 +22368,7 @@ p:SkyItalia
 Sky Disney
 p:BSkyB
 13d4:00eb0000:0c8a:0003:1:0
-History channel
+Novinka
 p:Skylink
 19d4:00c00000:0444:0001:1:0
 BEIN SPORT MAX 4
@@ -24207,7 +24264,7 @@ p:GlobeCast
 SVT1 Småland
 p:,C:093e,C:090f
 09ec:00300000:0018:0044:1:0
-Sarafan
+Usadba
 p:VisionTV
 0bec:00820000:20d0:013e:1:0
 Equidia PRO2
@@ -31968,7 +32025,7 @@ p:CANALDIGITAAL
 CNN
 p:T-HT,c:000b26,c:010a26,c:030b26,c:050001,C:1830,f:40
 178e:00eb0000:0c82:0003:22:0
-FoxLife
+FOX Channel
 p:Canaldigitaal,c:000204,c:010058,c:030204,c:050001,C:1818,C:1817,C:0500,C:0100
 1793:00eb0000:0c82:0003:22:0
 Boomerang
@@ -32061,7 +32118,7 @@ p:T-HT,c:000b04,c:010a04,c:030b04,c:050001,C:1830,f:40
 Dorcel TV
 p:T-HT,f:40
 51c7:00eb0000:0c96:0003:22:0
-FOX Sports Eredivisie 3
+FOX Sports EDL 3
 p:Canaldigitaal,c:000205,c:01005a,c:020025,c:030205,c:050001,C:1818,C:1817,C:0500,C:0100
 51cc:00eb0000:0c96:0003:22:0
 Cartoon/TCM
@@ -32123,6 +32180,9 @@ p:BSkyB
 1902:0e080000:0045:0046:25:0
 TV 2 HD (N)
 p:Telenor
+2502:00820000:170c:fbff:25:0
+cielo HD
+p:SkyItalia,f:40
 2502:00820000:2260:fbff:25:0
 TEST14
 p:SkyItalia,f:40
@@ -32147,6 +32207,9 @@ p:SkyItalia,f:40
 0f04:011a0000:07d5:0002:25:0
 3844
 p:BSkyB
+0f04:011a0000:07f0:0002:25:0
+3844
+p:BSkyB,f:40
 1904:0e080000:0044:0046:25:0
 TV 2 PL3 HD
 p:Telenor
@@ -32192,6 +32255,9 @@ p:Telenor
 2407:00c00000:0452:0001:25:0
 FRANCE 2 HD
 p:CSAT
+2507:00820000:170c:fbff:25:0
+Onboard Mix HD
+p:SkyItalia,f:40
 1008:00820000:2c24:fbff:25:0
 TEST_113_3HD
 p:SkyItalia
@@ -32315,6 +32381,9 @@ p:SkyItalia
 1010:00820000:1d4c:fbff:25:0
 Cinema Hits HD
 p:SkyItalia
+2510:00820000:170c:fbff:25:0
+Race Control HD
+p:SkyItalia,f:40
 2710:011a0000:0801:0002:25:0
 ITV HD
 p:BSkyB,c:00093a,c:010941,c:020944,c:03093a,c:050001,c:090000
@@ -32843,6 +32912,9 @@ p:CSAT
 4335:00820000:300c:013e:25:0
 Test17205
 p:SRG SSR,c:000214,c:010215,c:020219,c:030214,c:050001,C:0500
+5235:00eb0000:0c99:0003:25:0
+FOX Sports 2 HD int
+p:CANAALDIGITAAL,c:000208,c:01006c,c:020027,c:030208,c:050001,C:1817,C:0100,f:40
 1036:00820000:1d4c:fbff:25:0
 Eurosport 2 HD
 p:SkyItalia,f:40
@@ -33671,6 +33743,9 @@ p:CANALDIGITAAL,c:000203,c:030203,c:040056,c:050001,C:1818,C:1817,C:0d96,C:0624,
 0072:00c00000:000d:0085:25:0
 Sky Sport HD 2
 p:SKY,c:0003ff,c:020020,c:0303ff,c:040403,c:050001,C:1861
+0672:011a0000:07f0:0002:25:0
+1650
+p:BSkyB,f:40
 0f72:00820000:2198:fbff:25:0
 Primafila 13 HD
 p:SkyItalia
@@ -34265,6 +34340,9 @@ p:BASIS 2
 05a0:00300000:0020:0056:25:0
 Viasat Motor HD
 p:,C:093e,C:090f
+0fa1:011a0000:07d1:0002:25:0
+Sky Sports 3 HD
+p:BSkyB,f:40
 0fa1:011a0000:07d2:0002:25:0
 Sky Sports 1 HD
 p:BSkyB
@@ -34286,6 +34364,9 @@ p:ZDFvision
 37a2:00820000:14b4:fbff:25:0
 Primafila 13 HD
 p:SkyItalia
+0fa3:011a0000:07d1:0002:25:0
+Sky Sports 1 HD
+p:BSkyB,f:40
 0fa3:011a0000:07d2:0002:25:0
 Sky Sports 3 HD
 p:BSkyB,c:000200,c:010280,c:030200,c:050001,C:0963,C:0961,C:0960
@@ -34295,6 +34376,9 @@ p:BSkyB,c:000203,c:010283,c:030203,c:050001
 06a4:00300000:0019:0056:25:0
 Viasat Sport HD
 p:
+0fa4:011a0000:07d1:0002:25:0
+Sky Sports 4 HD
+p:BSkyB,f:40
 0fa4:011a0000:07d2:0002:25:0
 Sky Sports 4 HD
 p:BSkyB
@@ -34326,7 +34410,7 @@ p:SkyItalia
 WDR HD Dortmund
 p:ARD,c:00157d,c:01157e,c:0201f8,c:03157d,c:050001
 13a8:00eb0000:0c85:0003:25:0
-Prima family HD
+Prima HD
 p:Skylink
 37a8:00820000:14b4:fbff:25:0
 Sky 3D
@@ -34788,7 +34872,7 @@ p:VisionTV
 DR1 (720p50)
 p:Telenor
 17cc:00eb0000:0c82:0003:25:0
-FOX Sports Eredivisie 1 HD
+FOX Sports EDL 1 HD
 p:Canaldigitaal,c:000210,c:0100e0,c:02002d,c:030210,c:050001,C:1817,C:0100
 19cc:00c00000:0444:0001:25:0
 OCS GEANTS HD
@@ -35019,7 +35103,7 @@ p:BSkyB,f:40
 Sky Action HD
 p:BSkyB,c:000200,c:020904,c:030200,c:040294,c:050001,c:099048800,C:0963,C:0961,C:0960
 0ee7:011a0000:07e8:0002:25:0
-Sky Greats HD
+SkySuperheroHD
 p:BSkyB,c:000203,c:020904,c:030203,c:040297,c:050001,c:099048800,C:0963,C:0961,C:0960
 0ee8:011a0000:07e8:0002:25:0
 Sky DraRomHD
@@ -37626,8 +37710,8 @@ p:BSkyB
 PLAYIN'TV
 p:IMEDIA
 0f27:011a0000:07f0:0002:135:0
-SBO HD1
-p:BSkyB
+SBO HD
+p:BSkyB,c:000203,c:010283,c:020901,c:030203,c:050001,c:099018800,C:0963,C:0961,C:0960
 0f27:011a0000:07f2:0002:135:0
 SBO HD1
 p:BSkyB,c:000202,c:010282,c:02090a,c:030202,c:050001,c:0990a8800,C:0963,C:0961,C:0960
@@ -38321,68 +38405,5 @@ p:SkyItalia
 0014:005a0000:189c:009e:255:0
 11977H SID 0x14
 p:DVB-S QPSK 11977H 9.0°E
-2510:00820000:170c:fbff:25:0
-Race Control HD
-p:SkyItalia,f:40
-2513:00820000:170c:fbff:1:0
-Race F1 Hdfeed
-p:SkyItalia,f:40
-2514:00820000:170c:fbff:1:0
-On Board Sky HD
-p:SkyItalia,f:40
-2507:00820000:170c:fbff:25:0
-Onboard Mix HD
-p:SkyItalia,f:40
-2511:00820000:170c:fbff:1:0
-OnBoardMixHDfee
-p:SkyItalia,f:40
-2508:00820000:170c:fbff:1:0
-MosaicoFormu1HD
-p:SkyItalia,f:40
-2d56:00820000:2260:fbff:1:0
-Sky Calcio 8
-p:SkyItalia,f:40
-2d5d:00820000:2260:fbff:1:0
-Sky Calcio 9
-p:SkyItalia,f:40
-2d5f:00820000:2260:fbff:1:0
-Sky Calcio 10
-p:SkyItalia,f:40
-2d61:00820000:2260:fbff:1:0
-Sky Calcio 11
-p:SkyItalia,f:40
-2d62:00820000:2260:fbff:1:0
-Sky Calcio 12
-p:SkyItalia,f:40
-2d63:00820000:2260:fbff:1:0
-Sky Calcio 13
-p:SkyItalia,f:40
-2d66:00820000:2260:fbff:1:0
-Sky Calcio 14
-p:SkyItalia,f:40
-0003:00820000:03de:0110:1:0
-Rete 4
-p:Mediaset,c:00065e,c:01065f,c:020653,c:03065e,f:40
-0002:00820000:03de:0110:1:0
-Canale 5
-p:Mediaset,f:40
-0001:00820000:03de:0110:1:0
-Italia 1
-p:Mediaset,f:40
-000a:00820000:03de:0110:1:0
-Mediaset ITALIA DUE
-p:Mediaset,f:40
-0009:00820000:03de:0110:1:0
-Mediaset EXTRA
-p:Mediaset,f:40
-2502:00820000:170c:fbff:25:0
-cielo HD
-p:SkyItalia,f:40
-0004:00820000:03de:0110:1:0
-Iris
-p:Mediaset,f:40
-0007:00820000:03de:0110:1:0
-La 5
-p:Mediaset,f:40
 end
-Edited with dreamboxEDIT 5.2.0.0 on 06aug2013 23:03:27
+Edited with dreamboxEDIT 5.2.0.0 on 19aug2013 21:10:47
