@@ -1,0 +1,3 @@
+#NAME Bouquets (Radio)
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.Ziggo.radio
+#SERVICE: 1:7:2:0:0:0:0:0:0:0:userbouquet.favourites.radio

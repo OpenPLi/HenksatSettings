@@ -1,0 +1,9 @@
+#NAME Stream NL regionaal
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:pls%3A//icecast.streamone.nl%3A9047/assenfmlivehigh.pls:DR: Assen FM
+#DESCRIPTION DR: Assen FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//icecast.bingofm.nl/bingofm_hi:FL: Bingo FM
+#DESCRIPTION FL: Bingo FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3A//icecast.pmedia80.kpnstreaming.nl/omropfryslanlive-OmropFryslanRadio.mp3:FR: Omrop Fryslan
+#DESCRIPTION FR: Omrop Fryslan
+#SERVICE 1:64:5:0:0:0:0:0:0:0::---algemeen---
+#DESCRIPTION ---algemeen---

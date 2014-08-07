@@ -1,0 +1,15 @@
+#NAME User - bouquets (Radio)
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.UPCNL.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe00.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_nl_nationaal.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_nl_regionaal.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_belgi__nationaal.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_belgi__regionaal.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_thema_internet_radio_stations.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_internationaal.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_alleen_muziek.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_country_radio_mixed.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_dance_radio_mixed.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_jazz_radio_jazz.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_klassiek.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.radio" ORDER BY bouquet

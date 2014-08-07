@@ -1,0 +1,8 @@
+#NAME Bouquets (TV)
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ziggo_.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.kinderen.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sport_.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.film.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.buitenlands.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.xxx.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.favourites.tv

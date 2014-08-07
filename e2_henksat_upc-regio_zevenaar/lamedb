@@ -1,0 +1,1845 @@
+eDVB services /4/
+transponders
+ffff0000:000c:03e8
+	c 738750:6875000:2:5:0:0:0
+/
+ffff0000:0065:0600
+	c 132000:6900000:2:5:0:0:0
+/
+ffff0000:0801:0600
+	c 474750:6900000:2:5:0:0:0
+/
+ffff0000:0802:0600
+	c 850750:6900000:2:5:0:0:0
+/
+ffff0000:0803:0600
+	c 124000:6900000:2:5:0:0:0
+/
+ffff0000:0804:0600
+	c 466750:6900000:2:5:0:0:0
+/
+ffff0000:0805:0600
+	c 250750:6900000:2:5:0:0:0
+/
+ffff0000:0806:0600
+	c 578750:6900000:2:5:0:0:0
+/
+ffff0000:0807:0600
+	c 586750:6900000:2:5:0:0:0
+/
+ffff0000:0808:0600
+	c 498750:6900000:2:5:0:0:0
+/
+ffff0000:0809:0600
+	c 506750:6900000:2:5:0:0:0
+/
+ffff0000:080a:0600
+	c 514750:6900000:2:5:0:0:0
+/
+ffff0000:080b:0600
+	c 650750:6900000:2:5:0:0:0
+/
+ffff0000:080c:0600
+	c 714750:6900000:2:5:0:0:0
+/
+ffff0000:080d:0600
+	c 698750:6900000:2:5:0:0:0
+/
+ffff0000:080e:0600
+	c 762750:6900000:2:5:0:0:0
+/
+ffff0000:080f:0600
+	c 826750:6900000:2:5:0:0:0
+/
+ffff0000:0810:0600
+	c 666750:6900000:2:5:0:0:0
+/
+ffff0000:0812:0600
+	c 642750:6900000:2:5:0:0:0
+/
+ffff0000:0813:0600
+	c 778750:6900000:2:5:0:0:0
+/
+ffff0000:0814:0600
+	c 810750:6900000:2:5:0:0:0
+/
+ffff0000:0815:0600
+	c 834750:6900000:2:5:0:0:0
+/
+ffff0000:0816:0600
+	c 746750:6900000:2:5:0:0:0
+/
+ffff0000:0817:0600
+	c 298750:6900000:2:5:0:0:0
+/
+ffff0000:0819:0600
+	c 682750:6900000:2:5:0:0:0
+/
+ffff0000:081a:0600
+	c 156000:6900000:2:5:0:0:0
+/
+ffff0000:081b:0600
+	c 618750:6900000:2:5:0:0:0
+/
+ffff0000:081c:0600
+	c 482750:6900000:2:5:0:0:0
+/
+ffff0000:0831:0600
+	c 602750:6900000:2:5:0:0:0
+/
+ffff0000:0832:0600
+	c 610750:6900000:2:5:0:0:0
+/
+ffff0000:0833:0600
+	c 594750:6900000:2:5:0:0:0
+/
+ffff0000:0834:0600
+	c 140000:6900000:2:5:0:0:0
+/
+ffff0000:0835:0600
+	c 148000:6900000:2:5:0:0:0
+/
+ffff0000:0836:0600
+	c 490750:6900000:2:5:0:0:0
+/
+ffff0000:0837:0600
+	c 658750:6900000:2:5:0:0:0
+/
+ffff0000:0838:0600
+	c 690750:6900000:2:5:0:0:0
+/
+ffff0000:0839:0600
+	c 164000:6900000:2:3:0:0:0
+/
+ffff0000:083a:0600
+	c 530750:6900000:2:5:0:0:0
+/
+ffff0000:083b:0600
+	c 842750:6900000:2:5:0:0:0
+/
+ffff0000:083c:0600
+	c 858750:6900000:2:5:0:0:0
+/
+ffff0000:0840:0600
+	c 706750:6900000:2:5:0:0:0
+/
+end
+services
+4b01:ffff0000:080e:0600:1:0
+VH1 Classic
+p:UPC NL,c:000ed9,c:010ee2,c:030ee1,C:0000,f:40
+0102:ffff0000:000c:03e8:1:0
+100% NL TV
+p:Cable,f:40
+4b04:ffff0000:080e:0600:1:0
+Russia Today
+p:UPC NL,C:0000,f:40
+0005:ffff0000:0832:0600:1:0
+610 SID 0x05
+p:,f:40
+4b05:ffff0000:080e:0600:1:0
+Evenementenkanaal
+p:UPC NL,c:001005,c:01100e,c:031005,C:0000,f:40
+4b06:ffff0000:080e:0600:1:0
+TRT TÈurk
+p:UPC NL,c:000db5,c:0102c9,c:020e11,c:030db5,C:0000,f:40
+4c07:ffff0000:0835:0600:1:0
+Film1 Sundance
+p:UPC NL,c:000a29,c:010a32,c:030a29,C:1850,C:1801,f:40
+3f0c:ffff0000:0837:0600:1:0
+FOX Sports 1 Ere.
+p:UPC NL,c:0007d1,c:0107da,c:020835,c:0307d1,f:40
+3f0d:ffff0000:0837:0600:1:0
+FOX Sports 3 Ere.
+p:UPC NL,c:000a29,c:010a32,c:030a29,f:40
+c60d:ffff0000:081c:0600:1:0
+Test TV 1
+p:UPC NL,f:40
+3f0e:ffff0000:0837:0600:1:0
+FOX Sports 5 Ere.
+p:UPC NL,f:40
+c60e:ffff0000:081c:0600:1:0
+iTV Portal 3 - Test
+p:UPC NL,f:40
+3f0f:ffff0000:0837:0600:1:0
+FOX Sports 2
+p:UPC NL,c:0008fd,c:010906,c:02096a,c:0308fd,f:40
+c60f:ffff0000:081c:0600:1:0
+Test TV 2
+p:UPC NL,f:40
+2711:ffff0000:0065:0600:1:0
+Lokale Omroep Landsmeer
+p:UPC NL,C:0000,f:40
+4511:ffff0000:081b:0600:1:0
+Ajax TV
+p:UPC NL,f:40
+2712:ffff0000:0065:0600:1:0
+Salto 1
+p:UPC NL,C:0000,f:40
+4512:ffff0000:081b:0600:1:0
+iTV NGC On Demand
+p:UPC NL,f:40
+2713:ffff0000:0065:0600:1:0
+Salto 2
+p:UPC NL,C:0000,f:40
+4513:ffff0000:081b:0600:1:0
+iTV Disney On Demand
+p:UPC NL,f:40
+2714:ffff0000:0065:0600:1:0
+OPEN Rotterdam
+p:UPC NL,C:0000,f:40
+4514:ffff0000:081b:0600:1:0
+iTV Discovery On Demand
+p:UPC NL,f:40
+2715:ffff0000:0065:0600:1:0
+Open Podium
+p:UPC NL,C:0000,f:40
+4115:ffff0000:081a:0600:1:0
+Code Download HZN ISTB
+p:UPC NL,f:40
+2716:ffff0000:0065:0600:1:0
+Haarlem 105
+p:UPC NL,C:0000,f:40
+4116:ffff0000:081a:0600:1:0
+Code Download HZN UID2
+p:UPC NL,f:40
+4516:ffff0000:081b:0600:1:0
+iTV Comedy Central On Demand
+p:UPC NL,f:40
+2717:ffff0000:0065:0600:1:0
+GPTV
+p:UPC NL,C:0000,f:40
+4517:ffff0000:081b:0600:1:0
+iTV FOX Life On Demand
+p:UPC NL,f:40
+4b17:ffff0000:080f:0600:1:0
+Sky News
+p:UPC NL,C:0000,f:40
+2718:ffff0000:0065:0600:1:0
+Focuz TV
+p:UPC NL,c:000050,c:010051,c:030050,f:40
+4518:ffff0000:081b:0600:1:0
+iTV Ero TV
+p:UPC NL,f:40
+4b18:ffff0000:080f:0600:1:0
+Rai Uno
+p:UPC NL,C:0000,f:40
+4519:ffff0000:081b:0600:1:0
+iTV Nickelodeon On Demand
+p:upc,f:40
+4b19:ffff0000:080f:0600:1:0
+RTL Television
+p:UPC NL,C:0000,f:40
+4c19:ffff0000:0836:0600:1:0
+CNBC
+p:UPC NL,C:0000,f:40
+271a:ffff0000:0065:0600:1:0
+N1 TV
+p:UPC NL,c:00015c,c:03015c,f:40
+451a:ffff0000:081b:0600:1:0
+iTV MTV On Demand
+p:UPC NL,f:40
+4c1a:ffff0000:0836:0600:1:0
+TV West
+p:UPC NL,c:0008fd,c:010906,c:020907,c:0308fd,f:40
+451b:ffff0000:081b:0600:1:0
+iTV Nostalgie
+p:UPC NL,f:40
+4c1b:ffff0000:0836:0600:1:0
+RTL Crime
+p:UPC NL,c:000a29,c:010a32,c:020a8d,c:030a29,C:0000,f:40
+271c:ffff0000:0065:0600:1:0
+Kanaal 13
+p:UPC NL,c:001f52,c:011f53,c:031f52,f:40
+451c:ffff0000:081b:0600:1:0
+iTV SyFy
+p:UPC NL,f:40
+4c1c:ffff0000:0836:0600:1:0
+NPO Cultura
+p:UPC NL,C:0000,f:40
+271d:ffff0000:0065:0600:1:0
+Achterhoek TV
+p:UPC NL,c:001f40,c:011f41,c:031f40,f:40
+451d:ffff0000:081b:0600:1:0
+iTV Sport 1 ondemand
+p:UPC NL,f:40
+4c1d:ffff0000:0836:0600:1:0
+Travel Channel
+p:UPC NL,C:0000,f:40
+271e:ffff0000:0065:0600:1:0
+Studio040
+p:UPC NL,C:0000,f:40
+451e:ffff0000:081b:0600:1:0
+iTV 13th street
+p:UPC NL,f:40
+4c1e:ffff0000:0836:0600:1:0
+MTV Brand New
+p:UPC NL,C:0000,f:40
+271f:ffff0000:0065:0600:1:0
+Mercurius TV
+p:UPC NL,C:0000,f:40
+451f:ffff0000:081b:0600:1:0
+iTV CoD een
+p:UPC NL,f:40
+4c1f:ffff0000:0836:0600:1:0
+DanceTrippin TV
+p:UPC NL,c:00125d,c:011266,c:03125d,C:0000,f:40
+2720:ffff0000:0065:0600:1:0
+RTV Arnhem
+p:UPC NL,c:00015c,c:03015c,f:40
+4520:ffff0000:081b:0600:1:0
+iTV CoD Canvas
+p:UPC NL,f:40
+4c20:ffff0000:0836:0600:1:0
+MvH Soft
+p:UPC NL,c:001645,c:01164e,c:031645,C:1850,C:1801,f:40
+3f21:ffff0000:0838:0600:1:0
+RTL Crime CoD
+p:UPC NL,f:40
+4521:ffff0000:081b:0600:1:0
+iTV CoD Ketnet
+p:UPC NL,f:40
+4c21:ffff0000:0836:0600:1:0
+UPC Live TV
+p:UPC NL,C:0000,f:40
+4e21:ffff0000:0801:0600:1:0
+24Kitchen
+p:UPC NL,c:000dad,c:010db6,c:030dad,C:0000,f:40
+2722:ffff0000:0065:0600:1:0
+RTV Dordrecht
+p:UPC NL,C:0000,f:40
+3f22:ffff0000:0838:0600:1:0
+RTL Lounge CoD
+p:UPC NL,f:40
+4522:ffff0000:081b:0600:1:0
+Place Holder Application
+p:UPC NL,f:40
+4c22:ffff0000:0836:0600:1:0
+EDV Minibill
+p:UPC NL,f:40
+2723:ffff0000:0065:0600:1:0
+WebTV
+p:UPC NL,c:00015c,c:03015c,f:40
+3f23:ffff0000:0838:0600:1:0
+Film1 Applicatie
+p:UPC NL,f:40
+4523:ffff0000:081b:0600:1:0
+EU1
+p:UPC NL,f:40
+4c23:ffff0000:0836:0600:1:0
+TV Games 34
+p:UPC NL,f:40
+4e23:ffff0000:0801:0600:1:0
+BBC Entertainment
+p:UPC NL,C:0000,f:40
+2724:ffff0000:0065:0600:1:0
+SIRIS
+p:UPC NL,C:0000,f:40
+4524:ffff0000:081b:0600:1:0
+iTV CoD BBC Ent.
+p:UPC NL,f:40
+4c24:ffff0000:0836:0600:1:0
+TV Games 35
+p:UPC NL,f:40
+2725:ffff0000:0065:0600:1:0
+TV Hoeksche Waard
+p:UPC NL,C:0000,f:40
+3f25:ffff0000:0838:0600:1:0
+Muziek On Demand
+p:UPC NL,f:40
+4525:ffff0000:081b:0600:1:0
+iTV Shorts
+p:UPC NL,f:40
+4e25:ffff0000:0801:0600:1:0
+TVM Int
+p:UPC NL,C:0000,f:40
+2726:ffff0000:0065:0600:1:0
+RTV Kanaal 30
+p:UPC NL,C:0000,f:40
+3f26:ffff0000:0838:0600:1:0
+RTL Gemist
+p:UPC NL,f:40
+4526:ffff0000:081b:0600:1:0
+iTV Nachtlounge COD
+p:UPC NL,f:40
+4e26:ffff0000:0801:0600:1:0
+FOX
+p:UPC NL,c:000c1d,c:010c26,c:030c1d,C:0000,f:40
+2727:ffff0000:0065:0600:1:0
+Lok. Omr. Apeldoorn
+p:UPC NL,c:00015c,c:03015c,f:40
+3f27:ffff0000:0838:0600:1:0
+VOD2 test
+p:UPC NL,f:40
+4527:ffff0000:081b:0600:1:0
+iTV Filmfestival COD
+p:UPC NL,f:40
+4e27:ffff0000:0801:0600:1:0
+522 SID 0x4e27
+p:
+2728:ffff0000:0065:0600:1:0
+RTi Hilversum
+p:UPC NL,C:0000,f:40
+2729:ffff0000:0065:0600:1:0
+Omroep Helmond
+p:UPC NL,C:0000,f:40
+3f29:ffff0000:0838:0600:1:0
+ondemand trial
+p:UPC NL,f:40
+4b29:ffff0000:0810:0600:1:0
+Nat. Geo. Wild
+p:UPC NL,c:001131,c:01113a,c:031131,C:1850,C:1801,f:40
+3f2a:ffff0000:0838:0600:1:0
+ondemand
+p:UPC NL,f:40
+4b2a:ffff0000:0810:0600:1:0
+JimJam
+p:UPC NL,f:40
+4b2b:ffff0000:0810:0600:1:0
+test 0502
+p:UPC NL,f:40
+4b2c:ffff0000:0810:0600:1:0
+NostalgieNet
+p:UPC NL,f:40
+3f2d:ffff0000:0838:0600:1:0
+CUTV
+p:UPC NL,f:40
+4b2d:ffff0000:0810:0600:1:0
+DUMind
+p:UPC NL,f:40
+4c2d:ffff0000:0837:0600:1:0
+FOXlife
+p:UPC NL,f:40
+3f2e:ffff0000:0838:0600:1:0
+MGM ON Demand
+p:UPC NL,f:40
+4b2e:ffff0000:0810:0600:1:0
+Disc. Science
+p:UPC NL,f:40
+3f2f:ffff0000:0838:0600:1:0
+VOD2 Dual Barker 1
+p:UPC NL,f:40
+4b2f:ffff0000:0810:0600:1:0
+Discovery World
+p:UPC NL,f:40
+4c2f:ffff0000:0837:0600:1:0
+MvH Hard
+p:UPC NL,c:000d49,c:010d52,c:030d49,C:1850,C:1801,f:40
+2730:ffff0000:0065:0600:1:0
+RTV Vlaardingen
+p:UPC NL,C:0000,f:40
+3f30:ffff0000:0838:0600:1:0
+VOD2 Dual Barker 2
+p:UPC NL,f:40
+2733:ffff0000:0065:0600:1:0
+Meborah
+p:UPC NL,c:00015c,c:03015c,f:40
+2734:ffff0000:0065:0600:1:0
+WFM Kabelkrant
+p:UPC NL,f:40
+3f35:ffff0000:0839:0600:1:0
+Testbeeld.
+p:UPC NL,c:000c81,c:030c81,f:40
+4e35:ffff0000:0802:0600:1:0
+spare1
+p:UPC NL,C:0000,f:40
+7535:ffff0000:0065:0600:1:0
+132 SID 0x7535
+p:,f:40
+3f36:ffff0000:0839:0600:1:0
+Radio Actual
+p:UPC NL,f:40
+4e37:ffff0000:0802:0600:1:0
+spare2
+p:UPC NL,C:0000,f:40
+3f38:ffff0000:0839:0600:1:0
+D4aCCL
+p:UPC NL,f:40
+2739:ffff0000:0065:0600:1:0
+RTV Ronde Venen
+p:UPC NL,C:0000,f:40
+3f39:ffff0000:0839:0600:1:0
+Radio trial
+p:UPC NL,f:40
+4039:ffff0000:0834:0600:1:0
+Code Download D4A UID2
+p:UPC NL,f:40
+4a39:ffff0000:0805:0600:1:0
+BBC 1
+p:UPC NL,f:40
+3f3a:ffff0000:0839:0600:1:0
+TV Search trial
+p:UPC NL,f:40
+4a3a:ffff0000:0805:0600:1:0
+BBC 2
+p:UPC NL,f:40
+3f3b:ffff0000:0839:0600:1:0
+TV Guide trial
+p:UPC NL,f:40
+4a3b:ffff0000:0805:0600:1:0
+Canvas
+p:UPC NL,c:000a29,c:010a32,c:020a8d,c:030a29,f:40
+273c:ffff0000:0065:0600:1:0
+Alkmaar Centraal
+p:UPC NL,C:0000,f:40
+4a3c:ffff0000:0805:0600:1:0
+een
+p:UPC NL,c:000b55,c:010b5e,c:020b5f,c:030b55,f:40
+273d:ffff0000:0065:0600:1:0
+RTV Almere
+p:UPC NL,C:0000,f:40
+3f3d:ffff0000:0839:0600:1:0
+TV Guide
+p:UPC NL,f:40
+4a3d:ffff0000:0805:0600:1:0
+BBC World News
+p:UPC NL,f:40
+4b3d:ffff0000:0812:0600:1:0
+Syfy
+p:UPC NL,C:0000,f:40
+273e:ffff0000:0065:0600:1:0
+LO Veldhoven
+p:UPC NL,C:0000,f:40
+3f3e:ffff0000:0839:0600:1:0
+Code Download
+p:UPC NL,f:40
+4a3e:ffff0000:0805:0600:1:0
+NPO Zapp Xtra
+p:UPC NL,C:0000,f:40
+4b3e:ffff0000:0812:0600:1:0
+MGM
+p:UPC NL,c:00157d,c:011586,c:03157d,C:0000,f:40
+3f3f:ffff0000:0839:0600:1:0
+HZN Code Download
+p:UPC NL,f:40
+4a3f:ffff0000:0805:0600:1:0
+Zing
+p:UPC NL,C:0000,f:40
+4b3f:ffff0000:0812:0600:1:0
+E! Entertainment
+p:UPC NL,C:0000,f:40
+2740:ffff0000:0065:0600:1:0
+0181TV
+p:UPC NL,C:0000,f:40
+3f40:ffff0000:0839:0600:1:0
+164 SID 0x3f40
+p:
+4b40:ffff0000:0812:0600:1:0
+WDR
+p:UPC NL,C:0000,f:40
+3f41:ffff0000:0839:0600:1:0
+164 SID 0x3f41
+p:
+4b41:ffff0000:0812:0600:1:0
+Eurosport 2
+p:UPC NL,C:0000,f:40
+2742:ffff0000:0065:0600:1:0
+Weert TV
+p:UPC NL,C:0000,f:40
+3f42:ffff0000:0839:0600:1:0
+TV Search
+p:UPC NL,f:40
+4b42:ffff0000:0812:0600:1:0
+TV Interactief
+p:UPC NL,C:0000,f:40
+4c42:ffff0000:0838:0600:1:0
+C&I
+p:UPC NL,c:001131,c:01113a,c:031131,C:1850,C:1801,f:40
+2743:ffff0000:0065:0600:1:0
+Lingewaard Lokaal
+p:UPC NL,c:00015c,c:03015c,f:40
+3f43:ffff0000:0839:0600:1:0
+Welcome Application
+p:UPC NL,f:40
+4b43:ffff0000:0812:0600:1:0
+NPO Humor TV
+p:UPC NL,c:000ed9,c:010ee2,c:020f3d,c:030ed9,C:0000,f:40
+4c43:ffff0000:0838:0600:1:0
+CNN
+p:UPC NL,f:40
+3f44:ffff0000:0839:0600:1:0
+One Way Still
+p:UPC NL,f:40
+4b44:ffff0000:0812:0600:1:0
+Motors TV
+p:UPC NL,c:000961,c:010968,c:030961,C:0000,f:40
+2745:ffff0000:0065:0600:1:0
+RTV Stichtse Vecht
+p:UPC NL,C:0000,f:40
+4345:ffff0000:080f:0600:1:0
+iTV CoD History
+p:UPC NL,f:40
+3f46:ffff0000:0839:0600:1:0
+Standby Application
+p:UPC NL,f:40
+2749:ffff0000:0065:0600:1:0
+VOC Lokaal
+p:UPC NL,c:00015c,c:03015c,f:40
+274b:ffff0000:0065:0600:1:0
+De Grenskoerier
+p:UPC NL,C:0000,f:40
+4e4b:ffff0000:0803:0600:1:0
+Star Gold
+p:UPC NL,f:40
+274c:ffff0000:0065:0600:1:0
+RTV Slogo
+p:UPC NL,C:0000,f:40
+4e4c:ffff0000:0803:0600:1:0
+brava nl klassiek
+p:UPC NL,c:000b55,c:010b5e,c:020bb9,c:030b55,f:40
+4a4d:ffff0000:0806:0600:1:0
+Net 5
+p:UPC NL,c:0007d2,c:0107da,c:020835,c:0307d2,f:40
+4e4d:ffff0000:0803:0600:1:0
+SLAM!TV
+p:UPC NL,f:40
+274e:ffff0000:0065:0600:1:0
+EDE TV
+p:UPC NL,c:00015c,c:03015c,f:40
+4a4e:ffff0000:0806:0600:1:0
+MTV
+p:UPC NL,c:0008fd,c:010906,c:020962,c:0308fd,f:40
+4e4e:ffff0000:0803:0600:1:0
+CCTV News
+p:UPC NL,f:40
+4a4f:ffff0000:0806:0600:1:0
+Weer en Verkeer
+p:UPC NL,f:40
+2751:ffff0000:0065:0600:1:0
+RTV Horizon
+p:UPC NL,C:0000,f:40
+4a51:ffff0000:0806:0600:1:0
+Ketnet
+p:UPC NL,f:40
+4b51:ffff0000:0813:0600:1:0
+SAT.1
+p:UPC NL,C:0000,f:40
+5451:ffff0000:083b:0600:1:0
+OUTtv
+p:UPC NL,C:0000,f:40
+2752:ffff0000:0065:0600:1:0
+Omroep Groesbeek
+p:UPC NL,f:40
+4a52:ffff0000:0806:0600:1:0
+RTL Telekids
+p:UPC NL,f:40
+4b53:ffff0000:0813:0600:1:0
+BBC 3/CbbC
+p:UPC NL,c:000a8d,c:010a96,c:020afa,c:030a8d,C:0000,f:40
+2754:ffff0000:0065:0600:1:0
+WO-TV
+p:UPC NL,f:40
+4b54:ffff0000:0813:0600:1:0
+BBC 4/Cbeebies
+p:UPC NL,C:0000,f:40
+4b55:ffff0000:0813:0600:1:0
+NPO Doc
+p:UPC NL,C:0000,f:40
+4b56:ffff0000:0813:0600:1:0
+NPO Best
+p:UPC NL,c:000dad,c:010db6,c:020e11,c:030dad,C:0000,f:40
+2757:ffff0000:0065:0600:1:0
+RTV Purmerend
+p:UPC NL,C:0000,f:40
+4b57:ffff0000:0813:0600:1:0
+Family 7
+p:UPC NL,C:0000,f:40
+2758:ffff0000:0065:0600:1:0
+Stads TV Tiel
+p:UPC NL,f:40
+4b58:ffff0000:0813:0600:1:0
+Disney XD
+p:UPC NL,C:0000,f:40
+2759:ffff0000:0065:0600:1:0
+Ideaal TV
+p:UPC NL,f:40
+275b:ffff0000:0065:0600:1:0
+PODIUM TV
+p:UPC NL,C:0000,f:40
+275d:ffff0000:0065:0600:1:0
+Lansingerland TV
+p:UPC NL,C:0000,f:40
+4e5e:ffff0000:0804:0600:1:0
+Investigation Disc.
+p:UPC NL,c:0008fd,c:010906,c:020961,c:0308fd,C:0000,f:40
+4e5f:ffff0000:0804:0600:1:0
+Omrop Fryslan
+p:UPC NL,c:000b55,c:010b5f,c:020bba,c:030b55,f:40
+4e60:ffff0000:0804:0600:1:0
+Omrop Fryslan
+p:UPC NL,f:40
+4a61:ffff0000:0807:0600:1:0
+Nederland 1
+p:UPC NL,c:0007d1,c:0107da,c:020835,c:0307d1,f:40
+4e61:ffff0000:0804:0600:1:0
+TV 5 Monde Europe
+p:UPC NL,C:0000,f:40
+ea61:ffff0000:0065:0600:1:0
+132 SID 0xea61
+p:,f:40
+4a62:ffff0000:0807:0600:1:0
+Nederland 2
+p:UPC NL,c:0008fd,c:010906,c:020961,c:0308fd,f:40
+4e62:ffff0000:0804:0600:1:0
+Kids TV Gids1
+p:UPC NL,C:0000,f:40
+4a63:ffff0000:0807:0600:1:0
+Nederland 3
+p:UPC NL,c:000a29,c:010a32,c:020a8d,c:030a29,f:40
+4e63:ffff0000:0804:0600:1:0
+Kids TV Gids
+p:UPC NL,C:0000,f:40
+4a64:ffff0000:0807:0600:1:0
+GoedTV
+p:UPC NL,C:0000,f:40
+4e64:ffff0000:0804:0600:1:0
+UPC On Demand
+p:UPC NL,f:40
+7764:ffff0000:083a:0600:1:0
+Fox Sports 4 PPV
+p:UPC NL,f:40
+4a65:ffff0000:0807:0600:1:0
+Test 0601
+p:UPC NL,f:40
+4b65:ffff0000:0814:0600:1:0
+Nick Toons
+p:UPC NL,C:0000,f:40
+4e65:ffff0000:0804:0600:1:0
+Star Life OK
+p:UPC NL,C:0000,f:40
+4a66:ffff0000:0807:0600:1:0
+586 SID 0x4a66
+p:,f:40
+4b66:ffff0000:0814:0600:1:0
+Brazzers TV Europe
+p:UPC NL,c:0007d1,c:0107da,c:0307d1,C:1850,C:1801,f:40
+4b67:ffff0000:0814:0600:1:0
+Nick JR
+p:UPC NL,C:0000,f:40
+4b68:ffff0000:0814:0600:1:0
+MTV Music 24
+p:UPC NL,C:0000,f:40
+4b69:ffff0000:0814:0600:1:0
+Passie XXX (Xotix)
+p:UPC NL,c:000b55,c:010b5e,c:030b55,C:1850,C:1801,f:40
+4c69:ffff0000:083a:0600:1:0
+Testbeeld HD
+p:UPC NL
+4b6a:ffff0000:0814:0600:1:0
+Disney Junior
+p:UPC NL,C:0000,f:40
+4b6b:ffff0000:0814:0600:1:0
+NPO 101
+p:UPC NL,c:000dad,c:010db6,c:030dad,C:0000,f:40
+4b6c:ffff0000:0814:0600:1:0
+X-MO
+p:UPC NL,c:000edb,c:010eda,c:030edb,C:0000,f:40
+4c6c:ffff0000:083a:0600:1:0
+FOX Sports 4
+p:UPC NL,f:40
+4b6d:ffff0000:0814:0600:1:0
+Hustler TV
+p:UPC NL,c:001389,c:011392,c:031389,C:0000,f:40
+4b6e:ffff0000:0814:0600:1:0
+Erotische zenders
+p:UPC NL,f:40
+4c6e:ffff0000:083a:0600:1:0
+530 SID 0x4c6e
+p:,f:40
+3f71:ffff0000:083c:0600:1:0
+HZN Code Download2
+p:UPC NL,f:40
+3f72:ffff0000:083c:0600:1:0
+iTV News
+p:UPC NL,f:40
+7672:ffff0000:0815:0600:1:0
+Sport1 Select PPV
+p:UPC NL,C:0000,f:40
+3f73:ffff0000:083c:0600:1:0
+iTV Weather
+p:UPC NL,f:40
+7673:ffff0000:0815:0600:1:0
+Sport1 Golf PPV
+p:UPC NL,C:0000,f:40
+3f74:ffff0000:083c:0600:1:0
+iTV Traffic
+p:UPC NL,f:40
+3f75:ffff0000:083c:0600:1:0
+iTV Feature 1
+p:UPC NL,f:40
+4a75:ffff0000:0808:0600:1:0
+Veronica/Disney XD
+p:UPC NL,c:0007d2,c:0107dc,c:020836,c:0307d2,f:40
+3f76:ffff0000:083c:0600:1:0
+iTV Feature 2
+p:UPC NL,f:40
+4a76:ffff0000:0808:0600:1:0
+Comedy Central
+p:UPC NL,c:000db7,c:010db8,c:020dbf,c:030db7,f:40
+3f77:ffff0000:083c:0600:1:0
+TV Games Free Minibill
+p:UPC NL,f:40
+4a77:ffff0000:0808:0600:1:0
+CNN verplaatst
+p:UPC NL,f:40
+4a78:ffff0000:0808:0600:1:0
+HISTORY
+p:UPC NL,f:40
+4a79:ffff0000:0808:0600:1:0
+Test 0602
+p:UPC NL,f:40
+4a7a:ffff0000:0808:0600:1:0
+Cartoon Network
+p:UPC NL,f:40
+4b7a:ffff0000:0815:0600:1:0
+Sport1 Select
+p:UPC NL,c:0008fd,c:010906,c:020961,c:0308fd,C:1850,C:1801,f:40
+4b7b:ffff0000:0815:0600:1:0
+Sport1 Golf
+p:UPC NL,C:0000,f:40
+4b7c:ffff0000:0815:0600:1:0
+ESPN America
+p:UPC NL,f:40
+4b7d:ffff0000:0815:0600:1:0
+Comedy Central Extra
+p:UPC NL,c:000c81,c:010c8a,c:030c81,C:0000,f:40
+4c7d:ffff0000:083b:0600:1:0
+Spare Channel
+p:UPC NL,f:40
+3f7e:ffff0000:083c:0600:1:0
+iTV Games 04
+p:UPC NL,f:40
+4b7e:ffff0000:0815:0600:1:0
+Samanyolu TV
+p:UPC NL,C:0000,f:40
+4c7e:ffff0000:083b:0600:1:0
+Omroep Zeeland
+p:UPC NL,c:000899,c:0108a2,c:0208fd,c:030899,f:40
+4c7f:ffff0000:083b:0600:1:0
+RTV Noord
+p:UPC NL,c:000a2a,c:010a32,c:020a8d,c:030a2a,f:40
+4c81:ffff0000:083b:0600:1:0
+OUTtv
+p:UPC NL,c:001389,c:011392,c:031389,C:1850,C:1801,f:40
+4c82:ffff0000:083b:0600:1:0
+Mezzo
+p:UPC NL,c:000dad,c:010dae,c:030dad,C:0000,f:40
+4c83:ffff0000:083b:0600:1:0
+TV Oranje
+p:UPC NL,c:000ed9,c:010ee2,c:030ed9,C:0000,f:40
+4c85:ffff0000:083b:0600:1:0
+Zender van de Maand
+p:UPC NL,c:001195,c:01119e,c:021202,c:031195,C:1850,C:1801,f:40
+7686:ffff0000:0816:0600:1:0
+Sport1 Tennis PPV
+p:UPC NL,C:0000,f:40
+7687:ffff0000:0816:0600:1:0
+Sport1 Extra1 PPV
+p:UPC NL,C:0000,f:40
+7688:ffff0000:0816:0600:1:0
+Sport1 Extra2 PPV
+p:UPC NL,C:0000,f:40
+4a89:ffff0000:0809:0600:1:0
+RTL 4
+p:UPC NL,c:0007d1,c:0107da,c:0207db,c:0307d1,f:40
+7689:ffff0000:0816:0600:1:0
+Sport1 Voetbal PPV
+p:UPC NL,C:0000,f:40
+4a8a:ffff0000:0809:0600:1:0
+RTL 5
+p:UPC NL,c:0008fd,c:010906,c:020961,c:0308fd,f:40
+4a8b:ffff0000:0809:0600:1:0
+RTL 7
+p:UPC NL,c:000a29,c:010a32,c:020a8d,c:030a29,f:40
+4a8c:ffff0000:0809:0600:1:0
+MvH Soft/Dusk!
+p:UPC NL,c:000b55,c:010b5e,c:030b55,C:0000,f:40
+4a8d:ffff0000:0809:0600:1:0
+NPO Politiek / Sport
+p:UPC NL,C:0000,f:40
+4b8d:ffff0000:0816:0600:1:0
+DUSK! (Xotix)
+p:UPC NL,c:0007d1,c:0107db,c:0307d1,C:0000,f:40
+4a8e:ffff0000:0809:0600:1:0
+Shorts TV
+p:UPC NL,C:0000,f:40
+4b8e:ffff0000:0816:0600:1:0
+Sport1 Tennis
+p:UPC NL,C:0000,f:40
+4a8f:ffff0000:0809:0600:1:0
+192 TV
+p:UPC NL,c:000f3d,c:010f46,c:030f3d,C:0000,f:40
+4b8f:ffff0000:0816:0600:1:0
+Sport1 Extra 1
+p:UPC NL,C:0000,f:40
+4b90:ffff0000:0816:0600:1:0
+Sport1 Extra 2
+p:UPC NL,c:000b55,c:010b5e,c:030b55,C:0000,f:40
+4b91:ffff0000:0816:0600:1:0
+Sport1 Voetbal
+p:UPC NL,C:0000,f:40
+4c91:ffff0000:083c:0600:1:0
+test 0504
+p:UPC NL,f:40
+4b92:ffff0000:0816:0600:1:0
+HaberTurk
+p:UPC NL,C:0000,f:40
+4c92:ffff0000:083c:0600:1:0
+Al Jazeera English
+p:UPC NL,f:40
+4b93:ffff0000:0816:0600:1:0
+Test 0603
+p:UPC NL,f:40
+5295:ffff0000:080c:0600:1:0
+RTV Utrecht
+p:UPC NL,f:40
+5296:ffff0000:080c:0600:1:0
+TV Rijnmond
+p:UPC NL,f:40
+5297:ffff0000:080c:0600:1:0
+Omroep Flevoland
+p:UPC NL,f:40
+5298:ffff0000:080c:0600:1:0
+L1
+p:UPC NL,f:40
+529a:ffff0000:080c:0600:1:0
+Omroep Brabant
+p:UPC NL,f:40
+3f9b:ffff0000:083c:0600:1:0
+eTV Standard Application 1
+p:UPC NL,f:40
+529b:ffff0000:080c:0600:1:0
+Omroep Gelderland
+p:UPC NL,c:001f40,c:011f4e,c:021f68,c:031f40,f:40
+3f9c:ffff0000:083c:0600:1:0
+eTV Standard Application 3
+p:UPC NL,f:40
+529c:ffff0000:080c:0600:1:0
+AT5
+p:UPC NL,f:40
+4a9d:ffff0000:080a:0600:1:0
+ARD
+p:UPC NL,c:0007d1,c:0207da,c:0307d1,c:04083e,f:40
+3f9e:ffff0000:083c:0600:1:0
+eTV Standard Application 2
+p:UPC NL,f:40
+4a9e:ffff0000:080a:0600:1:0
+ZDF
+p:UPC NL,c:0008fd,c:020906,c:0308fd,c:04096a,f:40
+3f9f:ffff0000:083c:0600:1:0
+eTV Standard Application 4
+p:UPC NL,f:40
+4a9f:ffff0000:080a:0600:1:0
+SBS 6
+p:UPC NL,c:000a29,c:010a33,c:020a8d,c:030a29,f:40
+3fa0:ffff0000:083c:0600:1:0
+eTV Standard Application 5
+p:UPC NL,f:40
+4aa0:ffff0000:080a:0600:1:0
+Arte
+p:UPC NL,C:0000,f:40
+3fa1:ffff0000:083c:0600:1:0
+iTV Feature 3
+p:UPC NL,f:40
+4aa1:ffff0000:080a:0600:1:0
+Eurosport
+p:UPC NL,f:40
+4ba1:ffff0000:0817:0600:1:0
+Film1 Premiere
+p:UPC NL,C:0000,f:40
+3fa2:ffff0000:083c:0600:1:0
+iTV Feature 4
+p:UPC NL,f:40
+4aa2:ffff0000:080a:0600:1:0
+Extreme Sports
+p:UPC NL,C:0000,f:40
+3fa3:ffff0000:083c:0600:1:0
+eTV Test Channel
+p:UPC NL,f:40
+4aa3:ffff0000:080a:0600:1:0
+Lite TV
+p:UPC NL,C:0000,f:40
+3fa4:ffff0000:083c:0600:1:0
+eTV Test Channel 2
+p:UPC NL,f:40
+4ba4:ffff0000:0817:0600:1:0
+TGRT Europe
+p:UPC NL,c:000a29,c:010a33,c:030a29,C:0000,f:40
+4ba5:ffff0000:0817:0600:1:0
+Pebble TV
+p:UPC NL,C:0000,f:40
+4ba6:ffff0000:0817:0600:1:0
+DjazzTV
+p:UPC NL,c:000ed9,c:010ee2,c:030ed9,C:0000,f:40
+3fa7:ffff0000:083c:0600:1:0
+eTV Test Channel 3
+p:UPC NL,f:40
+3fa8:ffff0000:083c:0600:1:0
+eTV Test Channel 4
+p:UPC NL,f:40
+3fa9:ffff0000:083c:0600:1:0
+eTV Test Channel 5
+p:UPC NL,f:40
+52a9:ffff0000:080d:0600:1:0
+RTV Noord-Holland
+p:UPC NL,f:40
+3faa:ffff0000:083c:0600:1:0
+eTV Test Channel 6
+p:UPC NL,f:40
+3fab:ffff0000:083c:0600:1:0
+iTV TV Tips
+p:UPC NL,f:40
+3fae:ffff0000:083c:0600:1:0
+TV Games 34
+p:UPC NL,f:40
+3faf:ffff0000:083c:0600:1:0
+TV Games 35
+p:UPC NL,f:40
+4ab1:ffff0000:080b:0600:1:0
+RTL 8
+p:UPC NL,c:0007d1,c:0107da,c:020835,c:0307d1,f:40
+4ab2:ffff0000:080b:0600:1:0
+Discovery Channel
+p:UPC NL,c:000ed9,c:010ee2,c:020f3d,c:030ed9,f:40
+4ab3:ffff0000:080b:0600:1:0
+CBS Reality
+p:UPC NL,C:0000,f:40
+4ab4:ffff0000:080b:0600:1:0
+13th Street
+p:UPC NL,C:0000,f:40
+4ab5:ffff0000:080b:0600:1:0
+euronews
+p:UPC NL,C:0000,f:40
+4bb5:ffff0000:0831:0600:1:0
+Film1 Spotlight
+p:UPC NL,c:0007d1,c:0107da,c:0307d1,C:0000,f:40
+4ab6:ffff0000:080b:0600:1:0
+Nickelodeon
+p:UPC NL,c:000dad,c:010db6,c:020e12,c:030dad,f:40
+4ab7:ffff0000:080b:0600:1:0
+HBO
+p:UPC NL,C:0000,f:40
+4bb7:ffff0000:0831:0600:1:0
+Film1 Action
+p:UPC NL,C:0000,f:40
+4bb8:ffff0000:0831:0600:1:0
+Comedy Central Family
+p:UPC NL,c:000079,c:01007a,c:030079,C:0000,f:40
+4bb9:ffff0000:0831:0600:1:0
+HBO 3
+p:UPC NL,C:0000,f:40
+4cb9:ffff0000:0819:0600:1:0
+RTV-7
+p:UPC NL,C:0000,f:40
+4cba:ffff0000:0819:0600:1:0
+StarPlus
+p:UPC NL,C:0000,f:40
+4cbb:ffff0000:0819:0600:1:0
+RTV Drenthe
+p:UPC NL,c:000a29,c:010a32,c:020a33,c:030a29,f:40
+4cbc:ffff0000:0819:0600:1:0
+RTV Oost
+p:UPC NL,c:000c82,c:010c8c,c:020ce6,c:030c82,f:40
+75bc:ffff0000:0837:0600:1:0
+FOX Sports 1 Ere. PPV
+p:UPC NL,f:40
+75bd:ffff0000:0837:0600:1:0
+FOX Sports 3 Ere. PPV
+p:UPC NL,f:40
+4cbe:ffff0000:0819:0600:1:0
+Al Arabiya
+p:UPC NL,C:0000,f:40
+75be:ffff0000:0837:0600:1:0
+FOX Sports 5 Ere. PPV
+p:UPC NL,f:40
+4cbf:ffff0000:0819:0600:1:0
+MBC
+p:UPC NL,C:0000,f:40
+75bf:ffff0000:0837:0600:1:0
+FOX Sports 2 PPV
+p:UPC,f:40
+4cc0:ffff0000:0819:0600:1:0
+Zee TV
+p:UPC NL,C:0000,f:40
+3fc1:ffff0000:0815:0600:1:0
+FOX Sport COD
+p:UPC NL,f:40
+44c1:ffff0000:083c:0600:1:0
+SBS 6 COD
+p:UPC NL,f:40
+4cc1:ffff0000:0819:0600:1:0
+Zee Cinema
+p:UPC NL,C:0000,f:40
+44c2:ffff0000:083c:0600:1:0
+NET 5 COD
+p:UPC NL,f:40
+44c3:ffff0000:083c:0600:1:0
+Veronica COD
+p:UPC NL,f:40
+44c4:ffff0000:083c:0600:1:0
+Cartoon COD
+p:UPC NL,f:40
+44c5:ffff0000:083c:0600:1:0
+iTV Eredivisie on Demand
+p:UPC NL,f:40
+4ac5:ffff0000:080c:0600:1:0
+RTV Utrecht
+p:UPC NL,c:0007d1,c:0107da,c:020835,c:0307d1,f:40
+44c6:ffff0000:083c:0600:1:0
+iTV Buzz
+p:UPC NL,f:40
+4ac6:ffff0000:080c:0600:1:0
+TV Rijnmond
+p:UPC NL,c:0008fd,c:010906,c:020961,c:0308fd,f:40
+44c7:ffff0000:083c:0600:1:0
+iTV TV Portal 3
+p:UPC NL
+4ac7:ffff0000:080c:0600:1:0
+Omroep Flevoland
+p:UPC NL,c:000a29,c:010a32,c:020a8d,c:030a29,f:40
+44c8:ffff0000:083c:0600:1:0
+iTV General Messaging 4
+p:UPC NL,f:40
+4ac8:ffff0000:080c:0600:1:0
+L1
+p:UPC NL,c:000b56,c:010b60,c:020bba,c:030b56,f:40
+4aca:ffff0000:080c:0600:1:0
+Omroep Brabant
+p:UPC NL,c:001131,c:01113a,c:021195,c:031131,f:40
+4acb:ffff0000:080c:0600:1:0
+Omroep Gelderland
+p:UPC NL,c:001f40,c:011f4e,c:021f68,c:031f40,f:40
+4bcb:ffff0000:0832:0600:1:0
+RTL Lounge
+p:UPC NL,c:000a29,c:010a32,c:020a8d,c:030a29,C:0000,f:40
+4acc:ffff0000:080c:0600:1:0
+AT5
+p:UPC NL,c:001005,c:01100e,c:021069,c:031005,f:40
+4bcc:ffff0000:0832:0600:1:0
+TVE
+p:UPC NL,C:0000,f:40
+42cd:ffff0000:080a:0600:1:0
+iTV CoD Nieuw
+p:UPC NL,f:40
+4acd:ffff0000:080c:0600:1:0
+HBO 2
+p:UPC NL,C:0000,f:40
+4bcd:ffff0000:0832:0600:1:0
+HZN Barker 1
+p:UPC NL,C:0000,f:40
+4ccd:ffff0000:081a:0600:1:0
+UPC On Demand
+p:UPC NL,C:0000,f:40
+4bce:ffff0000:0832:0600:1:0
+HZN Barker 2
+p:UPC NL,C:0000,f:40
+4cce:ffff0000:081a:0600:1:0
+UPC Games
+p:UPC NL,C:0000,f:40
+4ccf:ffff0000:081a:0600:1:0
+Self Care Application
+p:UPC NL,f:40
+4cd0:ffff0000:081a:0600:1:0
+UPC Info en Kijktips
+p:UPC NL,f:40
+4cd2:ffff0000:081a:0600:1:0
+Euro Star
+p:UPC NL,c:000dad,c:010294,c:030dad,C:0000,f:40
+4cd3:ffff0000:081a:0600:1:0
+Euro D
+p:UPC NL,C:0000,f:40
+4cd4:ffff0000:081a:0600:1:0
+ATV
+p:UPC NL,C:0000,f:40
+4cd5:ffff0000:081a:0600:1:0
+Testbeeld
+p:UPC NL,f:40
+4cd6:ffff0000:081a:0600:1:0
+UPC Live Horizon portal
+p:UPC NL,f:40
+4cd7:ffff0000:081a:0600:1:0
+Mijn Berichten iTV Portal
+p:UPC NL,f:40
+4ad9:ffff0000:080d:0600:1:0
+RTV Noord-Holland
+p:UPC NL,c:0007d1,c:0107da,c:020840,c:0307d1,f:40
+4ada:ffff0000:080d:0600:1:0
+Xite Music
+p:UPC NL,c:0008fd,c:010906,c:0308fd,C:0000,f:40
+4adb:ffff0000:080d:0600:1:0
+NPO Nieuws
+p:UPC NL,C:0000,f:40
+4adc:ffff0000:080d:0600:1:0
+TLC
+p:UPC NL,c:000c1d,c:010c26,c:020c81,c:030c1d,f:40
+4add:ffff0000:080d:0600:1:0
+National Geographic
+p:UPC NL,c:000b55,c:010b5e,c:020bb9,c:030b55,f:40
+4bdf:ffff0000:0833:0600:1:0
+Film1 Comedy & Kids
+p:UPC NL,c:000a29,c:010a32,c:030a29,C:0000,f:40
+4be0:ffff0000:0833:0600:1:0
+13th Street HD
+p:UPC NL,f:40
+4ce2:ffff0000:081b:0600:1:0
+Baby TV
+p:UPC NL,f:40
+4ce4:ffff0000:081b:0600:1:0
+538
+p:UPC NL,f:40
+77ed:ffff0000:081c:0600:1:0
+PPV D4A
+p:UPC NL,f:40
+4aef:ffff0000:0840:0600:1:0
+Disney Channel
+p:UPC NL,f:40
+4af0:ffff0000:0840:0600:1:0
+Al Jazeera
+p:UPC NL,C:0000,f:40
+3cf1:ffff0000:083c:0600:1:0
+iTV Games 01 new
+p:UPC NL,f:40
+4af1:ffff0000:0840:0600:1:0
+Disney Junior
+p:UPC NL,C:0000,f:40
+3cf2:ffff0000:083c:0600:1:0
+iTV Games 02 new
+p:UPC NL,f:40
+4af2:ffff0000:0840:0600:1:0
+NDR
+p:UPC NL,C:0000,f:40
+3cf3:ffff0000:083c:0600:1:0
+iTV Games 03 new
+p:UPC NL,f:40
+4bf3:ffff0000:0834:0600:1:0
+Nick Hits
+p:UPC NL,C:0000,f:40
+3cf4:ffff0000:083c:0600:1:0
+iTV Games 04 new
+p:UPC NL,f:40
+4bf4:ffff0000:0834:0600:1:0
+Boomerang
+p:UPC NL,C:0000,f:40
+3cf5:ffff0000:083c:0600:1:0
+iTV Games 05 new
+p:UPC NL,f:40
+3cf6:ffff0000:083c:0600:1:0
+iTV Games 06 new
+p:UPC NL,f:40
+3cf7:ffff0000:083c:0600:1:0
+iTV Games 07 new
+p:UPC NL,f:40
+3cf8:ffff0000:083c:0600:1:0
+iTV Games 08 new
+p:UPC NL,f:40
+3cf9:ffff0000:083c:0600:1:0
+iTV Games 09 new
+p:UPC NL,f:40
+3cfa:ffff0000:083c:0600:1:0
+iTV Games 10 new
+p:UPC NL,f:40
+3cfb:ffff0000:083c:0600:1:0
+iTV Games Portal 2 new
+p:UPC NL,f:40
+3cfc:ffff0000:083c:0600:1:0
+iTV Games Portal 1 new
+p:UPC NL,f:40
+44fd:ffff0000:081a:0600:1:0
+CDT app
+p:UPC NL,f:40
+9efd:ffff0000:081c:0600:1:0
+PPV HZN
+p:UPC NL,f:40
+4705:ffff0000:0840:0600:2:0
+BBC Radio 1
+p:UPC NL,C:0000,f:40
+4706:ffff0000:0840:0600:2:0
+BBC Radio 2
+p:UPC NL,C:0000,f:40
+4707:ffff0000:0840:0600:2:0
+BBC Radio 3
+p:UPC NL,C:0000,f:40
+4708:ffff0000:0840:0600:2:0
+BBC Radio 4
+p:UPC NL,C:0000,f:40
+4709:ffff0000:0840:0600:2:0
+BBC Worldservice
+p:UPC NL,C:0000,f:40
+2719:ffff0000:0065:0600:2:0
+Radio Meborah
+p:UPC NL,f:40
+2b21:ffff0000:0803:0600:2:0
+WDR 1
+p:UPC NL,f:40
+2b22:ffff0000:0803:0600:2:0
+WDR 2
+p:UPC NL,f:40
+2b23:ffff0000:0803:0600:2:0
+WDR 3
+p:UPC NL,f:40
+2b24:ffff0000:0803:0600:2:0
+WDR 4
+p:UPC NL,f:40
+2b25:ffff0000:0803:0600:2:0
+NDR 1
+p:UPC NL,f:40
+2b26:ffff0000:0803:0600:2:0
+NDR 2
+p:UPC NL,f:40
+2b27:ffff0000:0803:0600:2:0
+NDR 3
+p:UPC NL,f:40
+2b28:ffff0000:0803:0600:2:0
+Radio Continu
+p:UPC NL,f:40
+2b29:ffff0000:0803:0600:2:0
+Radio Sunrise
+p:UPC NL,f:40
+272a:ffff0000:0065:0600:2:0
+OPEN Rotterdam
+p:UPC NL,C:0000,f:40
+2b2a:ffff0000:0803:0600:2:0
+FiP
+p:UPC NL,f:40
+272b:ffff0000:0065:0600:2:0
+OPEN Podium 1
+p:UPC NL,C:0000,f:40
+272c:ffff0000:0065:0600:2:0
+OPEN Podium 2
+p:UPC NL,C:0000,f:40
+272d:ffff0000:0065:0600:2:0
+FunX Lokaal
+p:UPC NL,C:0000,f:40
+272e:ffff0000:0065:0600:2:0
+Lokale Omroep Landsmeer
+p:UPC NL,C:0000,f:40
+272f:ffff0000:0065:0600:2:0
+JAMM FM
+p:UPC NL,C:0000,f:40
+2731:ffff0000:0065:0600:2:0
+Radio Vlaardingen
+p:UPC NL,C:0000,f:40
+2732:ffff0000:0065:0600:2:0
+Radio Studio 040
+p:UPC NL,C:0000,f:40
+7532:ffff0000:0065:0600:2:0
+132 SID 0x7532
+p:
+7533:ffff0000:0065:0600:2:0
+132 SID 0x7533
+p:
+2735:ffff0000:0065:0600:2:0
+DrechtstadFM
+p:UPC NL,C:0000,f:40
+2737:ffff0000:0065:0600:2:0
+Radio Hoeksche Waard
+p:UPC NL,C:0000,f:40
+2738:ffff0000:0065:0600:2:0
+RTV. Kanaal 30
+p:UPC NL,C:0000,f:40
+273a:ffff0000:0065:0600:2:0
+Smelne FM
+p:UPC NL,C:0000,f:40
+273b:ffff0000:0065:0600:2:0
+Alkmaar Centraal
+p:UPC NL,C:0000,f:40
+283d:ffff0000:0808:0600:2:0
+Dancefloor Fillers
+p:UPC NL,f:40
+283e:ffff0000:0808:0600:2:0
+Disco Classics
+p:UPC NL,c:0005e5,c:0101f7,c:0305e5,C:1850,C:1801,f:40
+273f:ffff0000:0065:0600:2:0
+LO Veldhoven Radio
+p:UPC NL,C:0000,f:40
+283f:ffff0000:0808:0600:2:0
+Feelgood Music
+p:UPC NL,c:0005e8,c:0101f9,c:0305e8,C:1850,C:1801,f:40
+2840:ffff0000:0808:0600:2:0
+Total Hits - UK
+p:UPC NL,f:40
+2741:ffff0000:0065:0600:2:0
+Radio Voorne
+p:UPC NL,C:0000,f:40
+2841:ffff0000:0808:0600:2:0
+Love songs
+p:UPC NL,f:40
+2842:ffff0000:0808:0600:2:0
+Rock Anthems
+p:UPC NL,f:40
+2843:ffff0000:0808:0600:2:0
+Blues
+p:UPC NL,c:0005f7,c:010201,c:0305f7,C:1850,C:1801,f:40
+2744:ffff0000:0065:0600:2:0
+Lingewaard Lokaal
+p:UPC NL,f:40
+2844:ffff0000:0808:0600:2:0
+Classic R 'n' B & Soul
+p:UPC NL,f:40
+2845:ffff0000:0808:0600:2:0
+Reggae
+p:UPC NL,c:000600,c:010205,c:030600,C:1850,C:1801,f:40
+4845:ffff0000:0837:0600:2:0
+Radio 6
+p:UPC NL,f:40
+2746:ffff0000:0065:0600:2:0
+RTV Stichtse Vecht
+p:UPC NL,C:0000,f:40
+2846:ffff0000:0808:0600:2:0
+Urban
+p:UPC NL,f:40
+2747:ffff0000:0065:0600:2:0
+Haarlem 105
+p:UPC NL,C:0000,f:40
+2847:ffff0000:0808:0600:2:0
+Radio 1
+p:UPC NL,f:40
+2748:ffff0000:0065:0600:2:0
+Haarlem kanaal 2
+p:UPC NL,C:0000,f:40
+2848:ffff0000:0808:0600:2:0
+Radio 2
+p:UPC NL,c:01020d,c:03020d,f:40
+2849:ffff0000:0808:0600:2:0
+3FM
+p:UPC NL,f:40
+274a:ffff0000:0065:0600:2:0
+RTV Almere Radio
+p:UPC NL,C:0000,f:40
+284a:ffff0000:0808:0600:2:0
+Radio 4
+p:UPC NL,f:40
+284b:ffff0000:0808:0600:2:0
+Radio 5
+p:UPC NL,f:40
+274d:ffff0000:0065:0600:2:0
+N1 Radio
+p:UPC NL,f:40
+284d:ffff0000:0808:0600:2:0
+Radio Veronica
+p:UPC NL,c:01076e,c:03076e,f:40
+284e:ffff0000:0808:0600:2:0
+Tweede Kamerlijn
+p:UPC NL,f:40
+274f:ffff0000:0065:0600:2:0
+EDE FM
+p:UPC NL,f:40
+284f:ffff0000:0808:0600:2:0
+Music Choice Promo
+p:UPC NL,c:000604,c:010219,c:030604,C:1850,C:1801,f:40
+2750:ffff0000:0065:0600:2:0
+RTV Arnhem Radio
+p:UPC NL,f:40
+2850:ffff0000:0808:0600:2:0
+Radio Noord
+p:UPC NL,f:40
+2851:ffff0000:0808:0600:2:0
+RTV Drenthe
+p:UPC NL,f:40
+2852:ffff0000:0808:0600:2:0
+Radio Oost
+p:UPC NL,f:40
+2753:ffff0000:0065:0600:2:0
+Omroep Groesbeek
+p:UPC NL,f:40
+2853:ffff0000:0808:0600:2:0
+Radio West
+p:UPC NL,f:40
+2854:ffff0000:0808:0600:2:0
+Omroep Zeeland
+p:UPC NL,f:40
+2755:ffff0000:0065:0600:2:0
+WO-Radio
+p:UPC NL,f:40
+2756:ffff0000:0065:0600:2:0
+WebFM
+p:UPC NL,f:40
+275a:ffff0000:0065:0600:2:0
+Radio Ideaal
+p:UPC NL,f:40
+275c:ffff0000:0065:0600:2:0
+Kerkradio
+p:UPC NL,f:40
+275e:ffff0000:0065:0600:2:0
+Lansingerland FM
+p:UPC NL,C:0000,f:40
+2775:ffff0000:0805:0600:2:0
+Classical Greats
+p:UPC NL,C:0000,f:40
+2776:ffff0000:0805:0600:2:0
+Classical Orchestral
+p:UPC NL,C:0000,f:40
+2777:ffff0000:0805:0600:2:0
+Classical Calm
+p:UPC NL,C:0000,f:40
+2778:ffff0000:0805:0600:2:0
+Country
+p:UPC NL,C:0000,f:40
+2779:ffff0000:0805:0600:2:0
+Hollandse Hits
+p:UPC NL,C:0000,f:40
+277a:ffff0000:0805:0600:2:0
+Chillout
+p:UPC NL,C:0000,f:40
+467a:ffff0000:0807:0600:2:0
+Q Music
+p:UPC NL,c:011394,c:031394,f:40
+277b:ffff0000:0805:0600:2:0
+Bass, Breaks & Beats
+p:UPC NL,C:0000,f:40
+467b:ffff0000:0807:0600:2:0
+Sublime FM
+p:UPC NL,f:40
+277c:ffff0000:0805:0600:2:0
+Kinderliedjes (6-11)
+p:UPC NL,C:0000,f:40
+467c:ffff0000:0807:0600:2:0
+Arrow Classic Rock
+p:UPC NL,c:01139d,c:03139d,f:40
+277d:ffff0000:0805:0600:2:0
+World Carnival
+p:UPC NL,c:000594,c:010205,c:030594,C:0000,f:40
+467d:ffff0000:0807:0600:2:0
+BNR Nieuwsradio
+p:UPC NL,f:40
+277e:ffff0000:0805:0600:2:0
+Schlager
+p:UPC NL,C:0000,f:40
+467e:ffff0000:0807:0600:2:0
+Classic FM
+p:UPC NL,f:40
+277f:ffff0000:0805:0600:2:0
+Hip Hop
+p:UPC NL,C:0000,f:40
+467f:ffff0000:0807:0600:2:0
+Radio Decibel
+p:UPC NL,f:40
+2780:ffff0000:0805:0600:2:0
+Total Hits - Italy
+p:UPC NL,C:0000,f:40
+4680:ffff0000:0807:0600:2:0
+Slam FM
+p:UPC NL,f:40
+2781:ffff0000:0805:0600:2:0
+Peuter & Kleuterliedjes
+p:UPC NL,c:0005a9,c:01020d,c:0305a9,C:0000,f:40
+4681:ffff0000:0807:0600:2:0
+Ujala Radio
+p:UPC NL,f:40
+2782:ffff0000:0805:0600:2:0
+Total Hits - NL
+p:UPC NL,C:0000,f:40
+2783:ffff0000:0805:0600:2:0
+Revival 60s - 70s
+p:UPC NL,C:0000,f:40
+2784:ffff0000:0805:0600:2:0
+Radio 538
+p:UPC NL,f:40
+2785:ffff0000:0805:0600:2:0
+Efteling Radio
+p:UPC NL,c:010215,c:030215,f:40
+2786:ffff0000:0805:0600:2:0
+Radio 10
+p:UPC NL,c:010217,c:030217,f:40
+2788:ffff0000:0805:0600:2:0
+Concertzender
+p:UPC NL,f:40
+1b8a:ffff0000:0065:0600:2:0
+132 SID 0x1b8a
+p:
+47b9:ffff0000:0817:0600:2:0
+VRT 1
+p:UPC NL,f:40
+47ba:ffff0000:0817:0600:2:0
+VRT 2
+p:UPC NL,f:40
+47bb:ffff0000:0817:0600:2:0
+VRT Klara
+p:UPC NL,f:40
+47bc:ffff0000:0817:0600:2:0
+Studio Brussel
+p:UPC NL,f:40
+47bd:ffff0000:0817:0600:2:0
+VRT MNM
+p:UPC NL,f:40
+27d9:ffff0000:0806:0600:2:0
+Jazz Classics
+p:UPC NL,c:0005b5,c:0101f5,c:0305b5,C:0000,f:40
+27da:ffff0000:0806:0600:2:0
+Cool Jazz
+p:UPC NL,c:0005ba,c:0101f7,c:0305ba,C:0000,f:40
+27db:ffff0000:0806:0600:2:0
+Alternative Classics
+p:UPC NL,c:0005bb,c:0101f9,c:0305bb,C:0000,f:40
+27dc:ffff0000:0806:0600:2:0
+Chansons
+p:UPC NL,C:0000,f:40
+27dd:ffff0000:0806:0600:2:0
+All Day Party (NL)
+p:UPC NL,C:0000,f:40
+27de:ffff0000:0806:0600:2:0
+Total Hits - Spain
+p:UPC NL,C:0000,f:40
+27df:ffff0000:0806:0600:2:0
+Rock 'n' Roll
+p:UPC NL,C:0000,f:40
+27e0:ffff0000:0806:0600:2:0
+Hollandse Hits Gold
+p:UPC NL,C:0000,f:40
+27e1:ffff0000:0806:0600:2:0
+Nederpop
+p:UPC NL,C:0000,f:40
+27e2:ffff0000:0806:0600:2:0
+Nederpop Gold
+p:UPC NL,C:0000,f:40
+27e3:ffff0000:0806:0600:2:0
+Rewind 80s - 90s
+p:UPC NL,c:0005d3,c:010209,c:0305d3,C:0000,f:40
+27e4:ffff0000:0806:0600:2:0
+Lounge
+p:UPC NL,c:0005d6,c:01020b,c:0305d6,C:0000,f:40
+27e5:ffff0000:0806:0600:2:0
+Classic Rock
+p:UPC NL,c:0005d9,c:01020d,c:0305d9,C:0000,f:40
+27e6:ffff0000:0806:0600:2:0
+Hard Rock
+p:UPC NL,C:0000,f:40
+27e7:ffff0000:0806:0600:2:0
+Alternative
+p:UPC NL,C:0000,f:40
+27e8:ffff0000:0806:0600:2:0
+Sky Radio
+p:UPC NL,c:01070a,c:03070a,f:40
+27e9:ffff0000:0806:0600:2:0
+FunX
+p:UPC NL,f:40
+46f1:ffff0000:080d:0600:2:0
+100 procent NL
+p:UPC NL,f:40
+46f2:ffff0000:080d:0600:2:0
+Omrop Fryslan
+p:UPC NL,f:40
+46f3:ffff0000:080d:0600:2:0
+Radio Noord-Holland
+p:UPC NL,f:40
+46f4:ffff0000:080d:0600:2:0
+Omroep Gelderland
+p:UPC NL,f:40
+46f5:ffff0000:080d:0600:2:0
+RTV Rijnmond
+p:UPC NL,f:40
+46f6:ffff0000:080d:0600:2:0
+Omroep Brabant Radio
+p:UPC NL,f:40
+46f7:ffff0000:080d:0600:2:0
+L1 Radio
+p:UPC NL,f:40
+46f9:ffff0000:080d:0600:2:0
+Omroep Flevoland
+p:UPC NL,f:40
+46fa:ffff0000:080d:0600:2:0
+Radio M Utrecht
+p:UPC NL,f:40
+46fb:ffff0000:080d:0600:2:0
+Wild FM
+p:UPC NL,f:40
+46fc:ffff0000:080d:0600:2:0
+Radio 8FM
+p:UPC NL,f:40
+7700:ffff0000:0835:0600:25:0
+FOX Sports 3 HD Ere. PPV
+p:UPC NL,f:40
+4b02:ffff0000:080e:0600:25:0
+Eurosport HD
+p:UPC NL,C:0000,f:40
+4b03:ffff0000:080e:0600:25:0
+SBS 6 HD
+p:UPC NL,c:0008fd,c:020964,c:0308fd,c:040961,c:050001,C:0000,f:40
+4c05:ffff0000:0835:0600:25:0
+RTL 4 HD
+p:UPC NL,c:0007d1,c:020899,c:0307d1,c:0407db,c:050001,C:1850,C:1801,f:40
+4c06:ffff0000:0835:0600:25:0
+RTL 5 HD
+p:UPC NL,c:0008fd,c:020961,c:0308fd,c:040907,c:050001,C:1850,C:1801,f:40
+4c08:ffff0000:0835:0600:25:0
+FOX Sports 3 HD Ere.
+p:UPC NL,c:000b55,c:010b5e,c:030b55,c:050001,f:40
+4b15:ffff0000:080f:0600:25:0
+Nat. Geo. HD
+p:UPC NL,c:0007d1,c:0307d1,c:040835,c:050001,C:0000,f:40
+4b16:ffff0000:080f:0600:25:0
+Discovery HD
+p:UPC NL,c:000dad,c:030dad,c:040db6,c:050001,C:0000,f:40
+4e22:ffff0000:0801:0600:25:0
+Animal Planet HD
+p:UPC NL,c:000182,c:030182,c:0407db,c:050001,C:0000,f:40
+4e24:ffff0000:0801:0600:25:0
+FOX Sports 5 HD Ere.
+p:UPC NL,C:0000,f:40
+7726:ffff0000:0837:0600:25:0
+Sport1 Voetbal HD PPV
+p:UPC NL,f:40
+4b2b:ffff0000:0810:0600:25:0
+TLC HD
+p:UPC NL,f:40
+4c2e:ffff0000:0837:0600:25:0
+Sport1 Voetbal HD
+p:UPC NL,c:001389,c:011392,c:031389,c:050001,f:40
+4b30:ffff0000:0810:0600:25:0
+24Kitchen HD
+p:UPC NL,c:001069,c:011072,c:031069,c:050001,C:1850,C:1801,f:40
+4e36:ffff0000:0802:0600:25:0
+BBC 1 HD
+p:UPC NL,C:0000,f:40
+4e38:ffff0000:0802:0600:25:0
+FashionTV HD
+p:UPC NL,C:0000,f:40
+4e3a:ffff0000:0802:0600:25:0
+Film1 Action HD
+p:UPC NL,c:000c81,c:030c81,c:040c8b,c:050001,C:0000,f:40
+4e3b:ffff0000:0802:0600:25:0
+ARD HD
+p:UPC NL,c:000dad,c:020e11,c:030dad,c:040e1a,c:050001,C:0000,f:40
+4e3c:ffff0000:0802:0600:25:0
+ZDF HD
+p:UPC NL,c:000ed9,c:010ee2,c:020faa,c:030ed9,c:050001,C:0000,f:40
+4c41:ffff0000:0838:0600:25:0
+Eurosport 2 HD
+p:UPC NL,f:40
+4b45:ffff0000:0812:0600:25:0
+Nat Geo Wild HD
+p:UPC NL,C:0000,f:40
+4b46:ffff0000:0812:0600:25:0
+Travel Channel HD
+p:UPC NL,C:0000,f:40
+4e49:ffff0000:0803:0600:25:0
+BBC 2 HD
+p:UPC NL,f:40
+4e4a:ffff0000:0803:0600:25:0
+FOXlife HD
+p:UPC NL,c:0008fd,c:010906,c:0308fd,c:050001,f:40
+4a50:ffff0000:0806:0600:25:0
+Net 5 HD
+p:UPC NL,c:000b55,c:020bb9,c:030b55,c:040bc2,c:050001,C:1850,C:1801,f:40
+4b52:ffff0000:0813:0600:25:0
+Shorts TV HD
+p:UPC NL,C:0000,f:40
+4e5d:ffff0000:0804:0600:25:0
+Canvas HD
+p:UPC NL,c:0007d1,c:0107da,c:020835,c:0307d1,c:050001,C:0000,f:40
+4a65:ffff0000:0807:0600:25:0
+Spare TS07
+p:UPC NL,c:000dad,c:030dad,c:040e11,c:050001,C:0000,f:40
+4a66:ffff0000:0807:0600:25:0
+Nickelodeon HD
+p:UPC NL,c:0013ed,c:0113f6,c:0313ed,c:050001,C:0000,f:40
+4c69:ffff0000:083a:0600:25:0
+FOX Sports 2 HD
+p:UPC NL,c:0007d1,c:0107da,c:020835,c:0307d1,c:050001,C:1850,C:1801,f:40
+4c6a:ffff0000:083a:0600:25:0
+FOX Sports 4 HD
+p:UPC NL,f:40
+4c6b:ffff0000:083a:0600:25:0
+FOX HD
+p:UPC NL,c:0008fd,c:0308fd,c:040907,c:050001,C:1850,C:1801,f:40
+7671:ffff0000:0815:0600:25:0
+Sport1 Select HD PPV
+p:UPC NL,C:0000,f:40
+4a79:ffff0000:0808:0600:25:0
+HBO 2 HD
+p:UPC NL,c:00125d,c:03125d,c:0412c1,c:050001,C:1850,C:1801,f:40
+4b79:ffff0000:0815:0600:25:0
+Sport1 Select HD
+p:UPC NL,c:0007d1,c:0107da,c:0307d1,c:050001,C:1850,C:1801,f:40
+4b7c:ffff0000:0815:0600:25:0
+Film1 Comedy & Kids HD
+p:UPC NL,c:000ed9,c:030ed9,c:040ee2,c:050001,C:0000,f:40
+4c91:ffff0000:083c:0600:25:0
+Syfy HD
+p:UPC NL,f:40
+4b93:ffff0000:0816:0600:25:0
+HBO 3 HD
+p:UPC NL,c:000f3d,c:030f3d,c:040ee2,c:050001,C:0000,f:40
+4ba2:ffff0000:0817:0600:25:0
+een HD
+p:UPC NL,c:0008fd,c:010906,c:020961,c:0308fd,c:050001,C:0000,f:40
+4ba3:ffff0000:0817:0600:25:0
+MTV HD
+p:UPC NL,c:000daf,c:010db0,c:030daf,c:050001,C:0000,f:40
+4bb6:ffff0000:0831:0600:25:0
+Film1 Premiere HD
+p:UPC NL,c:000c81,c:030c81,c:040c8b,c:050001,C:0000,f:40
+4cbd:ffff0000:0819:0600:25:0
+Film1 Spotlight HD
+p:UPC NL,c:00125d,c:03125d,c:041267,c:050001,C:0000,f:40
+4ac9:ffff0000:080c:0600:25:0
+E! Entertainment HD
+p:UPC NL,c:00157d,c:011586,c:0215e1,c:03157d,c:050001,c:0915eb0202,C:0000,f:40
+4bc9:ffff0000:0832:0600:25:0
+Nederland 1 HD
+p:UPC NL,c:0007d1,c:020835,c:0307d1,c:040839,c:050001,f:40
+4bca:ffff0000:0832:0600:25:0
+Nederland 2 HD
+p:UPC NL,c:0008fd,c:020961,c:0308fd,c:040963,c:050001,f:40
+4cd1:ffff0000:081a:0600:25:0
+myZen.tv HD
+p:UPC NL,c:000c81,c:010c8a,c:030c81,c:050001,C:0000,f:40
+4cd6:ffff0000:081a:0600:25:0
+UPC Live Horizon portal
+p:UPC NL,f:40
+4bdd:ffff0000:0833:0600:25:0
+Nederland 3 HD
+p:UPC NL,c:0007d1,c:020835,c:0307d1,c:040838,c:050001,c:090000,f:40
+4ade:ffff0000:080d:0600:25:0
+Comedy Central HD
+p:UPC NL,c:000dad,c:010db6,c:030dad,c:050001,C:0000,f:40
+4bde:ffff0000:0833:0600:25:0
+RTL 8 HD
+p:UPC NL,c:0008fd,c:020961,c:0308fd,c:040906,c:050001,C:0000,f:40
+4be0:ffff0000:0833:0600:25:0
+13th Street HD
+p:UPC NL,c:000b55,c:010b5e,c:030b55,c:050001,C:0000,f:40
+76e9:ffff0000:0834:0600:25:0
+FOX Sports 1 HD Ere. PPV
+p:UPC NL,C:0000,f:40
+4aed:ffff0000:0840:0600:25:0
+RTL 7 HD
+p:UPC NL,c:0007d1,c:020836,c:0307d1,c:040835,c:050001,C:1850,C:1801,f:40
+4aee:ffff0000:0840:0600:25:0
+Spare TS14
+p:UPC NL,C:0000,f:40
+4bf1:ffff0000:0834:0600:25:0
+FOX Sports 1 HD Ere.
+p:UPC NL,c:0007d1,c:0107da,c:020835,c:0307d1,c:050001,C:0000,f:40
+4bf2:ffff0000:0834:0600:25:0
+Veronica HD/Disney XD
+p:UPC NL,c:0008fd,c:010906,c:020907,c:0308fd,c:050001,c:0996c0202,C:0000,f:40
+4bf5:ffff0000:0834:0600:25:0
+Kanaal info
+p:UPC NL,C:0000,f:40
+4cf5:ffff0000:081c:0600:25:0
+24Kitchen HD
+p:UPC NL,f:40
+4cf6:ffff0000:081c:0600:25:0
+Film1 Comedy & Kids HD
+p:UPC NL,f:40
+4cf7:ffff0000:081c:0600:25:0
+Dorcel XXX HD (Xotix
+p:UPC NL,c:0015e1,c:0115eb,c:0315e1,c:050001,C:1850,C:1801,f:40
+4cf8:ffff0000:081c:0600:25:0
+HBO HD
+p:UPC NL,c:000b55,c:010b5f,c:030b55,c:050001,C:1850,C:1801,f:40
+4cf9:ffff0000:081c:0600:25:0
+HISTORY HD
+p:UPC NL,f:40
+4cfa:ffff0000:081c:0600:25:0
+Nat Geo Wild HD
+p:UPC NL,f:40
+3f37:ffff0000:0839:0600:193:0
+MH_System_Data_Service
+p:UPC NL,f:40
+40c5:ffff0000:083b:0600:193:0
+MH_System_Data_Service
+p:UPC NL,f:40
+end
+Edited with dreamboxEDIT 6.0.0.1 on 06jul2014 13:41:38
