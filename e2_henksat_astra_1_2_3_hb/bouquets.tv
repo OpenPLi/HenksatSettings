@@ -1,29 +1,30 @@
-#NAME User - bouquets (TV)
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites-hd.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites-sd.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.belgique.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky-germany.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.english.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky-uk.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.german.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.erotic.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.movie.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.telesat.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.suisse-austria.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe01.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.french.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky-italy.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.italian.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.spanish.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.polish.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.greece.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.docu.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sport.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kids.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.news.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.music.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.arabic.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.russian.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.asian.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.allsats.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
+#NAME Bouquets (TV)
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.favourites-hd.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.favourites-sd.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.belgique.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky-germany.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.english.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky-uk.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.german.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.erotic.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.movie.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.telesat.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.suisse-austria.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe01.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.french.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky-italy.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.italian.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.spanish.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.polish.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.greece.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.docu.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sport.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.kids.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.news.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.music.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.arabic.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.russian.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.asian.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.allsats.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.favourites.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.LastScanned.tv
