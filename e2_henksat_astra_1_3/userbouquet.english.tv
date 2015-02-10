@@ -1,0 +1,27 @@
+#NAME Engels pakket
+#SERVICE 1:0:1:2742:402:1:c00000:0:0:0:
+#SERVICE 1:64:1D:0:0:0:0:0:0:0:
+#DESCRIPTION +++subzenders Sky UK+++
+#SERVICE 1:64:1E:0:0:0:0:0:0:0:
+#DESCRIPTION +++FREE TO AIR+++
+#SERVICE 1:64:1F:0:0:0:0:0:0:0:
+#DESCRIPTION +nieuws+
+#SERVICE 1:64:20:0:0:0:0:0:0:0:
+#DESCRIPTION +overig fta+
+#SERVICE 1:64:21:0:0:0:0:0:0:0:
+#DESCRIPTION +++Sky UK documentaire+++
+#SERVICE 1:64:22:0:0:0:0:0:0:0:
+#DESCRIPTION +++Sky UK muziek+++
+#SERVICE 1:64:23:0:0:0:0:0:0:0:
+#DESCRIPTION +++Sky UK nieuws+++
+#SERVICE 1:0:1:1c7a:457:1:c00000:0:0:0:
+#SERVICE 1:64:24:0:0:0:0:0:0:0:
+#DESCRIPTION +++Sky UK sport+++
+#SERVICE 1:64:25:0:0:0:0:0:0:0:
+#DESCRIPTION +++BBC lokaal+++
+#SERVICE 1:64:26:0:0:0:0:0:0:0:
+#DESCRIPTION +++BBC i streams+++
+#SERVICE 1:64:27:0:0:0:0:0:0:0:
+#DESCRIPTION +++Channel 4 en 5 lokaal+++
+#SERVICE 1:64:28:0:0:0:0:0:0:0:
+#DESCRIPTION +++ITV lokaal+++

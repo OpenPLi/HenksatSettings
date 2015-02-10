@@ -1,0 +1,21 @@
+#NAME Sky UK
+#SERVICE 1:64:29:0:0:0:0:0:0:0::-- Sky Movies HD --
+#DESCRIPTION -- Sky Movies HD --
+#SERVICE 1:64:2A:0:0:0:0:0:0:0::-- Sky Movies SD --
+#DESCRIPTION -- Sky Movies SD --
+#SERVICE 1:64:2B:0:0:0:0:0:0:0::-- Sky Sports --
+#DESCRIPTION -- Sky Sports --
+#SERVICE 1:64:2C:0:0:0:0:0:0:0::-- Sky Entertainment --
+#DESCRIPTION -- Sky Entertainment --
+#SERVICE 1:0:1:168A:7E9:2:11A0000:0:0:0::E! Entertainment
+#DESCRIPTION E! Entertainment
+#SERVICE 1:64:2D:0:0:0:0:0:0:0::-- Music Channels --
+#DESCRIPTION -- Music Channels --
+#SERVICE 1:64:2E:0:0:0:0:0:0:0::-------- Documentaries --------
+#DESCRIPTION -------- Documentaries --------
+#SERVICE 1:64:2F:0:0:0:0:0:0:0::-- News Channels --
+#DESCRIPTION -- News Channels --
+#SERVICE 1:64:30:0:0:0:0:0:0:0::-- Kids --
+#DESCRIPTION -- Kids --
+#SERVICE 1:64:31:0:0:0:0:0:0:0::-- Box Office --
+#DESCRIPTION -- Box Office --

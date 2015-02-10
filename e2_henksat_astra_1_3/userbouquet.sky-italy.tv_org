@@ -1,0 +1,23 @@
+#NAME Sky Italy
+#SERVICE 1:64:46:0:0:0:0:0:0:0::---Sky Sport SD---
+#DESCRIPTION ---Sky Sport SD---
+#SERVICE 1:64:47:0:0:0:0:0:0:0::---Sky Sport HD---
+#DESCRIPTION ---Sky Sport HD---
+#SERVICE 1:0:19:1C3E:206C:FBFF:820000:0:0:0::Sky Supercalcio Hd
+#DESCRIPTION Sky Supercalcio Hd
+#SERVICE 1:64:48:0:0:0:0:0:0:0::---Other Sport-----
+#DESCRIPTION ---Other Sport-----
+#SERVICE 1:64:49:0:0:0:0:0:0:0::---News----
+#DESCRIPTION ---News----
+#SERVICE 1:64:4A:0:0:0:0:0:0:0::---SKY Cinema---
+#DESCRIPTION ---SKY Cinema---
+#SERVICE 1:64:4B:0:0:0:0:0:0:0::-------- Documentaries --------
+#DESCRIPTION -------- Documentaries --------
+#SERVICE 1:64:4C:0:0:0:0:0:0:0::----- Lifestile------
+#DESCRIPTION ----- Lifestile------
+#SERVICE 1:64:4D:0:0:0:0:0:0:0::-----Kids-----
+#DESCRIPTION -----Kids-----
+#SERVICE 1:64:4E:0:0:0:0:0:0:0::-----Muziek-----
+#DESCRIPTION -----Muziek-----
+#SERVICE 1:64:4F:0:0:0:0:0:0:0::--SKY Prima Fila--
+#DESCRIPTION --SKY Prima Fila--
