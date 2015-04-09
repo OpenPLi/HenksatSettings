@@ -1,0 +1,7 @@
+#NAME Hongarije
+#SERVICE 1:64:4E:0:0:0:0:0:0:0::+++Hongarije FTA+++
+#DESCRIPTION +++Hongarije FTA+++
+#SERVICE 1:64:4F:0:0:0:0:0:0:0::+++UPC Direct Hungary+++
+#DESCRIPTION +++UPC Direct Hungary+++
+#SERVICE 1:64:50:0:0:0:0:0:0:0::+++ Extra +++
+#DESCRIPTION +++ Extra +++
