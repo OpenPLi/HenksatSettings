@@ -1,5 +1,0 @@
-#NAME Stream België regionaal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:pls%3A//audiostreamen.nl%3A8036/listen.pls:Accent FM
-#DESCRIPTION Accent FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3A//nostalgiewhatafeeling.ice.infomaniak.ch/nostalgiewhatafeeling-128.mp3:Nostalgie Vlaanderen
-#DESCRIPTION Nostalgie Vlaanderen

@@ -1,3 +1,0 @@
-#NAME Stream Jazz radio Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:m3u%3A//streams.greenhost.nl%3A8080/jazz.m3u:Concertzender Jazz
-#DESCRIPTION Concertzender Jazz

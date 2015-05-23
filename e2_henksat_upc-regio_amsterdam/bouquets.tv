@@ -1,9 +1,0 @@
-#NAME Bouquets (TV)
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.UPCNL.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.kinder_kanalen.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.film.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.muziek.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sport.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.turks.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.buitenlands.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.xxx.tv
